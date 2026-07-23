@@ -16,10 +16,9 @@ app.use(express.json());
 
 // ============ НАСТРОЙКА RATE LIMITING ============
 
-// 1. Глобальный лимит - защита от общих атак
 const globalLimiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 минут
-  max: 100, // максимум 100 запросов за 15 минут
+  windowMs: 15 * 60 * 1000,
+  max: 100,
   message: {
     success: false,
     error: 'Слишком много запросов. Попробуйте позже.'
@@ -29,9 +28,8 @@ const globalLimiter = rateLimit({
   skip: (req) => req.ip === '127.0.0.1'
 });
 
-// 2. Строгий лимит для чувствительных эндпоинтов
 const strictLimiter = rateLimit({
-  windowMs: 5 * 60 * 1000, // 5 минут
+  windowMs: 5 * 60 * 1000,
   max: 10,
   message: {
     success: false,
@@ -39,9 +37,8 @@ const strictLimiter = rateLimit({
   }
 });
 
-// 3. Лимит для создания прогнозов
 const predictionLimiter = rateLimit({
-  windowMs: 60 * 60 * 1000, // 1 час
+  windowMs: 60 * 60 * 1000,
   max: 20,
   message: {
     success: false,
@@ -60,7 +57,6 @@ const LOG_LEVELS = {
   SECURITY: 'SECURITY'
 };
 
-// Создаём папку для логов
 if (!fs.existsSync('logs')) {
   fs.mkdirSync('logs');
 }
@@ -74,7 +70,6 @@ function log(level, message, data = null) {
     data: data ? JSON.stringify(data) : null
   };
   
-  // Вывод в консоль с цветом
   const colors = {
     INFO: '\x1b[36m',
     WARN: '\x1b[33m',
@@ -87,7 +82,6 @@ function log(level, message, data = null) {
   const color = colors[level] || '\x1b[0m';
   console.log(`${color}[${timestamp}] ${level}: ${message}\x1b[0m`);
   
-  // Сохраняем логи в файл
   if (level !== LOG_LEVELS.DEBUG) {
     fs.appendFileSync('logs/app.log', JSON.stringify(logEntry) + '\n');
   }
@@ -138,35 +132,15 @@ function loadMatches(filename) {
         match[header] = values[index] || '';
       });
       
-      const dateStr = match['date'] || '';
-      let matchDate = null;
-      try {
-        const parts = dateStr.split(' ');
-        if (parts.length >= 5) {
-          const day = parseInt(parts[1]);
-          const month = parts[2];
-          const year = parseInt(parts[3]);
-          const time = parts[4];
-          
-          const monthMap = {
-            'Jan': 0, 'Feb': 1, 'Mar': 2, 'Apr': 3, 'May': 4, 'Jun': 5,
-            'Jul': 6, 'Aug': 7, 'Sep': 8, 'Oct': 9, 'Nov': 10, 'Dec': 11
-          };
-          const monthNum = monthMap[month];
-          if (monthNum !== undefined) {
-            const [hours, minutes] = time.split(':').map(Number);
-            matchDate = new Date(year, monthNum, day, hours, minutes);
-          }
-        }
-      } catch (e) {
-        matchDate = null;
-      }
-      
-      match['isStarted'] = matchDate ? matchDate < now : false;
+      // Преобразуем строки в числа
+      match['homeScore'] = match['homeScore'] ? parseInt(match['homeScore']) : null;
+      match['awayScore'] = match['awayScore'] ? parseInt(match['awayScore']) : null;
+      match['actualHomeScore'] = match['actualHomeScore'] ? parseInt(match['actualHomeScore']) : null;
+      match['actualAwayScore'] = match['actualAwayScore'] ? parseInt(match['actualAwayScore']) : null;
+      match['isCompleted'] = match['isCompleted'] === 'true';
+      match['isStarted'] = match['isStarted'] === 'true';
       match['id'] = i;
-      match['isCompleted'] = false;
-      match['homeScore'] = null;
-      match['awayScore'] = null;
+      
       matches.push(match);
     }
     return matches;
@@ -195,7 +169,7 @@ log(LOG_LEVELS.INFO, `📊 Test: ${testMatches.length} матчей`);
 let realResultsCache = {};
 let lastFetchTime = null;
 
-// ============ ПОЛУЧЕНИЕ РЕАЛЬНЫХ РЕЗУЛЬТАТОВ ============
+// ============ ПОЛУЧЕНИЕ РЕАЛЬНЫХ РЕЗУЛЬТАТОВ ИЗ API ============
 
 async function getFinishedMatches() {
   try {
@@ -258,49 +232,64 @@ async function getFinishedMatches() {
   }
 }
 
+// ============ ПОЛУЧЕНИЕ РЕЗУЛЬТАТОВ ИЗ CSV ============
+
+function getResultsFromCSV(matches) {
+  const results = {};
+  for (const match of matches) {
+    if (match.isCompleted && match.actualHomeScore !== null && match.actualAwayScore !== null) {
+      const matchId = `${match.home}_${match.away}_${match.date}`;
+      results[matchId] = {
+        home: match.actualHomeScore,
+        away: match.actualAwayScore
+      };
+    }
+  }
+  return results;
+}
+
 // ============ РАСЧЕТ ОЧКОВ ============
 
 function calculatePoints(predictedHome, predictedAway, actualHome, actualAway) {
-  // Проверка на точный счёт (3 очка)
   if (predictedHome === actualHome && predictedAway === actualAway) {
     return 3;
   }
 
-  // Определяем исход матча
   const actualOutcome = actualHome > actualAway ? 'home' : actualHome < actualAway ? 'away' : 'draw';
   const predictedOutcome = predictedHome > predictedAway ? 'home' : predictedHome < predictedAway ? 'away' : 'draw';
 
-  // Если исход не угадан - 0 очков
   if (actualOutcome !== predictedOutcome) {
     return 0;
   }
 
-  // Если ничья - 1 очко (точный счёт уже проверен)
   if (actualOutcome === 'draw') {
     return 1;
   }
 
-  // Для матчей с победителем: проверяем разницу голов
   const actualGoalDiff = Math.abs(actualHome - actualAway);
   const predictedGoalDiff = Math.abs(predictedHome - predictedAway);
 
-  // Если разница голов угадана - 2 очка
   if (actualGoalDiff === predictedGoalDiff) {
     return 2;
   }
 
-  // Иначе 1 очко (только исход угадан)
   return 1;
 }
 
 // ============ ОБНОВЛЕНИЕ СТАТУСА МАТЧЕЙ ============
 
 async function updateMatchStatuses(matches, leagueName) {
-  const realResults = await getFinishedMatches();
+  // Получаем результаты из API
+  const apiResults = await getFinishedMatches();
+  // Получаем результаты из CSV
+  const csvResults = getResultsFromCSV(matches);
+  
+  // Объединяем результаты (CSV имеют приоритет)
+  const allResults = { ...apiResults, ...csvResults };
   
   return matches.map(match => {
     const matchId = `${match.home}_${match.away}_${match.date}`;
-    const result = realResults[matchId];
+    const result = allResults[matchId];
     const isCompleted = result ? true : false;
     
     return {
@@ -325,9 +314,16 @@ async function checkFinishedMatches() {
   try {
     log(LOG_LEVELS.INFO, '🔄 Проверка завершенных матчей...');
     
-    const realResults = await getFinishedMatches();
+    // Получаем результаты из API
+    const apiResults = await getFinishedMatches();
+    // Получаем результаты из всех CSV
+    const allCSVMatches = [...eplMatches, ...laLigaMatches, ...bundesligaMatches, ...serieAMatches, ...ligue1Matches, ...testMatches];
+    const csvResults = getResultsFromCSV(allCSVMatches);
     
-    if (Object.keys(realResults).length === 0) {
+    // Объединяем результаты (CSV имеют приоритет)
+    const allResults = { ...apiResults, ...csvResults };
+    
+    if (Object.keys(allResults).length === 0) {
       log(LOG_LEVELS.WARN, '📭 Нет завершенных матчей');
       return;
     }
@@ -349,8 +345,8 @@ async function checkFinishedMatches() {
       const data = doc.data();
       const matchId = data.matchId;
       
-      if (realResults[matchId]) {
-        const actualScore = realResults[matchId];
+      if (allResults[matchId]) {
+        const actualScore = allResults[matchId];
         const predictedHome = data.homeScore;
         const predictedAway = data.awayScore;
         const actualHome = actualScore.home;
@@ -406,7 +402,7 @@ async function checkFinishedMatches() {
   }
 }
 
-// ============ ЭНДПОИНТЫ МАТЧЕЙ (с лимитами) ============
+// ============ ЭНДПОИНТЫ МАТЧЕЙ ============
 
 app.get('/api/matches/epl', globalLimiter, async (req, res) => {
   try {
@@ -463,7 +459,7 @@ app.get('/api/matches/test', globalLimiter, async (req, res) => {
   }
 });
 
-// ============ ЭНДПОИНТЫ ПРОГНОЗОВ (с лимитами) ============
+// ============ ЭНДПОИНТЫ ПРОГНОЗОВ ============
 
 app.get('/api/predictions/:userId', globalLimiter, async (req, res) => {
   try {
@@ -520,15 +516,6 @@ app.post('/api/predictions', predictionLimiter, async (req, res) => {
       return res.status(400).json({ 
         success: false, 
         error: 'Прогноз для этого матча уже существует' 
-      });
-    }
-    
-    const realResults = await getFinishedMatches();
-    if (realResults[matchId]) {
-      logSecurity(userId, 'Попытка создать прогноз на завершённый матч', { matchId });
-      return res.status(400).json({ 
-        success: false, 
-        error: 'Матч уже завершен, прогнозы не принимаются' 
       });
     }
     
@@ -817,8 +804,6 @@ cron.schedule('*/10 * * * *', () => {
   log(LOG_LEVELS.INFO, '🔄 Обновление кеша результатов...');
   getFinishedMatches();
 });
-
-// ============ ЗАПУСК СЕРВЕРА ============
 
 app.listen(PORT, () => {
   console.log(`\n🚀 Server running on http://localhost:${PORT}`);
