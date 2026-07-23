@@ -105,7 +105,7 @@ function logSecurity(userId, action, details = null) {
 
 let db = null;
 try {
-  const serviceAccount = require('/Users/maximyaroshenko/league_backend/serviceAccountKey.json');
+  const serviceAccount = JSON.parse(process.env.SERVICE_ACCOUNT);
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
   });
