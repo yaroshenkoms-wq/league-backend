@@ -1,2 +1,5 @@
-﻿home,away,date,league,round
-France,England,Sat 18 Jul 2026 23:00,Test,Round 1
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Shelbourne,Nomme Kalju,Thu 23 Jul 2026 20:45,Test,Round 1,false,1,false,,,,
+Partizan,UNA Strassen,Thu 23 Jul 2026 21:00,Test,Round 1,false,2,false,,,,
+Stjarnan,Ilves,Thu 23 Jul 2026 21:00,Test,Round 1,false,3,false,,,,
+Valur,Zrinjski,Thu 23 Jul 2026 21:15,Test,Round 1,false,4,false,,,,
