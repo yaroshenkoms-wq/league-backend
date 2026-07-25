@@ -298,7 +298,8 @@ async function updateMatchStatuses(matches, leagueName) {
       homeScore: result?.home || null,
       awayScore: result?.away || null,
       isStarted: match.isStarted || false,
-      actualScore: result ? `${result.home}:${result.away}` : null
+      // Если есть результат из CSV или API — показываем его
+      actualScore: result ? `${result.home}:${result.away}` : (match.isCompleted ? `${match.homeScore}:${match.awayScore}` : null)
     };
   });
 }
