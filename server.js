@@ -279,27 +279,35 @@ function calculatePoints(predictedHome, predictedAway, actualHome, actualAway) {
 // ============ ОБНОВЛЕНИЕ СТАТУСА МАТЧЕЙ ============
 
 async function updateMatchStatuses(matches, leagueName) {
-  // Получаем результаты из API
   const apiResults = await getFinishedMatches();
-  // Получаем результаты из CSV
   const csvResults = getResultsFromCSV(matches);
-  
-  // Объединяем результаты (CSV имеют приоритет)
   const allResults = { ...apiResults, ...csvResults };
   
   return matches.map(match => {
     const matchId = `${match.home}_${match.away}_${match.date}`;
     const result = allResults[matchId];
-    const isCompleted = result ? true : false;
+    const isCompleted = result ? true : (match.isCompleted === true);
+    
+    // Берём счёт из result, если есть, иначе из CSV
+    let homeScore = result?.home;
+    let awayScore = result?.away;
+    
+    if (homeScore === undefined && match.homeScore !== null) {
+      homeScore = match.homeScore;
+    }
+    if (awayScore === undefined && match.awayScore !== null) {
+      awayScore = match.awayScore;
+    }
+    
+    const hasScore = homeScore !== null && homeScore !== undefined && awayScore !== null && awayScore !== undefined;
     
     return {
       ...match,
       isCompleted: isCompleted,
-      homeScore: result?.home || null,
-      awayScore: result?.away || null,
+      homeScore: homeScore ?? null,
+      awayScore: awayScore ?? null,
       isStarted: match.isStarted || false,
-      // Если есть результат из CSV или API — показываем его
-      actualScore: result ? `${result.home}:${result.away}` : (match.isCompleted ? `${match.homeScore}:${match.awayScore}` : null)
+      actualScore: hasScore ? `${homeScore}:${awayScore}` : null
     };
   });
 }
