@@ -1,9 +1,9 @@
 ﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
-Inter,Monza,Sat 22 Aug 2026 18:30,Serie A,Round 1,true,1,true,2,0,2:0,2,0
-Como,Udinese,Sat 22 Aug 2026 18:30,Serie A,Round 1,true,2,true,1,1,1:1,1,1
-Genoa,Napoli,Sat 22 Aug 2026 20:45,Serie A,Round 1,true,3,true,0,2,0:2,0,2
-Cagliari,Parma,Sat 22 Aug 2026 20:45,Serie A,Round 1,true,4,true,1,0,1:0,1,0
-Frosinone,Juventus,Sun 23 Aug 2026 18:30,Serie A,Round 1,true,5,true,1,3,1:3,1,3
+Inter,Monza,Sat 22 Aug 2026 18:30,Serie A,Round 1
+Como,Udinese,Sat 22 Aug 2026 18:30,Serie A,Round 1
+Genoa,Napoli,Sat 22 Aug 2026 20:45,Serie A,Round 1
+Cagliari,Parma,Sat 22 Aug 2026 20:45,Serie A,Round 1
+Frosinone,Juventus,Sun 23 Aug 2026 18:30,Serie A,Round 1
 Lecce,Venezia,Sun 23 Aug 2026 18:30,Serie A,Round 1
 Atalanta,Sassuolo,Sun 23 Aug 2026 20:45,Serie A,Round 1
 AC Milan,Torino,Sun 23 Aug 2026 20:45,Serie A,Round 1

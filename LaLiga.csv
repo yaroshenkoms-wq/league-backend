@@ -1,9 +1,9 @@
 ﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
-Deportivo Alavés,Getafe CF,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,1,true,1,0,1:0,1,0
-Atlético de Madrid,Málaga CF,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,2,true,2,1,2:1,2,1
-RC Celta,CA Osasuna,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,3,true,0,2,0:2,0,2
-RC Deportivo,Elche CF,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,4,true,3,2,3:2,3,2
-RCD Espanyol de Barcelona,Levante UD,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,5,true,1,1,1:1,1,1
+Deportivo Alavés,Getafe CF,Sun 16 Aug 2026 15:00,La Liga,Round 1
+Atlético de Madrid,Málaga CF,Sun 16 Aug 2026 15:00,La Liga,Round 1
+RC Celta,CA Osasuna,Sun 16 Aug 2026 15:00,La Liga,Round 1
+RC Deportivo,Elche CF,Sun 16 Aug 2026 15:00,La Liga,Round 1
+RCD Espanyol de Barcelona,Levante UD,Sun 16 Aug 2026 15:00,La Liga,Round 1
 FC Barcelona,Athletic Club,Sun 16 Aug 2026 15:00,La Liga,Round 1
 R. Racing Club,Villarreal CF,Sun 16 Aug 2026 15:00,La Liga,Round 1
 Real Madrid,Real Sociedad,Sun 16 Aug 2026 15:00,La Liga,Round 1

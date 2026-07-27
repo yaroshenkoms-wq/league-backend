@@ -1,9 +1,9 @@
 ﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
-Bayern,Stuttgart,Fri 28 Aug 2026 20:30,Bundesliga,Round 1,true,1,true,3,1,3:1,3,1
-Elversberg,Leverkusen,Sat 29 Aug 2026 19:00,Bundesliga,Round 1,true,2,true,0,2,0:2,0,2
-Köln,Hoffenheim,Sat 29 Aug 2026 19:00,Bundesliga,Round 1,true,3,true,2,2,2:2,2,2
-Union Berlin,Eintracht,Sat 29 Aug 2026 19:00,Bundesliga,Round 1,true,4,true,1,0,1:0,1,0
-Mainz,SC Paderborn,Sat 29 Aug 2026 19:00,Bundesliga,Round 1,true,5,true,1,3,1:3,1,3
+Bayern,Stuttgart,Fri 28 Aug 2026 20:30,Bundesliga,Round 1
+Elversberg,Leverkusen,Sat 29 Aug 2026 19:00,Bundesliga,Round 1
+Köln,Hoffenheim,Sat 29 Aug 2026 19:00,Bundesliga,Round 1
+Union Berlin,Eintracht,Sat 29 Aug 2026 19:00,Bundesliga,Round 1
+Mainz,SC Paderborn,Sat 29 Aug 2026 19:00,Bundesliga,Round 1
 Augsburg,Schalke 04,Sat 29 Aug 2026 19:00,Bundesliga,Round 1
 Freiburg,Werder Bremen,Sat 29 Aug 2026 19:00,Bundesliga,Round 1
 Gladbach,RB Leipzig,Sat 29 Aug 2026 19:00,Bundesliga,Round 1
