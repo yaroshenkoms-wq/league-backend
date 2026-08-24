@@ -1,6 +1,6 @@
 home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
 Deportivo Alavés,Getafe CF,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,1,true,3,0,3:0,3,0
-Atlético de Madrid,Málaga CF,Sun 16 Aug 2026 15:00,La Liga,Round 1
+Atlético de Madrid,Málaga CF,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,6,true,2,0,2:0,2,0
 RC Celta,CA Osasuna,Sun 16 Aug 2026 15:00,La Liga,Round 1
 RC Deportivo,Elche CF,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,2,true,1,1,1:1,1,1
 RCD Espanyol de Barcelona,Levante UD,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,3,true,3,0,3:0,3,0
@@ -9,16 +9,16 @@ R. Racing Club,Villarreal CF,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,4,true,2
 Real Madrid,Real Sociedad,Sun 16 Aug 2026 15:00,La Liga,Round 1
 Sevilla FC,Rayo Vallecano,Sun 16 Aug 2026 15:00,La Liga,Round 1,true,5,true,2,1,2:1,2,1
 Valencia CF,Real Betis,Sun 16 Aug 2026 15:00,La Liga,Round 1
-Athletic Club,Sevilla FC,Sun 23 Aug 2026 15:00,La Liga,Round 2
-Atlético de Madrid,Villarreal CF,Sun 23 Aug 2026 15:00,La Liga,Round 2
-Real Betis,Real Sociedad,Sun 23 Aug 2026 15:00,La Liga,Round 2
-Elche CF,FC Barcelona,Sun 23 Aug 2026 15:00,La Liga,Round 2
-RCD Espanyol de Barcelona,Real Madrid,Sun 23 Aug 2026 15:00,La Liga,Round 2
-Getafe CF,R. Racing Club,Sun 23 Aug 2026 15:00,La Liga,Round 2
+Athletic Club,Sevilla FC,Sun 23 Aug 2026 15:00,La Liga,Round 2, true,9,true,1,3,1:3,1,3
+Atlético de Madrid,Villarreal CF,Sun 23 Aug 2026 15:00,La Liga,Round 2, true,12,true,2,2,2:2,2,2
+Real Betis,Real Sociedad,Sun 23 Aug 2026 15:00,La Liga,Round 2, true,8,true,1,0,1:0,1,0
+Elche CF,FC Barcelona,Sun 23 Aug 2026 15:00,La Liga,Round 2, true,14,true,0,5,0:5,0,5
+RCD Espanyol de Barcelona,Real Madrid,Sun 23 Aug 2026 15:00,La Liga,Round 2, true,11,true,1,2,1:2,1,2
+Getafe CF,R. Racing Club,Sun 23 Aug 2026 15:00,La Liga,Round 2, true,13,true,1,0,1:0,1,0
 Málaga CF,RC Deportivo,Sun 23 Aug 2026 15:00,La Liga,Round 2
 CA Osasuna,Levante UD,Sun 23 Aug 2026 15:00,La Liga,Round 2
-Rayo Vallecano,Deportivo Alavés,Sun 23 Aug 2026 15:00,La Liga,Round 2
-Valencia CF,RC Celta,Sun 23 Aug 2026 15:00,La Liga,Round 2
+Rayo Vallecano,Deportivo Alavés,Sun 23 Aug 2026 15:00,La Liga,Round 2,true,10,true,1,1,1:1,1,1
+Valencia CF,RC Celta,Sun 23 Aug 2026 15:00,La Liga,Round 2, true,10,true,0,0,0:0,0,0
 Deportivo Alavés,Villarreal CF,Sun 30 Aug 2026 15:00,La Liga,Round 3
 RC Celta,Athletic Club,Sun 30 Aug 2026 15:00,La Liga,Round 3
 RC Deportivo,Valencia CF,Sun 30 Aug 2026 15:00,La Liga,Round 3
