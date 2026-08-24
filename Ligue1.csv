@@ -1,13 +1,13 @@
 ﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
-Marseille,Strasbourg,Fri 21 Aug 2026 20:45,Ligue 1,Round 1
-Auxerre,Lens,Sat 22 Aug 2026 17:15,Ligue 1,Round 1
-Paris FC,Troyes,Sat 22 Aug 2026 20:45,Ligue 1,Round 1
-Lyon,Toulouse,Sat 22 Aug 2026 20:45,Ligue 1,Round 1
-Lorient,OGC Nice,Sat 22 Aug 2026 20:45,Ligue 1,Round 1
-Brest,Le Mans,Sat 22 Aug 2026 20:45,Ligue 1,Round 1
-Angers,Lille,Sun 23 Aug 2026 15:00,Ligue 1,Round 1
-Le Havre,Monaco,Sun 23 Aug 2026 17:15,Ligue 1,Round 1
-PSG,Rennes,Sun 23 Aug 2026 20:45,Ligue 1,Round 1
+Marseille,Strasbourg,Fri 21 Aug 2026 20:45,Ligue 1,Round 1,true,1,true,4,0,4:0,4,0
+Auxerre,Lens,Sat 22 Aug 2026 17:15,Ligue 1,Round 1,true,2,true,2,5,2:5,2,5
+Paris FC,Troyes,Sat 22 Aug 2026 20:45,Ligue 1,Round 1,true,3,true,0,0,0:0,0,0
+Lyon,Toulouse,Sat 22 Aug 2026 20:45,Ligue 1,Round 1,true,4,true,2,0,2:0,2,0
+Lorient,OGC Nice,Sat 22 Aug 2026 20:45,Ligue 1,Round 1,true,5,true,0,0,0:0,0,0
+Brest,Le Mans,Sat 22 Aug 2026 20:45,Ligue 1,Round 1,true,6,true,2,2,2:2,2,2
+Angers,Lille,Sun 23 Aug 2026 15:00,Ligue 1,Round 1,true,7,true,0,2,0:2,0,2
+Le Havre,Monaco,Sun 23 Aug 2026 17:15,Ligue 1,Round 1,true,8,true,0,1,0:1,0,1
+PSG,Rennes,Sun 23 Aug 2026 20:45,Ligue 1,Round 1,true,9,true,2,2,2:2,2,2
 Lille,PSG,Fri 28 Aug 2026 20:45,Ligue 1,Round 2
 Lens,Strasbourg,Sat 29 Aug 2026 17:15,Ligue 1,Round 2
 Le Havre,Lyon,Sat 29 Aug 2026 20:45,Ligue 1,Round 2
