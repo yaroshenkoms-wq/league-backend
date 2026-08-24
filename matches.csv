@@ -1,13 +1,13 @@
 ﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
-Arsenal,Coventry City,Fri 21 Aug 2026 20:00,EPL,Round 1
-Hull City,Manchester United,Sat 22 Aug 2026 12:30,EPL,Round 1
-Everton,Crystal Palace,Sat 22 Aug 2026 15:00,EPL,Round 1
-Ipswich Town,Sunderland,Sat 22 Aug 2026 15:00,EPL,Round 1
-Nottingham Forest,Leeds United,Sat 22 Aug 2026 15:00,EPL,Round 1
-Brentford,Tottenham Hotspur,Sat 22 Aug 2026 17:30,EPL,Round 1
-Brighton & Hove Albion,Aston Villa,Sun 23 Aug 2026 14:00,EPL,Round 1
-Manchester City,AFC Bournemouth,Sun 23 Aug 2026 14:00,EPL,Round 1
-Newcastle United,Liverpool,Sun 23 Aug 2026 16:30,EPL,Round 1
+Arsenal,Coventry City,Fri 21 Aug 2026 20:00,EPL,Round 1,true,1,true,3,0,3:0,3,0
+Hull City,Manchester United,Sat 22 Aug 2026 12:30,EPL,Round 1,true,2,true,2,0,2:0,2,0
+Everton,Crystal Palace,Sat 22 Aug 2026 15:00,EPL,Round 1,true,5,true,2,0,2:0,2,0
+Ipswich Town,Sunderland,Sat 22 Aug 2026 15:00,EPL,Round 1,true,4,true,2,1,2:1,2,1
+Nottingham Forest,Leeds United,Sat 22 Aug 2026 15:00,EPL,Round 1,true,3,true,0,1,0:1,0,1
+Brentford,Tottenham Hotspur,Sat 22 Aug 2026 17:30,EPL,Round 1,true,6,true,3,0,3:0,3,0
+Brighton & Hove Albion,Aston Villa,Sun 23 Aug 2026 14:00,EPL,Round 1,true,8,true,4,0,4:0,4,0
+Manchester City,AFC Bournemouth,Sun 23 Aug 2026 14:00,EPL,Round 1,true,7,true,2,1,2:1,2,1
+Newcastle United,Liverpool,Sun 23 Aug 2026 16:30,EPL,Round 1,true,9,true,2,2,2:2,2,2
 Fulham,Chelsea,Mon 24 Aug 2026 20:00,EPL,Round 1
 Crystal Palace,Manchester City,Fri 28 Aug 2026 20:00,EPL,Round 2
 Liverpool,Nottingham Forest,Sat 29 Aug 2026 12:30,EPL,Round 2
