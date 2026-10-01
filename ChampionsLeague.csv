@@ -1,0 +1,145 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Club Brugge,Aston Villa,Tue 08 Sep 2026 18:45,Champions League,Round 1,true,1,true,2,3,2:3,2,3
+AEK Athens,LASK,Tue 08 Sep 2026 18:45,Champions League,Round 1,true,2,true,1,0,1:0,1,0
+Real Madrid,Inter,Tue 08 Sep 2026 21:00,Champions League,Round 1,true,3,true,2,1,2:1,2,1
+Dortmund,Villarreal CF,Tue 08 Sep 2026 21:00,Champions League,Round 1,true,4,true,3,2,3:2,3,2
+Porto,Manchester City,Tue 08 Sep 2026 21:00,Champions League,Round 1,true,5,true,0,2,0:2,0,2
+Lille,Real Betis,Tue 08 Sep 2026 21:00,Champions League,Round 1,true,6,true,2,3,2:3,2,3
+FC Barcelona,Feyenoord,Wed 09 Sep 2026 18:45,Champions League,Round 1,true,7,true,5,1,5:1,5,1
+Stuttgart,Viking,Wed 09 Sep 2026 18:45,Champions League,Round 1,true,8,true,3,1,3:1,3,1
+PSG,S. Bratislava,Wed 09 Sep 2026 21:00,Champions League,Round 1,true,9,true,6,1,6:1,6,1
+Liverpool,Atlético de Madrid,Wed 09 Sep 2026 21:00,Champions League,Round 1,true,10,true,2,1,2:1,2,1
+Sporting CP,Galatasaray,Wed 09 Sep 2026 21:00,Champions League,Round 1,true,11,true,3,1,3:1,3,1
+Napoli,Arsenal,Wed 09 Sep 2026 21:00,Champions League,Round 1,true,12,true,0,1,0:1,0,1
+PSV,Shakhtar,Thu 10 Sep 2026 18:45,Champions League,Round 1,true,13,true,1,1,1:1,1,1
+Fenerbahçe,AS Roma,Thu 10 Sep 2026 18:45,Champions League,Round 1,true,14,true,1,1,1:1,1,1
+Bayern,Bodø/Glimt,Thu 10 Sep 2026 21:00,Champions League,Round 1,true,15,true,5,0,5:0,5,0
+Manchester United,Sabah,Thu 10 Sep 2026 21:00,Champions League,Round 1,true,16,true,4,0,4:0,4,0
+Slavia Praha,Lens,Thu 10 Sep 2026 21:00,Champions League,Round 1,true,17,true,2,3,2:3,2,3
+Como,RB Leipzig,Thu 10 Sep 2026 21:00,Champions League,Round 1,true,18,true,4,1,4:1,4,1
+Lens,Sporting CP,Tue 13 Oct 2026 18:45,Champions League,Round 2
+Sabah,Slavia Praha,Tue 13 Oct 2026 18:45,Champions League,Round 2
+Inter,Club Brugge,Tue 13 Oct 2026 21:00,Champions League,Round 2
+Arsenal,Lille,Tue 13 Oct 2026 21:00,Champions League,Round 2
+Atlético de Madrid,Manchester United,Tue 13 Oct 2026 21:00,Champions League,Round 2
+RB Leipzig,PSV,Tue 13 Oct 2026 21:00,Champions League,Round 2
+Villarreal CF,Napoli,Tue 13 Oct 2026 21:00,Champions League,Round 2
+Galatasaray,FC Barcelona,Tue 13 Oct 2026 21:00,Champions League,Round 2
+Viking,Bayern,Tue 13 Oct 2026 21:00,Champions League,Round 2
+Feyenoord,Como,Wed 14 Oct 2026 18:45,Champions League,Round 2
+LASK,Liverpool,Wed 14 Oct 2026 18:45,Champions League,Round 2
+Manchester City,PSG,Wed 14 Oct 2026 21:00,Champions League,Round 2
+AS Roma,Real Madrid,Wed 14 Oct 2026 21:00,Champions League,Round 2
+Aston Villa,Fenerbahçe,Wed 14 Oct 2026 21:00,Champions League,Round 2
+Real Betis,Porto,Wed 14 Oct 2026 21:00,Champions League,Round 2
+Bodø/Glimt,Dortmund,Wed 14 Oct 2026 21:00,Champions League,Round 2
+Shakhtar,AEK Athens,Wed 14 Oct 2026 21:00,Champions League,Round 2
+S. Bratislava,Stuttgart,Wed 14 Oct 2026 21:00,Champions League,Round 2
+Fenerbahçe,Slavia Praha,Tue 20 Oct 2026 18:45,Champions League,Round 3
+Sabah,Dortmund,Tue 20 Oct 2026 18:45,Champions League,Round 3
+PSG,FC Barcelona,Tue 20 Oct 2026 21:00,Champions League,Round 3
+Liverpool,Villarreal CF,Tue 20 Oct 2026 21:00,Champions League,Round 3
+Manchester City,AEK Athens,Tue 20 Oct 2026 21:00,Champions League,Round 3
+AS Roma,S. Bratislava,Tue 20 Oct 2026 21:00,Champions League,Round 3
+Porto,PSV,Tue 20 Oct 2026 21:00,Champions League,Round 3
+Napoli,Bodø/Glimt,Tue 20 Oct 2026 21:00,Champions League,Round 3
+Stuttgart,Atlético de Madrid,Tue 20 Oct 2026 21:00,Champions League,Round 3
+Lille,Galatasaray,Wed 21 Oct 2026 18:45,Champions League,Round 3
+Como,Manchester United,Wed 21 Oct 2026 18:45,Champions League,Round 3
+Bayern,Arsenal,Wed 21 Oct 2026 21:00,Champions League,Round 3
+Real Madrid,RB Leipzig,Wed 21 Oct 2026 21:00,Champions League,Round 3
+Inter,Shakhtar,Wed 21 Oct 2026 21:00,Champions League,Round 3
+Sporting CP,LASK,Wed 21 Oct 2026 21:00,Champions League,Round 3
+Aston Villa,Viking,Wed 21 Oct 2026 21:00,Champions League,Round 3
+Club Brugge,Lens,Wed 21 Oct 2026 21:00,Champions League,Round 3
+Real Betis,Feyenoord,Wed 21 Oct 2026 21:00,Champions League,Round 3
+Shakhtar,Sporting CP,Tue 03 Nov 2026 18:45,Champions League,Round 4
+Galatasaray,Stuttgart,Tue 03 Nov 2026 18:45,Champions League,Round 4
+FC Barcelona,Aston Villa,Tue 03 Nov 2026 21:00,Champions League,Round 4
+Atlético de Madrid,Bayern,Tue 03 Nov 2026 21:00,Champions League,Round 4
+Manchester United,AS Roma,Tue 03 Nov 2026 21:00,Champions League,Round 4
+Feyenoord,Inter,Tue 03 Nov 2026 21:00,Champions League,Round 4
+Bodø/Glimt,Lille,Tue 03 Nov 2026 21:00,Champions League,Round 4
+Villarreal CF,PSG,Tue 03 Nov 2026 21:00,Champions League,Round 4
+LASK,S. Bratislava,Tue 03 Nov 2026 21:00,Champions League,Round 4
+Fenerbahçe,Liverpool,Wed 04 Nov 2026 18:45,Champions League,Round 4
+AEK Athens,Real Madrid,Wed 04 Nov 2026 18:45,Champions League,Round 4
+Dortmund,Real Betis,Wed 04 Nov 2026 21:00,Champions League,Round 4
+Porto,Napoli,Wed 04 Nov 2026 21:00,Champions League,Round 4
+PSV,Club Brugge,Wed 04 Nov 2026 21:00,Champions League,Round 4
+RB Leipzig,Manchester City,Wed 04 Nov 2026 21:00,Champions League,Round 4
+Slavia Praha,Arsenal,Wed 04 Nov 2026 21:00,Champions League,Round 4
+Lens,Como,Wed 04 Nov 2026 21:00,Champions League,Round 4
+Viking,Sabah,Wed 04 Nov 2026 21:00,Champions League,Round 4
+Bodø/Glimt,LASK,Tue 24 Nov 2026 18:45,Champions League,Round 5
+Galatasaray,Aston Villa,Tue 24 Nov 2026 18:45,Champions League,Round 5
+Real Madrid,PSV,Tue 24 Nov 2026 21:00,Champions League,Round 5
+Manchester City,Napoli,Tue 24 Nov 2026 21:00,Champions League,Round 5
+Arsenal,Dortmund,Tue 24 Nov 2026 21:00,Champions League,Round 5
+Feyenoord,Porto,Tue 24 Nov 2026 21:00,Champions League,Round 5
+RB Leipzig,Lens,Tue 24 Nov 2026 21:00,Champions League,Round 5
+S. Bratislava,Real Betis,Tue 24 Nov 2026 21:00,Champions League,Round 5
+Como,AEK Athens,Tue 24 Nov 2026 21:00,Champions League,Round 5
+Slavia Praha,Villarreal CF,Wed 25 Nov 2026 18:45,Champions League,Round 5
+Sabah,FC Barcelona,Wed 25 Nov 2026 18:45,Champions League,Round 5
+PSG,AS Roma,Wed 25 Nov 2026 21:00,Champions League,Round 5
+Inter,Stuttgart,Wed 25 Nov 2026 21:00,Champions League,Round 5
+Atlético de Madrid,Viking,Wed 25 Nov 2026 21:00,Champions League,Round 5
+Sporting CP,Manchester United,Wed 25 Nov 2026 21:00,Champions League,Round 5
+Club Brugge,Liverpool,Wed 25 Nov 2026 21:00,Champions League,Round 5
+Lille,Bayern,Wed 25 Nov 2026 21:00,Champions League,Round 5
+Shakhtar,Fenerbahçe,Wed 25 Nov 2026 21:00,Champions League,Round 5
+Villarreal CF,Sabah,Tue 08 Dec 2026 18:45,Champions League,Round 6
+Viking,Feyenoord,Tue 08 Dec 2026 18:45,Champions League,Round 6
+Bayern,Slavia Praha,Tue 08 Dec 2026 21:00,Champions League,Round 6
+FC Barcelona,Manchester City,Tue 08 Dec 2026 21:00,Champions League,Round 6
+AS Roma,Sporting CP,Tue 08 Dec 2026 21:00,Champions League,Round 6
+Aston Villa,PSG,Tue 08 Dec 2026 21:00,Champions League,Round 6
+Manchester United,RB Leipzig,Tue 08 Dec 2026 21:00,Champions League,Round 6
+Napoli,Club Brugge,Tue 08 Dec 2026 21:00,Champions League,Round 6
+AEK Athens,Galatasaray,Tue 08 Dec 2026 21:00,Champions League,Round 6
+Real Betis,Como,Wed 09 Dec 2026 18:45,Champions League,Round 6
+S. Bratislava,Shakhtar,Wed 09 Dec 2026 18:45,Champions League,Round 6
+Liverpool,Porto,Wed 09 Dec 2026 21:00,Champions League,Round 6
+Arsenal,Real Madrid,Wed 09 Dec 2026 21:00,Champions League,Round 6
+Dortmund,Inter,Wed 09 Dec 2026 21:00,Champions League,Round 6
+PSV,Atlético de Madrid,Wed 09 Dec 2026 21:00,Champions League,Round 6
+Stuttgart,Lille,Wed 09 Dec 2026 21:00,Champions League,Round 6
+LASK,Fenerbahçe,Wed 09 Dec 2026 21:00,Champions League,Round 6
+Lens,Bodø/Glimt,Wed 09 Dec 2026 21:00,Champions League,Round 6
+Bodø/Glimt,Atlético de Madrid,Tue 19 Jan 2027 18:45,Champions League,Round 7
+Galatasaray,Feyenoord,Tue 19 Jan 2027 18:45,Champions League,Round 7
+Real Madrid,LASK,Tue 19 Jan 2027 21:00,Champions League,Round 7
+Inter,Liverpool,Tue 19 Jan 2027 21:00,Champions League,Round 7
+Aston Villa,Dortmund,Tue 19 Jan 2027 21:00,Champions League,Round 7
+Porto,Slavia Praha,Tue 19 Jan 2027 21:00,Champions League,Round 7
+Lille,S. Bratislava,Tue 19 Jan 2027 21:00,Champions League,Round 7
+Stuttgart,Club Brugge,Tue 19 Jan 2027 21:00,Champions League,Round 7
+AEK Athens,AS Roma,Tue 19 Jan 2027 21:00,Champions League,Round 7
+Fenerbahçe,Villarreal CF,Wed 20 Jan 2027 18:45,Champions League,Round 7
+Sabah,Napoli,Wed 20 Jan 2027 18:45,Champions League,Round 7
+Sporting CP,FC Barcelona,Wed 20 Jan 2027 21:00,Champions League,Round 7
+Manchester United,Bayern,Wed 20 Jan 2027 21:00,Champions League,Round 7
+Real Betis,Arsenal,Wed 20 Jan 2027 21:00,Champions League,Round 7
+RB Leipzig,Shakhtar,Wed 20 Jan 2027 21:00,Champions League,Round 7
+Como,PSG,Wed 20 Jan 2027 21:00,Champions League,Round 7
+Lens,Manchester City,Wed 20 Jan 2027 21:00,Champions League,Round 7
+Viking,PSV,Wed 20 Jan 2027 21:00,Champions League,Round 7
+PSG,Galatasaray,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Bayern,Real Betis,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Liverpool,Lens,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Manchester City,Sporting CP,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Arsenal,Sabah,Wed 27 Jan 2027 21:00,Champions League,Round 8
+FC Barcelona,Como,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Atlético de Madrid,Fenerbahçe,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Dortmund,AEK Athens,Wed 27 Jan 2027 21:00,Champions League,Round 8
+AS Roma,Lille,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Club Brugge,Bodø/Glimt,Wed 27 Jan 2027 21:00,Champions League,Round 8
+PSV,Stuttgart,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Feyenoord,RB Leipzig,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Napoli,Viking,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Villarreal CF,Manchester United,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Shakhtar,Real Madrid,Wed 27 Jan 2027 21:00,Champions League,Round 8
+Slavia Praha,Aston Villa,Wed 27 Jan 2027 21:00,Champions League,Round 8
+S. Bratislava,Inter,Wed 27 Jan 2027 21:00,Champions League,Round 8
+LASK,Porto,Wed 27 Jan 2027 21:00,Champions League,Round 8

@@ -1,0 +1,145 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Omonia,RC Celta,Wed 16 Sep 2026 18:45,Europa League,Round 1,true,1,true,1,0,1:0,1,0
+Ararat-Armenia,Sparta Praha,Wed 16 Sep 2026 18:45,Europa League,Round 1,true,2,true,1,4,1:4,1,4
+Leverkusen,Celje,Wed 16 Sep 2026 21:00,Europa League,Round 1,true,3,true,2,0,2:0,2,0
+AC Milan,Benfica,Wed 16 Sep 2026 21:00,Europa League,Round 1,true,4,true,0,2,0:2,0,2
+Olympiacos,Jagiellonia,Wed 16 Sep 2026 21:00,Europa League,Round 1,true,5,true,2,1,2:1,2,1
+Anderlecht,Lyon,Wed 16 Sep 2026 21:00,Europa League,Round 1,true,6,true,1,2,1:2,1,2
+Sturm Graz,Rennes,Wed 16 Sep 2026 21:00,Europa League,Round 1,true,7,true,0,0,0:0,0,0
+Sunderland,AZ Alkmaar,Wed 16 Sep 2026 21:00,Europa League,Round 1,true,8,true,1,0,1:0,1,0
+H. Beer-Sheva,GNK Dinamo,Wed 16 Sep 2026 21:00,Europa League,Round 1,true,9,true,0,0,0:0,0,0
+OFI Crete,Hoffenheim,Thu 17 Sep 2026 18:45,Europa League,Round 1,true,10,true,2,0,2:0,2,0
+Levski Sofia,Salzburg,Thu 17 Sep 2026 18:45,Europa League,Round 1,true,11,true,0,1,0:1,0,1
+Juventus,N.E.C.,Thu 17 Sep 2026 21:00,Europa League,Round 1,true,12,true,5,0,5:0,5,0
+Real Sociedad,AFC Bournemouth,Thu 17 Sep 2026 21:00,Europa League,Round 1,true,13,true,1,2,1:2,1,2
+Viktoria Plzen,Union SG,Thu 17 Sep 2026 21:00,Europa League,Round 1,true,14,true,0,3,0:3,0,3
+Celtic,Ferencváros,Thu 17 Sep 2026 21:00,Europa League,Round 1,true,15,true,1,3,1:3,1,3
+Crystal Palace,Lech Poznan,Thu 17 Sep 2026 21:00,Europa League,Round 1,true,16,true,4,0,4:0,4,0
+Besiktas,Marseille,Thu 17 Sep 2026 21:00,Europa League,Round 1,true,17,true,4,1,4:1,4,1
+Lillestrøm,Torreense,Thu 17 Sep 2026 21:00,Europa League,Round 1,true,18,true,1,2,1:2,1,2
+Lyon,Crystal Palace,Thu 15 Oct 2026 18:45,Europa League,Round 2
+AZ Alkmaar,H. Beer-Sheva,Thu 15 Oct 2026 18:45,Europa League,Round 2
+Union SG,Real Sociedad,Thu 15 Oct 2026 18:45,Europa League,Round 2
+Salzburg,AC Milan,Thu 15 Oct 2026 18:45,Europa League,Round 2
+Sparta Praha,Lillestrøm,Thu 15 Oct 2026 18:45,Europa League,Round 2
+Lech Poznan,Leverkusen,Thu 15 Oct 2026 18:45,Europa League,Round 2
+Celje,Omonia,Thu 15 Oct 2026 18:45,Europa League,Round 2
+Torreense,Sunderland,Thu 15 Oct 2026 18:45,Europa League,Round 2
+Benfica,Celtic,Thu 15 Oct 2026 21:00,Europa League,Round 2
+Marseille,Olympiacos,Thu 15 Oct 2026 21:00,Europa League,Round 2
+Ferencváros,Viktoria Plzen,Thu 15 Oct 2026 21:00,Europa League,Round 2
+GNK Dinamo,Anderlecht,Thu 15 Oct 2026 21:00,Europa League,Round 2
+Rennes,OFI Crete,Thu 15 Oct 2026 21:00,Europa League,Round 2
+AFC Bournemouth,Sturm Graz,Thu 15 Oct 2026 21:00,Europa League,Round 2
+Jagiellonia,Ararat-Armenia,Thu 15 Oct 2026 21:00,Europa League,Round 2
+RC Celta,Juventus,Thu 15 Oct 2026 21:00,Europa League,Round 2
+Hoffenheim,Besiktas,Thu 15 Oct 2026 21:00,Europa League,Round 2
+N.E.C.,Levski Sofia,Thu 15 Oct 2026 21:00,Europa League,Round 2
+Juventus,Rennes,Thu 22 Oct 2026 18:45,Europa League,Round 3
+Ferencváros,Torreense,Thu 22 Oct 2026 18:45,Europa League,Round 3
+Union SG,H. Beer-Sheva,Thu 22 Oct 2026 18:45,Europa League,Round 3
+GNK Dinamo,N.E.C.,Thu 22 Oct 2026 18:45,Europa League,Round 3
+Sturm Graz,Marseille,Thu 22 Oct 2026 18:45,Europa League,Round 3
+Lech Poznan,Sunderland,Thu 22 Oct 2026 18:45,Europa League,Round 3
+OFI Crete,Leverkusen,Thu 22 Oct 2026 18:45,Europa League,Round 3
+Ararat-Armenia,AZ Alkmaar,Thu 22 Oct 2026 18:45,Europa League,Round 3
+Olympiacos,Sparta Praha,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Viktoria Plzen,Levski Sofia,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Celtic,RC Celta,Thu 22 Oct 2026 21:00,Europa League,Round 3
+AFC Bournemouth,AC Milan,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Celje,Salzburg,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Jagiellonia,Anderlecht,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Omonia,Benfica,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Hoffenheim,Lyon,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Besiktas,Crystal Palace,Thu 22 Oct 2026 21:00,Europa League,Round 3
+Lillestrøm,Real Sociedad,Thu 22 Oct 2026 21:00,Europa League,Round 3
+AC Milan,Ferencváros,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Real Sociedad,Lyon,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Sparta Praha,AFC Bournemouth,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Rennes,Olympiacos,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Anderlecht,Salzburg,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Crystal Palace,Hoffenheim,Thu 05 Nov 2026 18:45,Europa League,Round 4
+N.E.C.,Omonia,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Lillestrøm,Viktoria Plzen,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Levski Sofia,Jagiellonia,Thu 05 Nov 2026 18:45,Europa League,Round 4
+Leverkusen,Marseille,Thu 05 Nov 2026 21:00,Europa League,Round 4
+Benfica,Lech Poznan,Thu 05 Nov 2026 21:00,Europa League,Round 4
+AZ Alkmaar,Juventus,Thu 05 Nov 2026 21:00,Europa League,Round 4
+Celtic,Besiktas,Thu 05 Nov 2026 21:00,Europa League,Round 4
+Sturm Graz,Celje,Thu 05 Nov 2026 21:00,Europa League,Round 4
+Sunderland,GNK Dinamo,Thu 05 Nov 2026 21:00,Europa League,Round 4
+RC Celta,Union SG,Thu 05 Nov 2026 21:00,Europa League,Round 4
+Torreense,Ararat-Armenia,Thu 05 Nov 2026 21:00,Europa League,Round 4
+H. Beer-Sheva,OFI Crete,Thu 05 Nov 2026 21:00,Europa League,Round 4
+Olympiacos,AC Milan,Thu 26 Nov 2026 18:45,Europa League,Round 5
+Marseille,Levski Sofia,Thu 26 Nov 2026 18:45,Europa League,Round 5
+Viktoria Plzen,Benfica,Thu 26 Nov 2026 18:45,Europa League,Round 5
+Union SG,Lech Poznan,Thu 26 Nov 2026 18:45,Europa League,Round 5
+GNK Dinamo,Leverkusen,Thu 26 Nov 2026 18:45,Europa League,Round 5
+Salzburg,Ararat-Armenia,Thu 26 Nov 2026 18:45,Europa League,Round 5
+RC Celta,AFC Bournemouth,Thu 26 Nov 2026 18:45,Europa League,Round 5
+Besiktas,H. Beer-Sheva,Thu 26 Nov 2026 18:45,Europa League,Round 5
+Juventus,Omonia,Thu 26 Nov 2026 21:00,Europa League,Round 5
+Lyon,Lillestrøm,Thu 26 Nov 2026 21:00,Europa League,Round 5
+Ferencváros,Celje,Thu 26 Nov 2026 21:00,Europa League,Round 5
+Sparta Praha,AZ Alkmaar,Thu 26 Nov 2026 21:00,Europa League,Round 5
+Crystal Palace,Real Sociedad,Thu 26 Nov 2026 21:00,Europa League,Round 5
+Sunderland,Jagiellonia,Thu 26 Nov 2026 21:00,Europa League,Round 5
+Hoffenheim,Sturm Graz,Thu 26 Nov 2026 21:00,Europa League,Round 5
+Torreense,Celtic,Thu 26 Nov 2026 21:00,Europa League,Round 5
+N.E.C.,Rennes,Thu 26 Nov 2026 21:00,Europa League,Round 5
+OFI Crete,Anderlecht,Thu 26 Nov 2026 21:00,Europa League,Round 5
+AZ Alkmaar,Sturm Graz,Thu 10 Dec 2026 18:45,Europa League,Round 6
+Marseille,RC Celta,Thu 10 Dec 2026 18:45,Europa League,Round 6
+Rennes,GNK Dinamo,Thu 10 Dec 2026 18:45,Europa League,Round 6
+Anderlecht,Hoffenheim,Thu 10 Dec 2026 18:45,Europa League,Round 6
+Jagiellonia,Crystal Palace,Thu 10 Dec 2026 18:45,Europa League,Round 6
+Omonia,Celtic,Thu 10 Dec 2026 18:45,Europa League,Round 6
+H. Beer-Sheva,Juventus,Thu 10 Dec 2026 18:45,Europa League,Round 6
+Ararat-Armenia,N.E.C.,Thu 10 Dec 2026 18:45,Europa League,Round 6
+Leverkusen,Besiktas,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Benfica,OFI Crete,Thu 10 Dec 2026 21:00,Europa League,Round 6
+AC Milan,Sunderland,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Lyon,Union SG,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Real Sociedad,Torreense,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Salzburg,Sparta Praha,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Lech Poznan,Ferencváros,Thu 10 Dec 2026 21:00,Europa League,Round 6
+AFC Bournemouth,Viktoria Plzen,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Celje,Olympiacos,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Levski Sofia,Lillestrøm,Thu 10 Dec 2026 21:00,Europa League,Round 6
+Olympiacos,Hoffenheim,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Real Sociedad,Viktoria Plzen,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Ferencváros,Juventus,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Sturm Graz,OFI Crete,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Jagiellonia,Lyon,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Besiktas,Union SG,Thu 21 Jan 2027 18:45,Europa League,Round 7
+N.E.C.,Benfica,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Lillestrøm,AFC Bournemouth,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Ararat-Armenia,Celje,Thu 21 Jan 2027 18:45,Europa League,Round 7
+Leverkusen,Salzburg,Thu 21 Jan 2027 21:00,Europa League,Round 7
+AZ Alkmaar,GNK Dinamo,Thu 21 Jan 2027 21:00,Europa League,Round 7
+Celtic,Marseille,Thu 21 Jan 2027 21:00,Europa League,Round 7
+Rennes,Omonia,Thu 21 Jan 2027 21:00,Europa League,Round 7
+Anderlecht,Sunderland,Thu 21 Jan 2027 21:00,Europa League,Round 7
+Lech Poznan,Torreense,Thu 21 Jan 2027 21:00,Europa League,Round 7
+Crystal Palace,Sparta Praha,Thu 21 Jan 2027 21:00,Europa League,Round 7
+H. Beer-Sheva,RC Celta,Thu 21 Jan 2027 21:00,Europa League,Round 7
+Levski Sofia,AC Milan,Thu 21 Jan 2027 21:00,Europa League,Round 7
+Benfica,AZ Alkmaar,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Juventus,Real Sociedad,Thu 28 Jan 2027 21:00,Europa League,Round 8
+AC Milan,Ararat-Armenia,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Lyon,Leverkusen,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Marseille,Anderlecht,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Viktoria Plzen,Jagiellonia,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Union SG,Celtic,Thu 28 Jan 2027 21:00,Europa League,Round 8
+GNK Dinamo,Sturm Graz,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Salzburg,Crystal Palace,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Sparta Praha,Rennes,Thu 28 Jan 2027 21:00,Europa League,Round 8
+AFC Bournemouth,H. Beer-Sheva,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Sunderland,Levski Sofia,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Celje,N.E.C.,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Omonia,Besiktas,Thu 28 Jan 2027 21:00,Europa League,Round 8
+RC Celta,Lillestrøm,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Hoffenheim,Ferencváros,Thu 28 Jan 2027 21:00,Europa League,Round 8
+Torreense,Olympiacos,Thu 28 Jan 2027 21:00,Europa League,Round 8
+OFI Crete,Lech Poznan,Thu 28 Jan 2027 21:00,Europa League,Round 8

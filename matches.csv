@@ -1,124 +1,124 @@
 ﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
-Arsenal,Coventry City,Fri 21 Aug 2026 20:00,EPL,Round 1
-Hull City,Manchester United,Sat 22 Aug 2026 12:30,EPL,Round 1
-Everton,Crystal Palace,Sat 22 Aug 2026 15:00,EPL,Round 1
-Ipswich Town,Sunderland,Sat 22 Aug 2026 15:00,EPL,Round 1
-Nottingham Forest,Leeds United,Sat 22 Aug 2026 15:00,EPL,Round 1
-Brentford,Tottenham Hotspur,Sat 22 Aug 2026 17:30,EPL,Round 1
-Brighton & Hove Albion,Aston Villa,Sun 23 Aug 2026 14:00,EPL,Round 1
-Manchester City,AFC Bournemouth,Sun 23 Aug 2026 14:00,EPL,Round 1
-Newcastle United,Liverpool,Sun 23 Aug 2026 16:30,EPL,Round 1
-Fulham,Chelsea,Mon 24 Aug 2026 20:00,EPL,Round 1
-Crystal Palace,Manchester City,Fri 28 Aug 2026 20:00,EPL,Round 2
-Liverpool,Nottingham Forest,Sat 29 Aug 2026 12:30,EPL,Round 2
-AFC Bournemouth,Everton,Sat 29 Aug 2026 15:00,EPL,Round 2
-Coventry City,Hull City,Sat 29 Aug 2026 15:00,EPL,Round 2
-Tottenham Hotspur,Newcastle United,Sat 29 Aug 2026 17:30,EPL,Round 2
-Chelsea,Brighton & Hove Albion,Sun 30 Aug 2026 14:00,EPL,Round 2
-Leeds United,Brentford,Sun 30 Aug 2026 14:00,EPL,Round 2
-Sunderland,Fulham,Sun 30 Aug 2026 14:00,EPL,Round 2
-Manchester United,Ipswich Town,Sun 30 Aug 2026 16:30,EPL,Round 2
-Aston Villa,Arsenal,Mon 31 Aug 2026 20:00,EPL,Round 2
-Ipswich Town,Liverpool,Fri 04 Sep 2026 20:00,EPL,Round 3
-Newcastle United,AFC Bournemouth,Sat 05 Sep 2026 12:30,EPL,Round 3
-Brentford,Sunderland,Sat 05 Sep 2026 15:00,EPL,Round 3
-Brighton & Hove Albion,Leeds United,Sat 05 Sep 2026 15:00,EPL,Round 3
-Fulham,Crystal Palace,Sat 05 Sep 2026 15:00,EPL,Round 3
-Manchester City,Coventry City,Sat 05 Sep 2026 15:00,EPL,Round 3
-Nottingham Forest,Tottenham Hotspur,Sat 05 Sep 2026 15:00,EPL,Round 3
-Hull City,Aston Villa,Sat 05 Sep 2026 17:30,EPL,Round 3
-Everton,Manchester United,Sun 06 Sep 2026 14:00,EPL,Round 3
-Arsenal,Chelsea,Sun 06 Sep 2026 16:30,EPL,Round 3
-AFC Bournemouth,Brentford,Sat 12 Sep 2026 15:00,EPL,Round 4
-Aston Villa,Nottingham Forest,Sat 12 Sep 2026 15:00,EPL,Round 4
-Chelsea,Hull City,Sat 12 Sep 2026 15:00,EPL,Round 4
-Crystal Palace,Ipswich Town,Sat 12 Sep 2026 15:00,EPL,Round 4
-Liverpool,Fulham,Sat 12 Sep 2026 15:00,EPL,Round 4
-Tottenham Hotspur,Everton,Sat 12 Sep 2026 17:30,EPL,Round 4
-Sunderland,Arsenal,Sat 12 Sep 2026 20:00,EPL,Round 4
-Coventry City,Brighton & Hove Albion,Sun 13 Sep 2026 14:00,EPL,Round 4
-Manchester United,Manchester City,Sun 13 Sep 2026 16:30,EPL,Round 4
-Leeds United,Newcastle United,Mon 14 Sep 2026 20:00,EPL,Round 4
-Brentford,Chelsea,Fri 18 Sep 2026 20:00,EPL,Round 5
-Tottenham Hotspur,Aston Villa,Sat 19 Sep 2026 12:30,EPL,Round 5
-Brighton & Hove Albion,Arsenal,Sat 19 Sep 2026 15:00,EPL,Round 5
-Everton,Ipswich Town,Sat 19 Sep 2026 15:00,EPL,Round 5
-Leeds United,Crystal Palace,Sat 19 Sep 2026 15:00,EPL,Round 5
-Manchester City,Sunderland,Sat 19 Sep 2026 15:00,EPL,Round 5
-Newcastle United,Hull City,Sat 19 Sep 2026 15:00,EPL,Round 5
-Nottingham Forest,Coventry City,Sat 19 Sep 2026 17:30,EPL,Round 5
-AFC Bournemouth,Liverpool,Sun 20 Sep 2026 14:00,EPL,Round 5
-Fulham,Manchester United,Sun 20 Sep 2026 16:30,EPL,Round 5
-Arsenal,Leeds United,Sat 10 Oct 2026 15:00,EPL,Round 6
+Arsenal,Coventry City,Fri 21 Aug 2026 20:00,EPL,Round 1,true,1,true,3,0,3:0,3,0
+Hull City,Manchester United,Sat 22 Aug 2026 12:30,EPL,Round 1,true,2,true,2,0,2:0,2,0
+Everton,Crystal Palace,Sat 22 Aug 2026 15:00,EPL,Round 1,true,3,true,2,0,2:0,2,0
+Ipswich Town,Sunderland,Sat 22 Aug 2026 15:00,EPL,Round 1,true,4,true,2,1,2:1,2,1
+Nottingham Forest,Leeds United,Sat 22 Aug 2026 15:00,EPL,Round 1,true,5,true,0,1,0:1,0,1
+Brentford,Tottenham Hotspur,Sat 22 Aug 2026 17:30,EPL,Round 1,true,6,true,3,0,3:0,3,0
+Brighton & Hove Albion,Aston Villa,Sun 23 Aug 2026 14:00,EPL,Round 1,true,7,true,4,0,4:0,4,0
+Manchester City,AFC Bournemouth,Sun 23 Aug 2026 14:00,EPL,Round 1,true,8,true,2,1,2:1,2,1
+Newcastle United,Liverpool,Sun 23 Aug 2026 16:30,EPL,Round 1,true,9,true,2,2,2:2,2,2
+Fulham,Chelsea,Mon 24 Aug 2026 20:00,EPL,Round 1,true,10,true,2,3,2:3,2,3
+Crystal Palace,Manchester City,Fri 28 Aug 2026 20:00,EPL,Round 2,true,11,true,1,4,1:4,1,4
+Liverpool,Nottingham Forest,Sat 29 Aug 2026 12:30,EPL,Round 2,true,12,true,2,2,2:2,2,2
+AFC Bournemouth,Everton,Sat 29 Aug 2026 15:00,EPL,Round 2,true,13,true,1,1,1:1,1,1
+Coventry City,Hull City,Sat 29 Aug 2026 15:00,EPL,Round 2,true,14,true,0,1,0:1,0,1
+Tottenham Hotspur,Newcastle United,Sat 29 Aug 2026 17:30,EPL,Round 2,true,15,true,0,2,0:2,0,2
+Chelsea,Brighton & Hove Albion,Sun 30 Aug 2026 14:00,EPL,Round 2,true,16,true,4,3,4:3,4,3
+Leeds United,Brentford,Sun 30 Aug 2026 14:00,EPL,Round 2,true,17,true,1,1,1:1,1,1
+Sunderland,Fulham,Sun 30 Aug 2026 14:00,EPL,Round 2,true,18,true,1,0,1:0,1,0
+Manchester United,Ipswich Town,Sun 30 Aug 2026 16:30,EPL,Round 2,true,19,true,5,2,5:2,5,2
+Aston Villa,Arsenal,Mon 31 Aug 2026 20:00,EPL,Round 2,true,20,true,0,1,0:1,0,1
+Ipswich Town,Liverpool,Fri 04 Sep 2026 20:00,EPL,Round 3,true,21,true,0,2,0:2,0,2
+Newcastle United,AFC Bournemouth,Sat 05 Sep 2026 12:30,EPL,Round 3,true,22,true,2,2,2:2,2,2
+Brentford,Sunderland,Sat 05 Sep 2026 15:00,EPL,Round 3,true,23,true,1,1,1:1,1,1
+Brighton & Hove Albion,Leeds United,Sat 05 Sep 2026 15:00,EPL,Round 3,true,24,true,1,1,1:1,1,1
+Fulham,Crystal Palace,Sat 05 Sep 2026 15:00,EPL,Round 3,true,25,true,2,3,2:3,2,3
+Manchester City,Coventry City,Sat 05 Sep 2026 15:00,EPL,Round 3,true,26,true,1,0,1:0,1,0
+Nottingham Forest,Tottenham Hotspur,Sat 05 Sep 2026 15:00,EPL,Round 3,true,27,true,0,0,0:0,0,0
+Hull City,Aston Villa,Sat 05 Sep 2026 17:30,EPL,Round 3,true,28,true,0,0,0:0,0,0
+Everton,Manchester United,Sun 06 Sep 2026 14:00,EPL,Round 3,true,29,true,2,2,2:2,2,2
+Arsenal,Chelsea,Sun 06 Sep 2026 16:30,EPL,Round 3,true,30,true,2,1,2:1,2,1
+AFC Bournemouth,Brentford,Sat 12 Sep 2026 15:00,EPL,Round 4,true,31,true,2,2,2:2,2,2
+Aston Villa,Nottingham Forest,Sat 12 Sep 2026 15:00,EPL,Round 4,true,32,true,1,2,1:2,1,2
+Chelsea,Hull City,Sat 12 Sep 2026 15:00,EPL,Round 4,true,33,true,2,2,2:2,2,2
+Crystal Palace,Ipswich Town,Sat 12 Sep 2026 15:00,EPL,Round 4,true,34,true,2,3,2:3,2,3
+Liverpool,Fulham,Sat 12 Sep 2026 15:00,EPL,Round 4,true,35,true,0,0,0:0,0,0
+Tottenham Hotspur,Everton,Sat 12 Sep 2026 17:30,EPL,Round 4,true,36,true,0,0,0:0,0,0
+Sunderland,Arsenal,Sat 12 Sep 2026 20:00,EPL,Round 4,true,37,true,0,2,0:2,0,2
+Coventry City,Brighton & Hove Albion,Sun 13 Sep 2026 14:00,EPL,Round 4,true,38,true,0,5,0:5,0,5
+Manchester United,Manchester City,Sun 13 Sep 2026 16:30,EPL,Round 4,true,39,true,0,1,0:1,0,1
+Leeds United,Newcastle United,Mon 14 Sep 2026 20:00,EPL,Round 4,true,40,true,4,1,4:1,4,1
+Brentford,Chelsea,Fri 18 Sep 2026 20:00,EPL,Round 5,true,41,true,3,0,3:0,3,0
+Tottenham Hotspur,Aston Villa,Sat 19 Sep 2026 12:30,EPL,Round 5,true,42,true,2,3,2:3,2,3
+Brighton & Hove Albion,Arsenal,Sat 19 Sep 2026 15:00,EPL,Round 5,true,43,true,3,0,3:0,3,0
+Everton,Ipswich Town,Sat 19 Sep 2026 15:00,EPL,Round 5,true,44,true,1,0,1:0,1,0
+Newcastle United,Hull City,Sat 19 Sep 2026 15:00,EPL,Round 5,true,45,true,2,1,2:1,2,1
+Nottingham Forest,Coventry City,Sat 19 Sep 2026 17:30,EPL,Round 5,true,46,true,0,1,0:1,0,1
+AFC Bournemouth,Liverpool,Sun 20 Sep 2026 14:00,EPL,Round 5,true,47,true,0,1,0:1,0,1
+Leeds United,Crystal Palace,Sun 20 Sep 2026 14:00,EPL,Round 5,true,48,true,0,0,0:0,0,0
+Manchester City,Sunderland,Sun 20 Sep 2026 14:00,EPL,Round 5,true,49,true,5,3,5:3,5,3
+Fulham,Manchester United,Sun 20 Sep 2026 16:30,EPL,Round 5,true,50,true,1,1,1:1,1,1
+Arsenal,Leeds United,Sat 10 Oct 2026 12:30,EPL,Round 6
 Aston Villa,Brentford,Sat 10 Oct 2026 15:00,EPL,Round 6
 Chelsea,AFC Bournemouth,Sat 10 Oct 2026 15:00,EPL,Round 6
-Coventry City,Newcastle United,Sat 10 Oct 2026 15:00,EPL,Round 6
-Crystal Palace,Nottingham Forest,Sat 10 Oct 2026 15:00,EPL,Round 6
-Hull City,Everton,Sat 10 Oct 2026 15:00,EPL,Round 6
 Ipswich Town,Fulham,Sat 10 Oct 2026 15:00,EPL,Round 6
-Liverpool,Manchester City,Sat 10 Oct 2026 15:00,EPL,Round 6
-Manchester United,Tottenham Hotspur,Sat 10 Oct 2026 15:00,EPL,Round 6
 Sunderland,Brighton & Hove Albion,Sat 10 Oct 2026 15:00,EPL,Round 6
-AFC Bournemouth,Sunderland,Sat 17 Oct 2026 15:00,EPL,Round 7
+Manchester United,Tottenham Hotspur,Sat 10 Oct 2026 17:30,EPL,Round 6
+Crystal Palace,Nottingham Forest,Sun 11 Oct 2026 14:00,EPL,Round 6
+Hull City,Everton,Sun 11 Oct 2026 14:00,EPL,Round 6
+Liverpool,Manchester City,Sun 11 Oct 2026 16:30,EPL,Round 6
+Coventry City,Newcastle United,Mon 12 Oct 2026 20:00,EPL,Round 6
+Everton,Chelsea,Sat 17 Oct 2026 12:30,EPL,Round 7
 Brentford,Liverpool,Sat 17 Oct 2026 15:00,EPL,Round 7
-Brighton & Hove Albion,Crystal Palace,Sat 17 Oct 2026 15:00,EPL,Round 7
-Everton,Chelsea,Sat 17 Oct 2026 15:00,EPL,Round 7
 Fulham,Hull City,Sat 17 Oct 2026 15:00,EPL,Round 7
-Leeds United,Manchester United,Sat 17 Oct 2026 15:00,EPL,Round 7
 Manchester City,Ipswich Town,Sat 17 Oct 2026 15:00,EPL,Round 7
-Newcastle United,Aston Villa,Sat 17 Oct 2026 15:00,EPL,Round 7
-Nottingham Forest,Arsenal,Sat 17 Oct 2026 15:00,EPL,Round 7
-Tottenham Hotspur,Coventry City,Sat 17 Oct 2026 15:00,EPL,Round 7
+Newcastle United,Aston Villa,Sat 17 Oct 2026 17:30,EPL,Round 7
+AFC Bournemouth,Sunderland,Sun 18 Oct 2026 14:00,EPL,Round 7
+Brighton & Hove Albion,Crystal Palace,Sun 18 Oct 2026 14:00,EPL,Round 7
+Leeds United,Manchester United,Sun 18 Oct 2026 14:00,EPL,Round 7
+Nottingham Forest,Arsenal,Sun 18 Oct 2026 16:30,EPL,Round 7
+Tottenham Hotspur,Coventry City,Mon 19 Oct 2026 20:00,EPL,Round 7
+Ipswich Town,Nottingham Forest,Fri 23 Oct 2026 20:00,EPL,Round 8
+Aston Villa,Manchester City,Sat 24 Oct 2026 12:30,EPL,Round 8
 Arsenal,Everton,Sat 24 Oct 2026 15:00,EPL,Round 8
-Aston Villa,Manchester City,Sat 24 Oct 2026 15:00,EPL,Round 8
-Chelsea,Tottenham Hotspur,Sat 24 Oct 2026 15:00,EPL,Round 8
 Coventry City,Fulham,Sat 24 Oct 2026 15:00,EPL,Round 8
-Crystal Palace,Newcastle United,Sat 24 Oct 2026 15:00,EPL,Round 8
-Hull City,Brentford,Sat 24 Oct 2026 15:00,EPL,Round 8
-Ipswich Town,Nottingham Forest,Sat 24 Oct 2026 15:00,EPL,Round 8
-Liverpool,Brighton & Hove Albion,Sat 24 Oct 2026 15:00,EPL,Round 8
-Manchester United,AFC Bournemouth,Sat 24 Oct 2026 15:00,EPL,Round 8
-Sunderland,Leeds United,Sat 24 Oct 2026 15:00,EPL,Round 8
+Chelsea,Tottenham Hotspur,Sat 24 Oct 2026 17:30,EPL,Round 8
+Crystal Palace,Newcastle United,Sun 25 Oct 2026 14:00,EPL,Round 8
+Hull City,Brentford,Sun 25 Oct 2026 14:00,EPL,Round 8
+Liverpool,Brighton & Hove Albion,Sun 25 Oct 2026 14:00,EPL,Round 8
+Manchester United,AFC Bournemouth,Sun 25 Oct 2026 14:00,EPL,Round 8
+Sunderland,Leeds United,Sun 25 Oct 2026 16:30,EPL,Round 8
+Chelsea,Manchester United,Sat 31 Oct 2026 12:30,EPL,Round 9
 AFC Bournemouth,Leeds United,Sat 31 Oct 2026 15:00,EPL,Round 9
-Aston Villa,Fulham,Sat 31 Oct 2026 15:00,EPL,Round 9
 Brentford,Nottingham Forest,Sat 31 Oct 2026 15:00,EPL,Round 9
-Chelsea,Manchester United,Sat 31 Oct 2026 15:00,EPL,Round 9
 Coventry City,Sunderland,Sat 31 Oct 2026 15:00,EPL,Round 9
 Hull City,Ipswich Town,Sat 31 Oct 2026 15:00,EPL,Round 9
-Liverpool,Arsenal,Sat 31 Oct 2026 15:00,EPL,Round 9
 Manchester City,Brighton & Hove Albion,Sat 31 Oct 2026 15:00,EPL,Round 9
-Newcastle United,Everton,Sat 31 Oct 2026 15:00,EPL,Round 9
-Tottenham Hotspur,Crystal Palace,Sat 31 Oct 2026 15:00,EPL,Round 9
+Tottenham Hotspur,Crystal Palace,Sat 31 Oct 2026 17:30,EPL,Round 9
+Aston Villa,Fulham,Sat 31 Oct 2026 20:00,EPL,Round 9
+Liverpool,Arsenal,Sun 01 Nov 2026 16:30,EPL,Round 9
+Newcastle United,Everton,Mon 02 Nov 2026 20:00,EPL,Round 9
+Everton,Coventry City,Fri 06 Nov 2026 20:00,EPL,Round 10
+Leeds United,Tottenham Hotspur,Sat 07 Nov 2026 12:30,EPL,Round 10
 Arsenal,Hull City,Sat 07 Nov 2026 15:00,EPL,Round 10
-Brighton & Hove Albion,Brentford,Sat 07 Nov 2026 15:00,EPL,Round 10
-Crystal Palace,Liverpool,Sat 07 Nov 2026 15:00,EPL,Round 10
-Everton,Coventry City,Sat 07 Nov 2026 15:00,EPL,Round 10
 Fulham,Newcastle United,Sat 07 Nov 2026 15:00,EPL,Round 10
-Ipswich Town,AFC Bournemouth,Sat 07 Nov 2026 15:00,EPL,Round 10
-Leeds United,Tottenham Hotspur,Sat 07 Nov 2026 15:00,EPL,Round 10
-Manchester United,Aston Villa,Sat 07 Nov 2026 15:00,EPL,Round 10
-Nottingham Forest,Manchester City,Sat 07 Nov 2026 15:00,EPL,Round 10
-Sunderland,Chelsea,Sat 07 Nov 2026 15:00,EPL,Round 10
+Nottingham Forest,Manchester City,Sat 07 Nov 2026 17:30,EPL,Round 10
+Brighton & Hove Albion,Brentford,Sun 08 Nov 2026 14:00,EPL,Round 10
+Crystal Palace,Liverpool,Sun 08 Nov 2026 14:00,EPL,Round 10
+Ipswich Town,AFC Bournemouth,Sun 08 Nov 2026 14:00,EPL,Round 10
+Sunderland,Chelsea,Sun 08 Nov 2026 14:00,EPL,Round 10
+Manchester United,Aston Villa,Sun 08 Nov 2026 16:30,EPL,Round 10
+Manchester City,Fulham,Sat 21 Nov 2026 12:30,EPL,Round 11
 AFC Bournemouth,Nottingham Forest,Sat 21 Nov 2026 15:00,EPL,Round 11
 Aston Villa,Sunderland,Sat 21 Nov 2026 15:00,EPL,Round 11
-Brentford,Everton,Sat 21 Nov 2026 15:00,EPL,Round 11
 Chelsea,Leeds United,Sat 21 Nov 2026 15:00,EPL,Round 11
 Coventry City,Crystal Palace,Sat 21 Nov 2026 15:00,EPL,Round 11
-Hull City,Brighton & Hove Albion,Sat 21 Nov 2026 15:00,EPL,Round 11
-Liverpool,Manchester United,Sat 21 Nov 2026 15:00,EPL,Round 11
-Manchester City,Fulham,Sat 21 Nov 2026 15:00,EPL,Round 11
-Newcastle United,Arsenal,Sat 21 Nov 2026 15:00,EPL,Round 11
 Tottenham Hotspur,Ipswich Town,Sat 21 Nov 2026 15:00,EPL,Round 11
-Arsenal,Manchester City,Sat 28 Nov 2026 15:00,EPL,Round 12
-Brighton & Hove Albion,Newcastle United,Sat 28 Nov 2026 15:00,EPL,Round 12
-Crystal Palace,Hull City,Sat 28 Nov 2026 15:00,EPL,Round 12
-Everton,Liverpool,Sat 28 Nov 2026 15:00,EPL,Round 12
-Fulham,AFC Bournemouth,Sat 28 Nov 2026 15:00,EPL,Round 12
-Ipswich Town,Aston Villa,Sat 28 Nov 2026 15:00,EPL,Round 12
+Newcastle United,Arsenal,Sat 21 Nov 2026 17:30,EPL,Round 11
+Hull City,Brighton & Hove Albion,Sun 22 Nov 2026 14:00,EPL,Round 11
+Liverpool,Manchester United,Sun 22 Nov 2026 16:30,EPL,Round 11
+Brentford,Everton,Mon 23 Nov 2026 20:00,EPL,Round 11
+Nottingham Forest,Chelsea,Fri 27 Nov 2026 20:00,EPL,Round 12
 Leeds United,Coventry City,Sat 28 Nov 2026 15:00,EPL,Round 12
 Manchester United,Brentford,Sat 28 Nov 2026 15:00,EPL,Round 12
-Nottingham Forest,Chelsea,Sat 28 Nov 2026 15:00,EPL,Round 12
-Sunderland,Tottenham Hotspur,Sat 28 Nov 2026 15:00,EPL,Round 12
+Ipswich Town,Aston Villa,Sat 28 Nov 2026 17:30,EPL,Round 12
+Everton,Liverpool,Sun 29 Nov 2026 12:00,EPL,Round 12
+Brighton & Hove Albion,Newcastle United,Sun 29 Nov 2026 14:05,EPL,Round 12
+Crystal Palace,Hull City,Sun 29 Nov 2026 14:05,EPL,Round 12
+Fulham,AFC Bournemouth,Sun 29 Nov 2026 14:05,EPL,Round 12
+Sunderland,Tottenham Hotspur,Sun 29 Nov 2026 14:05,EPL,Round 12
+Arsenal,Manchester City,Sun 29 Nov 2026 16:30,EPL,Round 12
 AFC Bournemouth,Brighton & Hove Albion,Wed 02 Dec 2026 20:00,EPL,Round 13
 Aston Villa,Everton,Wed 02 Dec 2026 20:00,EPL,Round 13
 Brentford,Arsenal,Wed 02 Dec 2026 20:00,EPL,Round 13
@@ -159,46 +159,46 @@ Liverpool,Tottenham Hotspur,Sat 19 Dec 2026 15:00,EPL,Round 16
 Manchester City,Hull City,Sat 19 Dec 2026 15:00,EPL,Round 16
 Nottingham Forest,Everton,Sat 19 Dec 2026 15:00,EPL,Round 16
 Sunderland,Crystal Palace,Sat 19 Dec 2026 15:00,EPL,Round 16
-Aston Villa,Leeds United,Sat 26 Dec 2026 15:00,EPL,Round 17
-Coventry City,Chelsea,Sat 26 Dec 2026 15:00,EPL,Round 17
-Crystal Palace,Arsenal,Sat 26 Dec 2026 15:00,EPL,Round 17
+Aston Villa,Leeds United,Sat 26 Dec 2026 12:30,EPL,Round 17
 Everton,Sunderland,Sat 26 Dec 2026 15:00,EPL,Round 17
 Fulham,Brighton & Hove Albion,Sat 26 Dec 2026 15:00,EPL,Round 17
-Hull City,Liverpool,Sat 26 Dec 2026 15:00,EPL,Round 17
 Ipswich Town,Brentford,Sat 26 Dec 2026 15:00,EPL,Round 17
-Manchester United,Nottingham Forest,Sat 26 Dec 2026 15:00,EPL,Round 17
-Newcastle United,Manchester City,Sat 26 Dec 2026 15:00,EPL,Round 17
 Tottenham Hotspur,AFC Bournemouth,Sat 26 Dec 2026 15:00,EPL,Round 17
-Aston Villa,Liverpool,Wed 30 Dec 2026 20:00,EPL,Round 18
-Coventry City,Brentford,Wed 30 Dec 2026 20:00,EPL,Round 18
-Crystal Palace,AFC Bournemouth,Wed 30 Dec 2026 20:00,EPL,Round 18
-Everton,Manchester City,Wed 30 Dec 2026 20:00,EPL,Round 18
-Fulham,Arsenal,Wed 30 Dec 2026 20:00,EPL,Round 18
-Hull City,Leeds United,Wed 30 Dec 2026 20:00,EPL,Round 18
-Ipswich Town,Chelsea,Wed 30 Dec 2026 20:00,EPL,Round 18
-Manchester United,Sunderland,Wed 30 Dec 2026 20:00,EPL,Round 18
-Newcastle United,Nottingham Forest,Wed 30 Dec 2026 20:00,EPL,Round 18
-Tottenham Hotspur,Brighton & Hove Albion,Wed 30 Dec 2026 20:00,EPL,Round 18
-AFC Bournemouth,Aston Villa,Sat 02 Jan 2027 15:00,EPL,Round 19
+Hull City,Liverpool,Sat 26 Dec 2026 17:30,EPL,Round 17
+Newcastle United,Manchester City,Sat 26 Dec 2026 20:00,EPL,Round 17
+Coventry City,Chelsea,Sun 27 Dec 2026 14:00,EPL,Round 17
+Manchester United,Nottingham Forest,Sun 27 Dec 2026 16:30,EPL,Round 17
+Crystal Palace,Arsenal,Sun 27 Dec 2026 19:00,EPL,Round 17
+Hull City,Leeds United,Tue 29 Dec 2026 19:30,EPL,Round 18
+Tottenham Hotspur,Brighton & Hove Albion,Tue 29 Dec 2026 19:30,EPL,Round 18
+Everton,Manchester City,Tue 29 Dec 2026 20:15,EPL,Round 18
+Coventry City,Brentford,Wed 30 Dec 2026 19:30,EPL,Round 18
+Crystal Palace,AFC Bournemouth,Wed 30 Dec 2026 19:30,EPL,Round 18
+Fulham,Arsenal,Wed 30 Dec 2026 19:30,EPL,Round 18
+Manchester United,Sunderland,Wed 30 Dec 2026 19:30,EPL,Round 18
+Newcastle United,Nottingham Forest,Wed 30 Dec 2026 19:30,EPL,Round 18
+Aston Villa,Liverpool,Wed 30 Dec 2026 20:15,EPL,Round 18
+Ipswich Town,Chelsea,Wed 30 Dec 2026 20:15,EPL,Round 18
+Leeds United,Everton,Fri 01 Jan 2027 20:00,EPL,Round 19
+Brighton & Hove Albion,Manchester United,Sat 02 Jan 2027 12:30,EPL,Round 19
 Arsenal,Ipswich Town,Sat 02 Jan 2027 15:00,EPL,Round 19
 Brentford,Crystal Palace,Sat 02 Jan 2027 15:00,EPL,Round 19
-Brighton & Hove Albion,Manchester United,Sat 02 Jan 2027 15:00,EPL,Round 19
-Chelsea,Newcastle United,Sat 02 Jan 2027 15:00,EPL,Round 19
-Leeds United,Everton,Sat 02 Jan 2027 15:00,EPL,Round 19
 Liverpool,Coventry City,Sat 02 Jan 2027 15:00,EPL,Round 19
-Manchester City,Tottenham Hotspur,Sat 02 Jan 2027 15:00,EPL,Round 19
 Nottingham Forest,Fulham,Sat 02 Jan 2027 15:00,EPL,Round 19
 Sunderland,Hull City,Sat 02 Jan 2027 15:00,EPL,Round 19
-Arsenal,Brentford,Wed 06 Jan 2027 20:00,EPL,Round 20
-Brighton & Hove Albion,AFC Bournemouth,Wed 06 Jan 2027 20:00,EPL,Round 20
-Crystal Palace,Chelsea,Wed 06 Jan 2027 20:00,EPL,Round 20
-Everton,Aston Villa,Wed 06 Jan 2027 20:00,EPL,Round 20
-Fulham,Tottenham Hotspur,Wed 06 Jan 2027 20:00,EPL,Round 20
-Ipswich Town,Coventry City,Wed 06 Jan 2027 20:00,EPL,Round 20
-Leeds United,Manchester City,Wed 06 Jan 2027 20:00,EPL,Round 20
-Manchester United,Newcastle United,Wed 06 Jan 2027 20:00,EPL,Round 20
-Nottingham Forest,Hull City,Wed 06 Jan 2027 20:00,EPL,Round 20
-Sunderland,Liverpool,Wed 06 Jan 2027 20:00,EPL,Round 20
+AFC Bournemouth,Aston Villa,Sat 02 Jan 2027 17:30,EPL,Round 19
+Chelsea,Newcastle United,Sun 03 Jan 2027 14:00,EPL,Round 19
+Manchester City,Tottenham Hotspur,Sun 03 Jan 2027 16:30,EPL,Round 19
+Arsenal,Brentford,Tue 05 Jan 2027 19:30,EPL,Round 20
+Brighton & Hove Albion,AFC Bournemouth,Tue 05 Jan 2027 19:30,EPL,Round 20
+Everton,Aston Villa,Tue 05 Jan 2027 19:30,EPL,Round 20
+Nottingham Forest,Hull City,Tue 05 Jan 2027 19:30,EPL,Round 20
+Sunderland,Liverpool,Tue 05 Jan 2027 20:15,EPL,Round 20
+Crystal Palace,Chelsea,Wed 06 Jan 2027 19:30,EPL,Round 20
+Fulham,Tottenham Hotspur,Wed 06 Jan 2027 19:30,EPL,Round 20
+Ipswich Town,Coventry City,Wed 06 Jan 2027 19:30,EPL,Round 20
+Leeds United,Manchester City,Wed 06 Jan 2027 20:15,EPL,Round 20
+Manchester United,Newcastle United,Thu 07 Jan 2027 20:00,EPL,Round 20
 AFC Bournemouth,Ipswich Town,Sat 16 Jan 2027 15:00,EPL,Round 21
 Aston Villa,Manchester United,Sat 16 Jan 2027 15:00,EPL,Round 21
 Brentford,Brighton & Hove Albion,Sat 16 Jan 2027 15:00,EPL,Round 21
@@ -369,13 +369,13 @@ Manchester City,Aston Villa,Sun 23 May 2027 15:00,EPL,Round 37
 Newcastle United,Crystal Palace,Sun 23 May 2027 15:00,EPL,Round 37
 Nottingham Forest,Ipswich Town,Sun 23 May 2027 15:00,EPL,Round 37
 Tottenham Hotspur,Manchester United,Sun 23 May 2027 15:00,EPL,Round 37
-Arsenal,Brighton & Hove Albion,Sun 30 May 2027 15:00,EPL,Round 38
-Aston Villa,Tottenham Hotspur,Sun 30 May 2027 15:00,EPL,Round 38
-Chelsea,Brentford,Sun 30 May 2027 15:00,EPL,Round 38
-Coventry City,Nottingham Forest,Sun 30 May 2027 15:00,EPL,Round 38
-Crystal Palace,Leeds United,Sun 30 May 2027 15:00,EPL,Round 38
-Hull City,Newcastle United,Sun 30 May 2027 15:00,EPL,Round 38
-Ipswich Town,Everton,Sun 30 May 2027 15:00,EPL,Round 38
-Liverpool,AFC Bournemouth,Sun 30 May 2027 15:00,EPL,Round 38
-Manchester United,Fulham,Sun 30 May 2027 15:00,EPL,Round 38
-Sunderland,Manchester City,Sun 30 May 2027 15:00,EPL,Round 38
+Arsenal,Brighton & Hove Albion,Sun 30 May 2027 16:00,EPL,Round 38
+Aston Villa,Tottenham Hotspur,Sun 30 May 2027 16:00,EPL,Round 38
+Chelsea,Brentford,Sun 30 May 2027 16:00,EPL,Round 38
+Coventry City,Nottingham Forest,Sun 30 May 2027 16:00,EPL,Round 38
+Crystal Palace,Leeds United,Sun 30 May 2027 16:00,EPL,Round 38
+Hull City,Newcastle United,Sun 30 May 2027 16:00,EPL,Round 38
+Ipswich Town,Everton,Sun 30 May 2027 16:00,EPL,Round 38
+Liverpool,AFC Bournemouth,Sun 30 May 2027 16:00,EPL,Round 38
+Manchester United,Fulham,Sun 30 May 2027 16:00,EPL,Round 38
+Sunderland,Manchester City,Sun 30 May 2027 16:00,EPL,Round 38

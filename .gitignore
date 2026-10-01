@@ -1,1 +1,8 @@
+node_modules/
+logs/
+backups/
+csv_backup/
+.env
 serviceAccountKey.json
+.DS_Store
+*.log

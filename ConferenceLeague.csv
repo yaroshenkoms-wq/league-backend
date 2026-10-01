@@ -1,0 +1,109 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Gent,Aarhus,Thu 15 Oct 2026 18:45,Conference League,Round 1
+Panathinaikos,Borac,Thu 15 Oct 2026 18:45,Conference League,Round 1
+Lugano,Crvena Zvezda,Thu 15 Oct 2026 18:45,Conference League,Round 1
+KuPS Kuopio,Trabzonspor,Thu 15 Oct 2026 18:45,Conference League,Round 1
+U. Craiova,Getafe CF,Thu 15 Oct 2026 18:45,Conference League,Round 1
+Riga,Kairat Almaty,Thu 15 Oct 2026 18:45,Conference League,Round 1
+Hajduk Split,Ajax,Thu 15 Oct 2026 18:45,Conference League,Round 1
+CSKA Sofia,Monaco,Thu 15 Oct 2026 18:45,Conference League,Round 1
+Mjällby,Inter Escaldes,Thu 15 Oct 2026 18:45,Conference League,Round 1
+Egnatia,Midtjylland,Thu 15 Oct 2026 18:45,Conference League,Round 1
+Atalanta,Pafos,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Freiburg,Jablonec,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Copenhagen,Braga,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Brighton & Hove Albion,Kauno Žalgiris,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Twente,Thun,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Sint-Truidense,Iberia Tbilisi,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Brann,L. Red Imps,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Hearts,Nordsjælland,Thu 15 Oct 2026 21:00,Conference League,Round 1
+Kairat Almaty,Panathinaikos,Thu 22 Oct 2026 16:30,Conference League,Round 2
+Crvena Zvezda,Copenhagen,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Pafos,Riga,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Getafe CF,Lugano,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Trabzonspor,Hearts,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Jablonec,Brighton & Hove Albion,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Nordsjælland,CSKA Sofia,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Inter Escaldes,U. Craiova,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Kauno Žalgiris,Brann,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Iberia Tbilisi,Mjällby,Thu 22 Oct 2026 18:45,Conference League,Round 2
+Braga,Gent,Thu 22 Oct 2026 21:00,Conference League,Round 2
+Ajax,Atalanta,Thu 22 Oct 2026 21:00,Conference League,Round 2
+Monaco,Freiburg,Thu 22 Oct 2026 21:00,Conference League,Round 2
+Midtjylland,Sint-Truidense,Thu 22 Oct 2026 21:00,Conference League,Round 2
+L. Red Imps,Twente,Thu 22 Oct 2026 21:00,Conference League,Round 2
+Borac,KuPS Kuopio,Thu 22 Oct 2026 21:00,Conference League,Round 2
+Aarhus,Egnatia,Thu 22 Oct 2026 21:00,Conference League,Round 2
+Thun,Hajduk Split,Thu 22 Oct 2026 21:00,Conference League,Round 2
+Atalanta,Kairat Almaty,Thu 05 Nov 2026 18:45,Conference League,Round 3
+Midtjylland,Ajax,Thu 05 Nov 2026 18:45,Conference League,Round 3
+Crvena Zvezda,Inter Escaldes,Thu 05 Nov 2026 18:45,Conference League,Round 3
+KuPS Kuopio,Gent,Thu 05 Nov 2026 18:45,Conference League,Round 3
+L. Red Imps,Hajduk Split,Thu 05 Nov 2026 18:45,Conference League,Round 3
+Trabzonspor,Freiburg,Thu 05 Nov 2026 18:45,Conference League,Round 3
+Aarhus,Braga,Thu 05 Nov 2026 18:45,Conference League,Round 3
+Thun,Hearts,Thu 05 Nov 2026 18:45,Conference League,Round 3
+Mjällby,Borac,Thu 05 Nov 2026 18:45,Conference League,Round 3
+Monaco,Nordsjælland,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Copenhagen,Iberia Tbilisi,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Panathinaikos,CSKA Sofia,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Lugano,Kauno Žalgiris,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Getafe CF,Brighton & Hove Albion,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Twente,Pafos,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Sint-Truidense,Brann,Thu 05 Nov 2026 21:00,Conference League,Round 3
+U. Craiova,Egnatia,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Riga,Jablonec,Thu 05 Nov 2026 21:00,Conference League,Round 3
+Kairat Almaty,Mjällby,Thu 26 Nov 2026 16:30,Conference League,Round 4
+Ajax,Thun,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Pafos,Midtjylland,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Brighton & Hove Albion,U. Craiova,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Brann,Aarhus,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Hearts,Monaco,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Jablonec,Lugano,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Kauno Žalgiris,Riga,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Iberia Tbilisi,Getafe CF,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Egnatia,L. Red Imps,Thu 26 Nov 2026 18:45,Conference League,Round 4
+Braga,KuPS Kuopio,Thu 26 Nov 2026 21:00,Conference League,Round 4
+Freiburg,Twente,Thu 26 Nov 2026 21:00,Conference League,Round 4
+Gent,Crvena Zvezda,Thu 26 Nov 2026 21:00,Conference League,Round 4
+Borac,Atalanta,Thu 26 Nov 2026 21:00,Conference League,Round 4
+Hajduk Split,Sint-Truidense,Thu 26 Nov 2026 21:00,Conference League,Round 4
+Nordsjælland,Panathinaikos,Thu 26 Nov 2026 21:00,Conference League,Round 4
+Inter Escaldes,Copenhagen,Thu 26 Nov 2026 21:00,Conference League,Round 4
+CSKA Sofia,Trabzonspor,Thu 26 Nov 2026 21:00,Conference League,Round 4
+Kairat Almaty,U. Craiova,Thu 10 Dec 2026 16:30,Conference League,Round 5
+Freiburg,Panathinaikos,Thu 10 Dec 2026 18:45,Conference League,Round 5
+Copenhagen,Lugano,Thu 10 Dec 2026 18:45,Conference League,Round 5
+Getafe CF,Inter Escaldes,Thu 10 Dec 2026 18:45,Conference League,Round 5
+KuPS Kuopio,CSKA Sofia,Thu 10 Dec 2026 18:45,Conference League,Round 5
+L. Red Imps,Midtjylland,Thu 10 Dec 2026 18:45,Conference League,Round 5
+Brann,Braga,Thu 10 Dec 2026 18:45,Conference League,Round 5
+Trabzonspor,Jablonec,Thu 10 Dec 2026 18:45,Conference League,Round 5
+Riga,Atalanta,Thu 10 Dec 2026 18:45,Conference League,Round 5
+Iberia Tbilisi,Crvena Zvezda,Thu 10 Dec 2026 18:45,Conference League,Round 5
+Brighton & Hove Albion,Monaco,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Sint-Truidense,Ajax,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Hearts,Borac,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Hajduk Split,Nordsjælland,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Aarhus,Twente,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Thun,Gent,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Mjällby,Pafos,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Egnatia,Kauno Žalgiris,Thu 10 Dec 2026 21:00,Conference League,Round 5
+Atalanta,Mjällby,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Braga,Egnatia,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Ajax,Getafe CF,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Monaco,L. Red Imps,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Midtjylland,Hajduk Split,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Crvena Zvezda,Trabzonspor,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Gent,Brann,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Panathinaikos,Brighton & Hove Albion,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Pafos,Hearts,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Lugano,Sint-Truidense,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Twente,Kairat Almaty,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Borac,Riga,Thu 17 Dec 2026 21:00,Conference League,Round 6
+U. Craiova,Copenhagen,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Jablonec,Iberia Tbilisi,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Nordsjælland,KuPS Kuopio,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Inter Escaldes,Aarhus,Thu 17 Dec 2026 21:00,Conference League,Round 6
+CSKA Sofia,Thun,Thu 17 Dec 2026 21:00,Conference League,Round 6
+Kauno Žalgiris,Freiburg,Thu 17 Dec 2026 21:00,Conference League,Round 6

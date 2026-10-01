@@ -1,381 +1,381 @@
 ﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
-Inter,Monza,Sat 22 Aug 2026 18:30,Serie A,Round 1
-Como,Udinese,Sat 22 Aug 2026 18:30,Serie A,Round 1
-Genoa,Napoli,Sat 22 Aug 2026 20:45,Serie A,Round 1
-Cagliari,Parma,Sat 22 Aug 2026 20:45,Serie A,Round 1
-Frosinone,Juventus,Sun 23 Aug 2026 18:30,Serie A,Round 1
-Lecce,Venezia,Sun 23 Aug 2026 18:30,Serie A,Round 1
-Atalanta,Sassuolo,Sun 23 Aug 2026 20:45,Serie A,Round 1
-AC Milan,Torino,Sun 23 Aug 2026 20:45,Serie A,Round 1
-Bologna,Lazio,Mon 24 Aug 2026 18:30,Serie A,Round 1
-AS Roma,Fiorentina,Mon 24 Aug 2026 20:45,Serie A,Round 1
-AC Milan,Venezia,Fri 28 Aug 2026 20:45,Serie A,Round 2
-Sassuolo,Torino,Sat 29 Aug 2026 18:30,Serie A,Round 2
-Monza,Udinese,Sat 29 Aug 2026 18:30,Serie A,Round 2
-Fiorentina,Frosinone,Sat 29 Aug 2026 18:30,Serie A,Round 2
-Juventus,Parma,Sat 29 Aug 2026 20:45,Serie A,Round 2
-Como,Napoli,Sun 30 Aug 2026 18:30,Serie A,Round 2
-Genoa,Lazio,Sun 30 Aug 2026 20:45,Serie A,Round 2
-Cagliari,Inter,Sun 30 Aug 2026 20:45,Serie A,Round 2
-AS Roma,Lecce,Mon 31 Aug 2026 18:30,Serie A,Round 2
-Atalanta,Bologna,Mon 31 Aug 2026 20:45,Serie A,Round 2
-Como,Genoa,Fri 04 Sep 2026 20:45,Serie A,Round 3
-Fiorentina,Torino,Sat 05 Sep 2026 15:00,Serie A,Round 3
-Inter,Napoli,Sat 05 Sep 2026 18:00,Serie A,Round 3
-AS Roma,Atalanta,Sat 05 Sep 2026 20:45,Serie A,Round 3
-Monza,Parma,Sun 06 Sep 2026 15:00,Serie A,Round 3
-Frosinone,Venezia,Sun 06 Sep 2026 15:00,Serie A,Round 3
-Bologna,Sassuolo,Sun 06 Sep 2026 18:00,Serie A,Round 3
-AC Milan,Juventus,Sun 06 Sep 2026 20:45,Serie A,Round 3
-Cagliari,Lecce,Mon 07 Sep 2026 18:30,Serie A,Round 3
-Lazio,Udinese,Mon 07 Sep 2026 20:45,Serie A,Round 3
-Fiorentina,Venezia,Fri 11 Sep 2026 20:45,Serie A,Round 4
-Frosinone,Genoa,Sat 12 Sep 2026 15:00,Serie A,Round 4
-Atalanta,Cagliari,Sat 12 Sep 2026 20:45,Serie A,Round 4
-AS Roma,Torino,Sun 13 Sep 2026 12:30,Serie A,Round 4
-Lecce,Monza,Sun 13 Sep 2026 15:00,Serie A,Round 4
-Como,Parma,Sun 13 Sep 2026 15:00,Serie A,Round 4
-Bologna,Napoli,Sun 13 Sep 2026 18:00,Serie A,Round 4
-Juventus,Sassuolo,Sun 13 Sep 2026 19:00,Serie A,Round 4
-AC Milan,Lazio,Sun 13 Sep 2026 19:00,Serie A,Round 4
-Inter,Udinese,Mon 14 Sep 2026 20:45,Serie A,Round 4
-Monza,Sassuolo,Fri 18 Sep 2026 20:45,Serie A,Round 5
-Cagliari,Udinese,Sat 19 Sep 2026 15:00,Serie A,Round 5
-Bologna,Torino,Sat 19 Sep 2026 15:00,Serie A,Round 5
-AS Roma,Inter,Sat 19 Sep 2026 18:00,Serie A,Round 5
-Lazio,Venezia,Sat 19 Sep 2026 20:45,Serie A,Round 5
-Fiorentina,Napoli,Sun 20 Sep 2026 12:30,Serie A,Round 5
-Genoa,Parma,Sun 20 Sep 2026 15:00,Serie A,Round 5
-Como,Frosinone,Sun 20 Sep 2026 15:00,Serie A,Round 5
-Atalanta,Juventus,Sun 20 Sep 2026 18:00,Serie A,Round 5
-AC Milan,Lecce,Sun 20 Sep 2026 20:45,Serie A,Round 5
-Torino,Udinese,Sun 11 Oct 2026 19:00,Serie A,Round 6
-AC Milan,Sassuolo,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Frosinone,Napoli,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Bologna,Lecce,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Lazio,Monza,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Inter,Parma,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Fiorentina,Genoa,Sun 11 Oct 2026 19:00,Serie A,Round 6
-AS Roma,Como,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Cagliari,Juventus,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Atalanta,Venezia,Sun 11 Oct 2026 19:00,Serie A,Round 6
-Napoli,Venezia,Sun 17 Oct 2026 19:00,Serie A,Round 7
-Lecce,Udinese,Sun 17 Oct 2026 19:00,Serie A,Round 7
-AS Roma,Genoa,Sun 17 Oct 2026 19:00,Serie A,Round 7
-Parma,Torino,Sun 17 Oct 2026 19:00,Serie A,Round 7
-Cagliari,Monza,Sun 17 Oct 2026 19:00,Serie A,Round 7
-AC Milan,Atalanta,Sun 17 Oct 2026 19:00,Serie A,Round 7
-Juventus,Lazio,Sun 17 Oct 2026 19:00,Serie A,Round 7
-Frosinone,Sassuolo,Sun 17 Oct 2026 19:00,Serie A,Round 7
-Como,Fiorentina,Sun 17 Oct 2026 19:00,Serie A,Round 7
-Bologna,Inter,Sun 17 Oct 2026 19:00,Serie A,Round 7
-AC Milan,Udinese,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Monza,Torino,Sun 25 Oct 2026 18:00,Serie A,Round 8
-AS Roma,Napoli,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Juventus,Lecce,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Lazio,Parma,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Fiorentina,Inter,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Genoa,Venezia,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Como,Sassuolo,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Bologna,Cagliari,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Atalanta,Frosinone,Sun 25 Oct 2026 18:00,Serie A,Round 8
-Inter,Venezia,Wed 28 Oct 2026 18:00,Serie A,Round 9
-Como,Torino,Wed 28 Oct 2026 18:00,Serie A,Round 9
-Lazio,Sassuolo,Wed 28 Oct 2026 18:00,Serie A,Round 9
-AS Roma,Cagliari,Wed 28 Oct 2026 18:00,Serie A,Round 9
-Parma,Udinese,Wed 28 Oct 2026 18:00,Serie A,Round 9
-Monza,Napoli,Wed 28 Oct 2026 18:00,Serie A,Round 9
-AC Milan,Bologna,Wed 28 Oct 2026 18:00,Serie A,Round 9
-Genoa,Juventus,Wed 28 Oct 2026 18:00,Serie A,Round 9
-Frosinone,Lecce,Wed 28 Oct 2026 18:00,Serie A,Round 9
-Atalanta,Fiorentina,Wed 28 Oct 2026 18:00,Serie A,Round 9
-AS Roma,Udinese,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Fiorentina,Sassuolo,Sun 01 Nov 2026 18:00,Serie A,Round 10
-AC Milan,Inter,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Genoa,Lecce,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Cagliari,Lazio,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Juventus,Napoli,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Frosinone,Torino,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Como,Venezia,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Bologna,Monza,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Atalanta,Parma,Sun 01 Nov 2026 18:00,Serie A,Round 10
-Udinese,Venezia,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Lecce,Torino,Sun 08 Nov 2026 18:00,Serie A,Round 11
-AS Roma,Sassuolo,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Bologna,Parma,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Lazio,Napoli,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Atalanta,Monza,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Como,Inter,Sun 08 Nov 2026 18:00,Serie A,Round 11
-AC Milan,Genoa,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Fiorentina,Juventus,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Cagliari,Frosinone,Sun 08 Nov 2026 18:00,Serie A,Round 11
-Genoa,Sassuolo,Sun 22 Nov 2026 18:00,Serie A,Round 12
-AS Roma,Parma,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Napoli,Torino,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Fiorentina,Monza,Sun 22 Nov 2026 18:00,Serie A,Round 12
+Inter,Monza,Sat 22 Aug 2026 18:30,Serie A,Round 1,true,1,true,4,1,4:1,4,1
+Udinese,Como,Sat 22 Aug 2026 18:30,Serie A,Round 1,true,2,true,1,1,1:1,1,1
+Genoa,Napoli,Sat 22 Aug 2026 20:45,Serie A,Round 1,true,3,true,0,2,0:2,0,2
+Parma,Cagliari,Sat 22 Aug 2026 20:45,Serie A,Round 1,true,4,true,0,1,0:1,0,1
+Frosinone,Juventus,Sun 23 Aug 2026 18:30,Serie A,Round 1,true,5,true,0,1,0:1,0,1
+Venezia,Lecce,Sun 23 Aug 2026 18:30,Serie A,Round 1,true,6,true,0,2,0:2,0,2
+Atalanta,Sassuolo,Sun 23 Aug 2026 20:45,Serie A,Round 1,true,7,true,2,1,2:1,2,1
+Torino,AC Milan,Sun 23 Aug 2026 20:45,Serie A,Round 1,true,8,true,1,2,1:2,1,2
+Bologna,Lazio,Mon 24 Aug 2026 18:30,Serie A,Round 1,true,9,true,0,1,0:1,0,1
+AS Roma,Fiorentina,Mon 24 Aug 2026 20:45,Serie A,Round 1,true,10,true,4,0,4:0,4,0
+AC Milan,Venezia,Fri 28 Aug 2026 20:45,Serie A,Round 2,true,11,true,2,0,2:0,2,0
+Fiorentina,Frosinone,Sat 29 Aug 2026 18:30,Serie A,Round 2,true,12,true,0,3,0:3,0,3
+Monza,Udinese,Sat 29 Aug 2026 18:30,Serie A,Round 2,true,13,true,2,3,2:3,2,3
+Sassuolo,Torino,Sat 29 Aug 2026 18:30,Serie A,Round 2,true,14,true,2,1,2:1,2,1
+Juventus,Parma,Sat 29 Aug 2026 20:45,Serie A,Round 2,true,15,true,2,0,2:0,2,0
+Napoli,Como,Sun 30 Aug 2026 18:30,Serie A,Round 2,true,16,true,1,2,1:2,1,2
+Cagliari,Inter,Sun 30 Aug 2026 20:45,Serie A,Round 2,true,17,true,0,1,0:1,0,1
+Lazio,Genoa,Sun 30 Aug 2026 20:45,Serie A,Round 2,true,18,true,1,0,1:0,1,0
+Lecce,AS Roma,Mon 31 Aug 2026 18:30,Serie A,Round 2,true,19,true,0,4,0:4,0,4
+Atalanta,Bologna,Mon 31 Aug 2026 20:45,Serie A,Round 2,true,20,true,1,0,1:0,1,0
+Genoa,Como,Fri 04 Sep 2026 20:45,Serie A,Round 3,true,21,true,1,4,1:4,1,4
+Fiorentina,Torino,Sat 05 Sep 2026 15:00,Serie A,Round 3,true,22,true,1,2,1:2,1,2
+Inter,Napoli,Sat 05 Sep 2026 18:00,Serie A,Round 3,true,23,true,3,2,3:2,3,2
+AS Roma,Atalanta,Sat 05 Sep 2026 20:45,Serie A,Round 3,true,24,true,2,1,2:1,2,1
+Frosinone,Venezia,Sun 06 Sep 2026 15:00,Serie A,Round 3,true,25,true,3,2,3:2,3,2
+Parma,Monza,Sun 06 Sep 2026 15:00,Serie A,Round 3,true,26,true,1,1,1:1,1,1
+Bologna,Sassuolo,Sun 06 Sep 2026 18:00,Serie A,Round 3,true,27,true,2,2,2:2,2,2
+Juventus,AC Milan,Sun 06 Sep 2026 20:45,Serie A,Round 3,true,28,true,1,1,1:1,1,1
+Cagliari,Lecce,Mon 07 Sep 2026 18:30,Serie A,Round 3,true,29,true,1,0,1:0,1,0
+Udinese,Lazio,Mon 07 Sep 2026 20:45,Serie A,Round 3,true,30,true,1,2,1:2,1,2
+Venezia,Fiorentina,Fri 11 Sep 2026 20:45,Serie A,Round 4,true,31,true,2,4,2:4,2,4
+Genoa,Frosinone,Sat 12 Sep 2026 15:00,Serie A,Round 4,true,32,true,1,1,1:1,1,1
+Lazio,AC Milan,Sat 12 Sep 2026 18:00,Serie A,Round 4,true,33,true,2,2,2:2,2,2
+Atalanta,Cagliari,Sat 12 Sep 2026 20:45,Serie A,Round 4,true,34,true,1,2,1:2,1,2
+Lecce,Monza,Sun 13 Sep 2026 15:00,Serie A,Round 4,true,35,true,3,2,3:2,3,2
+Napoli,Bologna,Sun 13 Sep 2026 18:00,Serie A,Round 4,true,36,true,1,0,1:0,1,0
+Sassuolo,Juventus,Sun 13 Sep 2026 20:45,Serie A,Round 4,true,37,true,3,2,3:2,3,2
+Como,Parma,Mon 14 Sep 2026 18:30,Serie A,Round 4,true,38,true,2,1,2:1,2,1
+Torino,AS Roma,Mon 14 Sep 2026 18:30,Serie A,Round 4,true,39,true,0,2,0:2,0,2
+Inter,Udinese,Mon 14 Sep 2026 20:45,Serie A,Round 4,true,40,true,5,3,5:3,5,3
+Monza,Sassuolo,Fri 18 Sep 2026 20:45,Serie A,Round 5,true,41,true,2,1,2:1,2,1
+Bologna,Torino,Sat 19 Sep 2026 15:00,Serie A,Round 5,true,42,true,1,1,1:1,1,1
+Udinese,Cagliari,Sat 19 Sep 2026 15:00,Serie A,Round 5,true,43,true,0,1,0:1,0,1
+AS Roma,Inter,Sat 19 Sep 2026 18:00,Serie A,Round 5,true,44,true,2,2,2:2,2,2
+Venezia,Lazio,Sat 19 Sep 2026 20:45,Serie A,Round 5,true,45,true,0,2,0:2,0,2
+Fiorentina,Napoli,Sun 20 Sep 2026 12:30,Serie A,Round 5,true,46,true,1,1,1:1,1,1
+Frosinone,Como,Sun 20 Sep 2026 15:00,Serie A,Round 5,true,47,true,2,0,2:0,2,0
+Parma,Genoa,Sun 20 Sep 2026 15:00,Serie A,Round 5,true,48,true,2,1,2:1,2,1
+Juventus,Atalanta,Sun 20 Sep 2026 18:00,Serie A,Round 5,true,49,true,2,0,2:0,2,0
+AC Milan,Lecce,Sun 20 Sep 2026 20:45,Serie A,Round 5,true,50,true,3,0,3:0,3,0
+Genoa,Fiorentina,Sat 10 Oct 2026 15:00,Serie A,Round 6
+Inter,Parma,Sat 10 Oct 2026 18:00,Serie A,Round 6
+Napoli,Frosinone,Sat 10 Oct 2026 20:45,Serie A,Round 6
+Como,AS Roma,Sun 11 Oct 2026 12:30,Serie A,Round 6
+Lazio,Monza,Sun 11 Oct 2026 15:00,Serie A,Round 6
+Lecce,Bologna,Sun 11 Oct 2026 15:00,Serie A,Round 6
+Sassuolo,AC Milan,Sun 11 Oct 2026 18:00,Serie A,Round 6
+Cagliari,Juventus,Sun 11 Oct 2026 20:45,Serie A,Round 6
+Atalanta,Venezia,Mon 12 Oct 2026 18:30,Serie A,Round 6
+Torino,Udinese,Mon 12 Oct 2026 20:45,Serie A,Round 6
+Frosinone,Sassuolo,Fri 16 Oct 2026 20:45,Serie A,Round 7
+Venezia,Napoli,Sat 17 Oct 2026 15:00,Serie A,Round 7
+Bologna,Inter,Sat 17 Oct 2026 18:00,Serie A,Round 7
+AS Roma,Genoa,Sat 17 Oct 2026 20:45,Serie A,Round 7
+Udinese,Lecce,Sun 18 Oct 2026 12:30,Serie A,Round 7
+Fiorentina,Como,Sun 18 Oct 2026 15:00,Serie A,Round 7
+AC Milan,Atalanta,Sun 18 Oct 2026 18:00,Serie A,Round 7
+Juventus,Lazio,Sun 18 Oct 2026 20:45,Serie A,Round 7
+Monza,Cagliari,Mon 19 Oct 2026 18:30,Serie A,Round 7
+Parma,Torino,Mon 19 Oct 2026 20:45,Serie A,Round 7
+Torino,Monza,Fri 23 Oct 2026 20:45,Serie A,Round 8
+Cagliari,Bologna,Sat 24 Oct 2026 15:00,Serie A,Round 8
+Como,Sassuolo,Sat 24 Oct 2026 15:00,Serie A,Round 8
+Napoli,AS Roma,Sat 24 Oct 2026 18:00,Serie A,Round 8
+Lazio,Parma,Sat 24 Oct 2026 20:45,Serie A,Round 8
+Inter,Fiorentina,Sun 25 Oct 2026 12:30,Serie A,Round 8
+Atalanta,Frosinone,Sun 25 Oct 2026 15:00,Serie A,Round 8
+Genoa,Venezia,Sun 25 Oct 2026 15:00,Serie A,Round 8
+Lecce,Juventus,Sun 25 Oct 2026 18:00,Serie A,Round 8
+Udinese,AC Milan,Sun 25 Oct 2026 20:45,Serie A,Round 8
+Sassuolo,Lazio,Tue 27 Oct 2026 18:30,Serie A,Round 9
+AS Roma,Cagliari,Tue 27 Oct 2026 20:45,Serie A,Round 9
+Torino,Como,Tue 27 Oct 2026 20:45,Serie A,Round 9
+AC Milan,Bologna,Wed 28 Oct 2026 18:30,Serie A,Round 9
+Parma,Udinese,Wed 28 Oct 2026 18:30,Serie A,Round 9
+Venezia,Inter,Wed 28 Oct 2026 18:30,Serie A,Round 9
+Genoa,Juventus,Wed 28 Oct 2026 20:45,Serie A,Round 9
+Monza,Napoli,Wed 28 Oct 2026 20:45,Serie A,Round 9
+Frosinone,Lecce,Thu 29 Oct 2026 18:30,Serie A,Round 9
+Fiorentina,Atalanta,Thu 29 Oct 2026 20:45,Serie A,Round 9
+Bologna,Monza,Sat 31 Oct 2026 15:00,Serie A,Round 10
+Udinese,AS Roma,Sat 31 Oct 2026 18:00,Serie A,Round 10
+AC Milan,Inter,Sat 31 Oct 2026 20:45,Serie A,Round 10
+Como,Venezia,Sun 01 Nov 2026 12:30,Serie A,Round 10
+Frosinone,Torino,Sun 01 Nov 2026 15:00,Serie A,Round 10
+Lazio,Cagliari,Sun 01 Nov 2026 15:00,Serie A,Round 10
+Lecce,Genoa,Sun 01 Nov 2026 18:00,Serie A,Round 10
+Juventus,Napoli,Sun 01 Nov 2026 20:45,Serie A,Round 10
+Sassuolo,Fiorentina,Mon 02 Nov 2026 18:30,Serie A,Round 10
+Atalanta,Parma,Mon 02 Nov 2026 20:45,Serie A,Round 10
+Venezia,Udinese,Fri 06 Nov 2026 20:45,Serie A,Round 11
+Cagliari,Frosinone,Sat 07 Nov 2026 15:00,Serie A,Round 11
+Torino,Lecce,Sat 07 Nov 2026 15:00,Serie A,Round 11
+Parma,Bologna,Sat 07 Nov 2026 18:00,Serie A,Round 11
+AS Roma,Sassuolo,Sat 07 Nov 2026 20:45,Serie A,Round 11
+Napoli,Lazio,Sun 08 Nov 2026 12:30,Serie A,Round 11
+Genoa,AC Milan,Sun 08 Nov 2026 15:00,Serie A,Round 11
+Monza,Atalanta,Sun 08 Nov 2026 15:00,Serie A,Round 11
+Inter,Como,Sun 08 Nov 2026 18:00,Serie A,Round 11
+Fiorentina,Juventus,Sun 08 Nov 2026 20:45,Serie A,Round 11
+Como,Cagliari,Sat 21 Nov 2026 15:00,Serie A,Round 12
+Lazio,Lecce,Sat 21 Nov 2026 15:00,Serie A,Round 12
+Parma,AS Roma,Sat 21 Nov 2026 18:00,Serie A,Round 12
+Napoli,Torino,Sat 21 Nov 2026 20:45,Serie A,Round 12
+Juventus,Venezia,Sun 22 Nov 2026 12:30,Serie A,Round 12
+Bologna,Udinese,Sun 22 Nov 2026 15:00,Serie A,Round 12
+Sassuolo,Genoa,Sun 22 Nov 2026 15:00,Serie A,Round 12
 AC Milan,Frosinone,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Lazio,Lecce,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Juventus,Venezia,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Cagliari,Como,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Bologna,Udinese,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Atalanta,Inter,Sun 22 Nov 2026 18:00,Serie A,Round 12
-Bologna,Venezia,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Fiorentina,Udinese,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Lazio,Torino,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Napoli,Sassuolo,Sun 29 Nov 2026 18:00,Serie A,Round 13
+Atalanta,Inter,Sun 22 Nov 2026 20:45,Serie A,Round 12
+Monza,Fiorentina,Mon 23 Nov 2026 20:45,Serie A,Round 12
+Venezia,Bologna,Fri 27 Nov 2026 20:45,Serie A,Round 13
+Frosinone,Parma,Sat 28 Nov 2026 15:00,Serie A,Round 13
+Torino,Lazio,Sat 28 Nov 2026 18:00,Serie A,Round 13
+Inter,Genoa,Sat 28 Nov 2026 20:45,Serie A,Round 13
+Udinese,Fiorentina,Sun 29 Nov 2026 12:30,Serie A,Round 13
+Sassuolo,Napoli,Sun 29 Nov 2026 15:00,Serie A,Round 13
 AS Roma,Monza,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Atalanta,Lecce,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Genoa,Inter,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Frosinone,Parma,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Como,Juventus,Sun 29 Nov 2026 18:00,Serie A,Round 13
-AC Milan,Cagliari,Sun 29 Nov 2026 18:00,Serie A,Round 13
-Sassuolo,Venezia,Sun 06 Dec 2026 18:00,Serie A,Round 14
-Lecce,Napoli,Sun 06 Dec 2026 18:00,Serie A,Round 14
-AC Milan,Parma,Sun 06 Dec 2026 18:00,Serie A,Round 14
-Como,Monza,Sun 06 Dec 2026 18:00,Serie A,Round 14
-Atalanta,Lazio,Sun 06 Dec 2026 18:00,Serie A,Round 14
+Como,Juventus,Sun 29 Nov 2026 20:45,Serie A,Round 13
+Lecce,Atalanta,Mon 30 Nov 2026 18:30,Serie A,Round 13
+Cagliari,AC Milan,Mon 30 Nov 2026 20:45,Serie A,Round 13
+Bologna,AS Roma,Fri 04 Dec 2026 20:45,Serie A,Round 14
+Monza,Como,Sat 05 Dec 2026 15:00,Serie A,Round 14
+Frosinone,Inter,Sat 05 Dec 2026 18:00,Serie A,Round 14
+Napoli,Lecce,Sat 05 Dec 2026 20:45,Serie A,Round 14
+Genoa,Torino,Sun 06 Dec 2026 12:30,Serie A,Round 14
+Lazio,Atalanta,Sun 06 Dec 2026 15:00,Serie A,Round 14
 Juventus,Udinese,Sun 06 Dec 2026 18:00,Serie A,Round 14
-Genoa,Torino,Sun 06 Dec 2026 18:00,Serie A,Round 14
-Frosinone,Inter,Sun 06 Dec 2026 18:00,Serie A,Round 14
-Cagliari,Fiorentina,Sun 06 Dec 2026 18:00,Serie A,Round 14
-AS Roma,Bologna,Sun 06 Dec 2026 18:00,Serie A,Round 14
-Frosinone,Udinese,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Fiorentina,Parma,Sun 13 Dec 2026 18:00,Serie A,Round 15
-AC Milan,Napoli,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Lecce,Sassuolo,Sun 13 Dec 2026 18:00,Serie A,Round 15
-AS Roma,Lazio,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Juventus,Monza,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Inter,Torino,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Bologna,Como,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Cagliari,Venezia,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Atalanta,Genoa,Sun 13 Dec 2026 18:00,Serie A,Round 15
-Monza,Venezia,Sun 20 Dec 2026 18:00,Serie A,Round 16
-Cagliari,Torino,Sun 20 Dec 2026 18:00,Serie A,Round 16
-Parma,Sassuolo,Sun 20 Dec 2026 18:00,Serie A,Round 16
-AS Roma,Juventus,Sun 20 Dec 2026 18:00,Serie A,Round 16
-AC Milan,Como,Sun 20 Dec 2026 18:00,Serie A,Round 16
-Inter,Lecce,Sun 20 Dec 2026 18:00,Serie A,Round 16
+AC Milan,Parma,Sun 06 Dec 2026 20:45,Serie A,Round 14
+Venezia,Sassuolo,Mon 07 Dec 2026 18:30,Serie A,Round 14
+Fiorentina,Cagliari,Mon 07 Dec 2026 20:45,Serie A,Round 14
+Udinese,Frosinone,Fri 11 Dec 2026 20:45,Serie A,Round 15
+Cagliari,Venezia,Sat 12 Dec 2026 15:00,Serie A,Round 15
+Lecce,Sassuolo,Sat 12 Dec 2026 18:00,Serie A,Round 15
+Como,Bologna,Sat 12 Dec 2026 20:45,Serie A,Round 15
+Lazio,AS Roma,Sun 13 Dec 2026 12:30,Serie A,Round 15
+Inter,Torino,Sun 13 Dec 2026 15:00,Serie A,Round 15
+Parma,Fiorentina,Sun 13 Dec 2026 18:00,Serie A,Round 15
+Napoli,AC Milan,Sun 13 Dec 2026 20:45,Serie A,Round 15
+Atalanta,Genoa,Mon 14 Dec 2026 18:30,Serie A,Round 15
+Juventus,Monza,Mon 14 Dec 2026 20:45,Serie A,Round 15
+Frosinone,Lazio,Fri 18 Dec 2026 18:30,Serie A,Round 16
+Lecce,Inter,Fri 18 Dec 2026 20:45,Serie A,Round 16
+Sassuolo,Parma,Sat 19 Dec 2026 15:00,Serie A,Round 16
+AC Milan,Como,Sat 19 Dec 2026 18:00,Serie A,Round 16
+AS Roma,Juventus,Sat 19 Dec 2026 20:45,Serie A,Round 16
+Fiorentina,Bologna,Sun 20 Dec 2026 12:30,Serie A,Round 16
+Torino,Cagliari,Sun 20 Dec 2026 15:00,Serie A,Round 16
+Venezia,Monza,Sun 20 Dec 2026 15:00,Serie A,Round 16
 Genoa,Udinese,Sun 20 Dec 2026 18:00,Serie A,Round 16
-Frosinone,Lazio,Sun 20 Dec 2026 18:00,Serie A,Round 16
-Bologna,Fiorentina,Sun 20 Dec 2026 18:00,Serie A,Round 16
-Atalanta,Napoli,Sun 20 Dec 2026 18:00,Serie A,Round 16
-Atalanta,Udinese,Sun 03 Jan 2027 18:00,Serie A,Round 17
-Torino,Venezia,Sun 03 Jan 2027 18:00,Serie A,Round 17
-AS Roma,Frosinone,Sun 03 Jan 2027 18:00,Serie A,Round 17
-Napoli,Parma,Sun 03 Jan 2027 18:00,Serie A,Round 17
-AC Milan,Monza,Sun 03 Jan 2027 18:00,Serie A,Round 17
-Inter,Sassuolo,Sun 03 Jan 2027 18:00,Serie A,Round 17
-Fiorentina,Lazio,Sun 03 Jan 2027 18:00,Serie A,Round 17
-Como,Lecce,Sun 03 Jan 2027 18:00,Serie A,Round 17
-Cagliari,Genoa,Sun 03 Jan 2027 18:00,Serie A,Round 17
-Bologna,Juventus,Sun 03 Jan 2027 18:00,Serie A,Round 17
-AS Roma,Venezia,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Sassuolo,Udinese,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Cagliari,Napoli,Wed 06 Jan 2027 18:00,Serie A,Round 18
-AC Milan,Fiorentina,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Lecce,Parma,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Inter,Lazio,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Juventus,Torino,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Genoa,Monza,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Bologna,Frosinone,Wed 06 Jan 2027 18:00,Serie A,Round 18
+Atalanta,Napoli,Sun 20 Dec 2026 20:45,Serie A,Round 16
+Cagliari,Genoa,Sat 02 Jan 2027 12:30,Serie A,Round 17
+Fiorentina,Lazio,Sat 02 Jan 2027 15:00,Serie A,Round 17
+Torino,Venezia,Sat 02 Jan 2027 15:00,Serie A,Round 17
+AS Roma,Frosinone,Sat 02 Jan 2027 18:00,Serie A,Round 17
+Monza,AC Milan,Sat 02 Jan 2027 20:45,Serie A,Round 17
+Inter,Sassuolo,Sun 03 Jan 2027 12:30,Serie A,Round 17
+Como,Lecce,Sun 03 Jan 2027 15:00,Serie A,Round 17
+Udinese,Atalanta,Sun 03 Jan 2027 15:00,Serie A,Round 17
+Parma,Napoli,Sun 03 Jan 2027 18:00,Serie A,Round 17
+Bologna,Juventus,Sun 03 Jan 2027 20:45,Serie A,Round 17
+Genoa,Monza,Tue 05 Jan 2027 18:30,Serie A,Round 18
+Venezia,AS Roma,Tue 05 Jan 2027 18:30,Serie A,Round 18
+AC Milan,Fiorentina,Tue 05 Jan 2027 20:45,Serie A,Round 18
+Juventus,Torino,Wed 06 Jan 2027 12:30,Serie A,Round 18
+Frosinone,Bologna,Wed 06 Jan 2027 15:00,Serie A,Round 18
+Lecce,Parma,Wed 06 Jan 2027 15:00,Serie A,Round 18
 Atalanta,Como,Wed 06 Jan 2027 18:00,Serie A,Round 18
-Napoli,Udinese,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Atalanta,Torino,Sun 10 Jan 2027 18:00,Serie A,Round 19
-AC Milan,AS Roma,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Parma,Venezia,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Frosinone,Monza,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Inter,Juventus,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Fiorentina,Lecce,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Como,Lazio,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Cagliari,Sassuolo,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Bologna,Genoa,Sun 10 Jan 2027 18:00,Serie A,Round 19
-Frosinone,Venezia,Sun 17 Jan 2027 18:00,Serie A,Round 20
-Monza,Sassuolo,Sun 17 Jan 2027 18:00,Serie A,Round 20
-Inter,Parma,Sun 17 Jan 2027 18:00,Serie A,Round 20
-Fiorentina,Napoli,Sun 17 Jan 2027 18:00,Serie A,Round 20
-AC Milan,Torino,Sun 17 Jan 2027 18:00,Serie A,Round 20
-Lecce,Udinese,Sun 17 Jan 2027 18:00,Serie A,Round 20
-Bologna,Lazio,Sun 17 Jan 2027 18:00,Serie A,Round 20
-Genoa,Juventus,Sun 17 Jan 2027 18:00,Serie A,Round 20
-Cagliari,Como,Sun 17 Jan 2027 18:00,Serie A,Round 20
-AS Roma,Atalanta,Sun 17 Jan 2027 18:00,Serie A,Round 20
-AS Roma,Udinese,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Lazio,Monza,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Lecce,Torino,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Cagliari,Juventus,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Inter,Venezia,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Genoa,Parma,Sun 24 Jan 2027 18:00,Serie A,Round 21
-AC Milan,Frosinone,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Fiorentina,Sassuolo,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Como,Napoli,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Atalanta,Bologna,Sun 24 Jan 2027 18:00,Serie A,Round 21
-Bologna,Udinese,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Frosinone,Torino,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Como,Sassuolo,Sun 31 Jan 2027 18:00,Serie A,Round 22
-AS Roma,Monza,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Inter,Napoli,Sun 31 Jan 2027 18:00,Serie A,Round 22
-AC Milan,Juventus,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Lazio,Venezia,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Genoa,Lecce,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Cagliari,Parma,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Atalanta,Fiorentina,Sun 31 Jan 2027 18:00,Serie A,Round 22
-Genoa,Venezia,Sun 07 Feb 2027 18:00,Serie A,Round 23
-AS Roma,Torino,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Frosinone,Parma,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Lecce,Napoli,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Juventus,Sassuolo,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Cagliari,Inter,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Fiorentina,Udinese,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Como,Monza,Sun 07 Feb 2027 18:00,Serie A,Round 23
-AC Milan,Bologna,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Atalanta,Lazio,Sun 07 Feb 2027 18:00,Serie A,Round 23
-Udinese,Venezia,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Sassuolo,Torino,Sun 14 Feb 2027 18:00,Serie A,Round 24
-AS Roma,Parma,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Juventus,Napoli,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Lecce,Monza,Sun 14 Feb 2027 18:00,Serie A,Round 24
-AC Milan,Inter,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Atalanta,Genoa,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Fiorentina,Frosinone,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Cagliari,Lazio,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Bologna,Como,Sun 14 Feb 2027 18:00,Serie A,Round 24
-Cagliari,Venezia,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Parma,Udinese,Sun 21 Feb 2027 18:00,Serie A,Round 25
-AS Roma,Sassuolo,Sun 21 Feb 2027 18:00,Serie A,Round 25
-AC Milan,Genoa,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Frosinone,Lecce,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Lazio,Napoli,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Bologna,Juventus,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Fiorentina,Inter,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Como,Torino,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Atalanta,Monza,Sun 21 Feb 2027 18:00,Serie A,Round 25
-Fiorentina,Torino,Sun 28 Feb 2027 18:00,Serie A,Round 26
-AS Roma,Venezia,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Juventus,Monza,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Parma,Sassuolo,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Atalanta,Inter,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Genoa,Lazio,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Frosinone,Napoli,Sun 28 Feb 2027 18:00,Serie A,Round 26
-AC Milan,Como,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Cagliari,Udinese,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Bologna,Lecce,Sun 28 Feb 2027 18:00,Serie A,Round 26
-Bologna,Sassuolo,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Inter,Udinese,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Napoli,Parma,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Genoa,Monza,Sun 07 Mar 2027 18:00,Serie A,Round 27
-AC Milan,Cagliari,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Como,Lecce,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Frosinone,Lazio,Sun 07 Mar 2027 18:00,Serie A,Round 27
-AS Roma,Juventus,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Fiorentina,Venezia,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Atalanta,Torino,Sun 07 Mar 2027 18:00,Serie A,Round 27
-Atalanta,Venezia,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Inter,Torino,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Lecce,Parma,Sun 14 Mar 2027 18:00,Serie A,Round 28
-AC Milan,Sassuolo,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Juventus,Lazio,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Frosinone,Monza,Sun 14 Mar 2027 18:00,Serie A,Round 28
-AS Roma,Genoa,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Como,Udinese,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Cagliari,Fiorentina,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Bologna,Napoli,Sun 14 Mar 2027 18:00,Serie A,Round 28
-Torino,Udinese,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Cagliari,Sassuolo,Sun 21 Mar 2027 18:00,Serie A,Round 29
-AS Roma,Lecce,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Lazio,Parma,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Napoli,Venezia,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Bologna,Monza,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Como,Juventus,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Frosinone,Inter,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Fiorentina,Genoa,Sun 21 Mar 2027 18:00,Serie A,Round 29
-AC Milan,Atalanta,Sun 21 Mar 2027 18:00,Serie A,Round 29
-Parma,Venezia,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Juventus,Torino,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Atalanta,Sassuolo,Sun 04 Apr 2027 19:00,Serie A,Round 30
-AS Roma,Bologna,Sun 04 Apr 2027 19:00,Serie A,Round 30
-AC Milan,Monza,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Lazio,Lecce,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Genoa,Inter,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Frosinone,Udinese,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Como,Fiorentina,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Cagliari,Napoli,Sun 04 Apr 2027 19:00,Serie A,Round 30
-Monza,Udinese,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Como,Parma,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Napoli,Sassuolo,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Lazio,Torino,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Juventus,Lecce,Sun 11 Apr 2027 19:00,Serie A,Round 31
-AS Roma,Inter,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Frosinone,Genoa,Sun 11 Apr 2027 19:00,Serie A,Round 31
-AC Milan,Fiorentina,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Atalanta,Cagliari,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Bologna,Venezia,Sun 11 Apr 2027 19:00,Serie A,Round 31
-Juventus,Venezia,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Genoa,Torino,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Lecce,Sassuolo,Sun 18 Apr 2027 19:00,Serie A,Round 32
-AS Roma,Lazio,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Inter,Monza,Sun 18 Apr 2027 19:00,Serie A,Round 32
-AC Milan,Napoli,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Fiorentina,Parma,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Como,Frosinone,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Bologna,Cagliari,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Atalanta,Udinese,Sun 18 Apr 2027 19:00,Serie A,Round 32
-Torino,Venezia,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Atalanta,Parma,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Napoli,Udinese,Sun 25 Apr 2027 19:00,Serie A,Round 33
-AC Milan,Lecce,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Como,Lazio,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Fiorentina,Juventus,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Bologna,Inter,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Genoa,Sassuolo,Sun 25 Apr 2027 19:00,Serie A,Round 33
-AS Roma,Frosinone,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Cagliari,Monza,Sun 25 Apr 2027 19:00,Serie A,Round 33
-Genoa,Udinese,Sun 02 May 2027 19:00,Serie A,Round 34
-Parma,Torino,Sun 02 May 2027 19:00,Serie A,Round 34
-Frosinone,Sassuolo,Sun 02 May 2027 19:00,Serie A,Round 34
-AS Roma,Napoli,Sun 02 May 2027 19:00,Serie A,Round 34
-Monza,Venezia,Sun 02 May 2027 19:00,Serie A,Round 34
-AC Milan,Lazio,Sun 02 May 2027 19:00,Serie A,Round 34
-Cagliari,Lecce,Sun 02 May 2027 19:00,Serie A,Round 34
-Como,Inter,Sun 02 May 2027 19:00,Serie A,Round 34
-Bologna,Fiorentina,Sun 02 May 2027 19:00,Serie A,Round 34
-Atalanta,Juventus,Sun 02 May 2027 19:00,Serie A,Round 34
-Como,Venezia,Sun 09 May 2027 19:00,Serie A,Round 35
-Juventus,Udinese,Sun 09 May 2027 19:00,Serie A,Round 35
-Bologna,Torino,Sun 09 May 2027 19:00,Serie A,Round 35
-AC Milan,Parma,Sun 09 May 2027 19:00,Serie A,Round 35
-Monza,Napoli,Sun 09 May 2027 19:00,Serie A,Round 35
-Lazio,Sassuolo,Sun 09 May 2027 19:00,Serie A,Round 35
-Inter,Lecce,Sun 09 May 2027 19:00,Serie A,Round 35
-Cagliari,Genoa,Sun 09 May 2027 19:00,Serie A,Round 35
-Atalanta,Frosinone,Sun 09 May 2027 19:00,Serie A,Round 35
-AS Roma,Fiorentina,Sun 09 May 2027 19:00,Serie A,Round 35
-Sassuolo,Venezia,Sun 16 May 2027 19:00,Serie A,Round 36
-Genoa,Napoli,Sun 16 May 2027 19:00,Serie A,Round 36
-Monza,Parma,Sun 16 May 2027 19:00,Serie A,Round 36
-AC Milan,AS Roma,Sun 16 May 2027 19:00,Serie A,Round 36
-Fiorentina,Lecce,Sun 16 May 2027 19:00,Serie A,Round 36
-Lazio,Udinese,Sun 16 May 2027 19:00,Serie A,Round 36
-Inter,Juventus,Sun 16 May 2027 19:00,Serie A,Round 36
-Atalanta,Como,Sun 16 May 2027 19:00,Serie A,Round 36
-Cagliari,Torino,Sun 16 May 2027 19:00,Serie A,Round 36
-Bologna,Frosinone,Sun 16 May 2027 19:00,Serie A,Round 36
-AC Milan,Venezia,Sun 23 May 2027 19:00,Serie A,Round 37
-Napoli,Torino,Sun 23 May 2027 19:00,Serie A,Round 37
-Sassuolo,Udinese,Sun 23 May 2027 19:00,Serie A,Round 37
-AS Roma,Como,Sun 23 May 2027 19:00,Serie A,Round 37
-Juventus,Parma,Sun 23 May 2027 19:00,Serie A,Round 37
-Inter,Lazio,Sun 23 May 2027 19:00,Serie A,Round 37
-Cagliari,Frosinone,Sun 23 May 2027 19:00,Serie A,Round 37
-Bologna,Genoa,Sun 23 May 2027 19:00,Serie A,Round 37
-Fiorentina,Monza,Sun 23 May 2027 19:00,Serie A,Round 37
-Atalanta,Lecce,Sun 23 May 2027 19:00,Serie A,Round 37
-AC Milan,Udinese,Sun 30 May 2027 19:00,Serie A,Round 38
-Inter,Sassuolo,Sun 30 May 2027 19:00,Serie A,Round 38
-Monza,Torino,Sun 30 May 2027 19:00,Serie A,Round 38
-Lecce,Venezia,Sun 30 May 2027 19:00,Serie A,Round 38
-Atalanta,Napoli,Sun 30 May 2027 19:00,Serie A,Round 38
-Frosinone,Juventus,Sun 30 May 2027 19:00,Serie A,Round 38
-Fiorentina,Lazio,Sun 30 May 2027 19:00,Serie A,Round 38
-AS Roma,Cagliari,Sun 30 May 2027 19:00,Serie A,Round 38
-Como,Genoa,Sun 30 May 2027 19:00,Serie A,Round 38
-Bologna,Parma,Sun 30 May 2027 19:00,Serie A,Round 38
+Lazio,Inter,Wed 06 Jan 2027 20:45,Serie A,Round 18
+Sassuolo,Udinese,Thu 07 Jan 2027 18:30,Serie A,Round 18
+Napoli,Cagliari,Thu 07 Jan 2027 20:45,Serie A,Round 18
+Monza,Frosinone,Sat 09 Jan 2027 15:00,Serie A,Round 19
+AS Roma,AC Milan,Sat 09 Jan 2027 18:00,Serie A,Round 19
+Bologna,Genoa,Sat 09 Jan 2027 20:45,Serie A,Round 19
+Como,Lazio,Sun 10 Jan 2027 12:30,Serie A,Round 19
+Fiorentina,Lecce,Sun 10 Jan 2027 15:00,Serie A,Round 19
+Parma,Venezia,Sun 10 Jan 2027 15:00,Serie A,Round 19
+Torino,Atalanta,Sun 10 Jan 2027 18:00,Serie A,Round 19
+Inter,Juventus,Sun 10 Jan 2027 20:45,Serie A,Round 19
+Cagliari,Sassuolo,Mon 11 Jan 2027 18:30,Serie A,Round 19
+Udinese,Napoli,Mon 11 Jan 2027 20:45,Serie A,Round 19
+Atalanta,AS Roma,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Cagliari,Como,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Juventus,Genoa,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Lazio,Bologna,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Lecce,Udinese,Sat 16 Jan 2027 TBD,Serie A,Round 20
+AC Milan,Torino,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Napoli,Fiorentina,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Parma,Inter,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Sassuolo,Monza,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Venezia,Frosinone,Sat 16 Jan 2027 TBD,Serie A,Round 20
+Bologna,Atalanta,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Como,Napoli,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Fiorentina,Sassuolo,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Frosinone,AC Milan,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Genoa,Parma,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Inter,Venezia,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Juventus,Cagliari,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Lecce,Torino,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Monza,Lazio,Sat 23 Jan 2027 TBD,Serie A,Round 21
+AS Roma,Udinese,Sat 23 Jan 2027 TBD,Serie A,Round 21
+Atalanta,Fiorentina,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Cagliari,Parma,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Genoa,Lecce,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Lazio,Venezia,Sat 30 Jan 2027 TBD,Serie A,Round 22
+AC Milan,Juventus,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Monza,AS Roma,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Napoli,Inter,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Sassuolo,Como,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Torino,Frosinone,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Udinese,Bologna,Sat 30 Jan 2027 TBD,Serie A,Round 22
+Atalanta,Lazio,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Bologna,AC Milan,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Como,Monza,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Fiorentina,Udinese,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Inter,Cagliari,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Juventus,Sassuolo,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Lecce,Napoli,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Parma,Frosinone,Sat 06 Feb 2027 TBD,Serie A,Round 23
+AS Roma,Torino,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Venezia,Genoa,Sat 06 Feb 2027 TBD,Serie A,Round 23
+Bologna,Como,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Cagliari,Lazio,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Frosinone,Fiorentina,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Genoa,Atalanta,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Inter,AC Milan,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Monza,Lecce,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Napoli,Juventus,Sat 13 Feb 2027 TBD,Serie A,Round 24
+AS Roma,Parma,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Torino,Sassuolo,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Udinese,Venezia,Sat 13 Feb 2027 TBD,Serie A,Round 24
+Atalanta,Monza,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Como,Torino,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Fiorentina,Inter,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Juventus,Bologna,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Lazio,Napoli,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Lecce,Frosinone,Sat 20 Feb 2027 TBD,Serie A,Round 25
+AC Milan,Genoa,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Sassuolo,AS Roma,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Udinese,Parma,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Venezia,Cagliari,Sat 20 Feb 2027 TBD,Serie A,Round 25
+Bologna,Lecce,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Cagliari,Udinese,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Como,AC Milan,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Frosinone,Napoli,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Genoa,Lazio,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Inter,Atalanta,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Monza,Juventus,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Parma,Sassuolo,Sat 27 Feb 2027 TBD,Serie A,Round 26
+AS Roma,Venezia,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Torino,Fiorentina,Sat 27 Feb 2027 TBD,Serie A,Round 26
+Atalanta,Torino,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Fiorentina,Venezia,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Juventus,AS Roma,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Lazio,Frosinone,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Lecce,Como,Sat 06 Mar 2027 TBD,Serie A,Round 27
+AC Milan,Cagliari,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Monza,Genoa,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Napoli,Parma,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Sassuolo,Bologna,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Udinese,Inter,Sat 06 Mar 2027 TBD,Serie A,Round 27
+Bologna,Napoli,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Cagliari,Fiorentina,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Como,Udinese,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Frosinone,Monza,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Genoa,AS Roma,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Lazio,Juventus,Sat 13 Mar 2027 TBD,Serie A,Round 28
+AC Milan,Sassuolo,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Parma,Lecce,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Torino,Inter,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Venezia,Atalanta,Sat 13 Mar 2027 TBD,Serie A,Round 28
+Atalanta,AC Milan,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Fiorentina,Genoa,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Inter,Frosinone,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Juventus,Como,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Monza,Bologna,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Napoli,Venezia,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Parma,Lazio,Sat 20 Mar 2027 TBD,Serie A,Round 29
+AS Roma,Lecce,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Sassuolo,Cagliari,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Udinese,Torino,Sat 20 Mar 2027 TBD,Serie A,Round 29
+Cagliari,Napoli,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Como,Fiorentina,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Frosinone,Udinese,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Genoa,Inter,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Lecce,Lazio,Sat 03 Apr 2027 TBD,Serie A,Round 30
+AC Milan,Monza,Sat 03 Apr 2027 TBD,Serie A,Round 30
+AS Roma,Bologna,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Sassuolo,Atalanta,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Torino,Juventus,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Venezia,Parma,Sat 03 Apr 2027 TBD,Serie A,Round 30
+Bologna,Venezia,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Cagliari,Atalanta,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Fiorentina,AC Milan,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Frosinone,Genoa,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Inter,AS Roma,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Juventus,Lecce,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Lazio,Torino,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Napoli,Sassuolo,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Parma,Como,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Udinese,Monza,Sat 10 Apr 2027 TBD,Serie A,Round 31
+Atalanta,Udinese,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Bologna,Cagliari,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Como,Frosinone,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Fiorentina,Parma,Sat 17 Apr 2027 TBD,Serie A,Round 32
+AC Milan,Napoli,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Monza,Inter,Sat 17 Apr 2027 TBD,Serie A,Round 32
+AS Roma,Lazio,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Sassuolo,Lecce,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Torino,Genoa,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Venezia,Juventus,Sat 17 Apr 2027 TBD,Serie A,Round 32
+Cagliari,Monza,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Frosinone,AS Roma,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Genoa,Sassuolo,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Inter,Bologna,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Juventus,Fiorentina,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Lazio,Como,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Lecce,AC Milan,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Napoli,Udinese,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Parma,Atalanta,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Venezia,Torino,Sat 24 Apr 2027 TBD,Serie A,Round 33
+Atalanta,Juventus,Sat 01 May 2027 TBD,Serie A,Round 34
+Bologna,Fiorentina,Sat 01 May 2027 TBD,Serie A,Round 34
+Como,Inter,Sat 01 May 2027 TBD,Serie A,Round 34
+Lecce,Cagliari,Sat 01 May 2027 TBD,Serie A,Round 34
+AC Milan,Lazio,Sat 01 May 2027 TBD,Serie A,Round 34
+Monza,Venezia,Sat 01 May 2027 TBD,Serie A,Round 34
+AS Roma,Napoli,Sat 01 May 2027 TBD,Serie A,Round 34
+Sassuolo,Frosinone,Sat 01 May 2027 TBD,Serie A,Round 34
+Torino,Parma,Sat 01 May 2027 TBD,Serie A,Round 34
+Udinese,Genoa,Sat 01 May 2027 TBD,Serie A,Round 34
+Fiorentina,AS Roma,Sat 08 May 2027 TBD,Serie A,Round 35
+Frosinone,Atalanta,Sat 08 May 2027 TBD,Serie A,Round 35
+Genoa,Cagliari,Sat 08 May 2027 TBD,Serie A,Round 35
+Inter,Lecce,Sat 08 May 2027 TBD,Serie A,Round 35
+Lazio,Sassuolo,Sat 08 May 2027 TBD,Serie A,Round 35
+Napoli,Monza,Sat 08 May 2027 TBD,Serie A,Round 35
+Parma,AC Milan,Sat 08 May 2027 TBD,Serie A,Round 35
+Torino,Bologna,Sat 08 May 2027 TBD,Serie A,Round 35
+Udinese,Juventus,Sat 08 May 2027 TBD,Serie A,Round 35
+Venezia,Como,Sat 08 May 2027 TBD,Serie A,Round 35
+Bologna,Frosinone,Sat 15 May 2027 TBD,Serie A,Round 36
+Cagliari,Torino,Sat 15 May 2027 TBD,Serie A,Round 36
+Como,Atalanta,Sat 15 May 2027 TBD,Serie A,Round 36
+Juventus,Inter,Sat 15 May 2027 TBD,Serie A,Round 36
+Lazio,Udinese,Sat 15 May 2027 TBD,Serie A,Round 36
+Lecce,Fiorentina,Sat 15 May 2027 TBD,Serie A,Round 36
+AC Milan,AS Roma,Sat 15 May 2027 TBD,Serie A,Round 36
+Monza,Parma,Sat 15 May 2027 TBD,Serie A,Round 36
+Napoli,Genoa,Sat 15 May 2027 TBD,Serie A,Round 36
+Sassuolo,Venezia,Sat 15 May 2027 TBD,Serie A,Round 36
+Atalanta,Lecce,Sat 22 May 2027 TBD,Serie A,Round 37
+Fiorentina,Monza,Sat 22 May 2027 TBD,Serie A,Round 37
+Frosinone,Cagliari,Sat 22 May 2027 TBD,Serie A,Round 37
+Genoa,Bologna,Sat 22 May 2027 TBD,Serie A,Round 37
+Inter,Lazio,Sat 22 May 2027 TBD,Serie A,Round 37
+Parma,Juventus,Sat 22 May 2027 TBD,Serie A,Round 37
+AS Roma,Como,Sat 22 May 2027 TBD,Serie A,Round 37
+Torino,Napoli,Sat 22 May 2027 TBD,Serie A,Round 37
+Udinese,Sassuolo,Sat 22 May 2027 TBD,Serie A,Round 37
+Venezia,AC Milan,Sat 22 May 2027 TBD,Serie A,Round 37
+Bologna,Parma,Sat 29 May 2027 TBD,Serie A,Round 38
+Cagliari,AS Roma,Sat 29 May 2027 TBD,Serie A,Round 38
+Como,Genoa,Sat 29 May 2027 TBD,Serie A,Round 38
+Juventus,Frosinone,Sat 29 May 2027 TBD,Serie A,Round 38
+Lazio,Fiorentina,Sat 29 May 2027 TBD,Serie A,Round 38
+Lecce,Venezia,Sat 29 May 2027 TBD,Serie A,Round 38
+AC Milan,Udinese,Sat 29 May 2027 TBD,Serie A,Round 38
+Monza,Torino,Sat 29 May 2027 TBD,Serie A,Round 38
+Napoli,Atalanta,Sat 29 May 2027 TBD,Serie A,Round 38
+Sassuolo,Inter,Sat 29 May 2027 TBD,Serie A,Round 38

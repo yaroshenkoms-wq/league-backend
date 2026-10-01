@@ -10,15 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "archiver": "^8.0.0",
-    "axios": "^1.18.1",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "express-rate-limit": "^8.6.0",
-    "extract-zip": "^2.0.1",
-    "firebase-admin": "^11.11.1",
+    "firebase-admin": "^13.10.0",
     "node-cron": "^4.6.0"
   },
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": ">=20"
+  }
 }
