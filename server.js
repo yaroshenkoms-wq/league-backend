@@ -1163,7 +1163,8 @@ if (BACKGROUND_JOBS) {
   }, 10000);
 }
 
-app.listen(PORT, () => {
+// HOST=127.0.0.1 на своём сервере: снаружи — только через Caddy (HTTPS)
+app.listen(PORT, process.env.HOST, () => {
   console.log(`\n🚀 Server running on http://localhost:${PORT}`);
   console.log('📋 Доступные эндпоинты:\n');
   console.log('  📊 MATCHES:');
