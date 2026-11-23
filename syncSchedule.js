@@ -203,6 +203,19 @@ async function syncLeague(league, now, { force = false, dir = __dirname } = {}) 
         report.results++;
         if (!other) report.resultsSingleSource++;
       }
+    } else if (finished) {
+      // fixturedownload бывает выкладывает счёт с опозданием больше суток, а football-data уже его дал:
+      // берём счёт оттуда, чтобы результаты не ждали
+      const other = crossCheck.get(`${home}|${away}`);
+      if (other) {
+        const [h, a] = other.split(':').map(Number);
+        if (Number.isInteger(h) && Number.isInteger(a) && Math.max(h, a) <= MAX_GOALS) {
+          result = { home: h, away: a };
+          report.results++;
+          report.resultsSingleSource++;
+          report.fromFootballData = (report.fromFootballData || 0) + 1;
+        }
+      }
     }
 
     // Результат, вписанный вручную, не теряем, пока источники не дали свой
@@ -264,7 +277,7 @@ async function main() {
       console.log(`\n${league.name}: ОШИБКА — ${error}`);
       continue;
     }
-    console.log(`\n${league.name}: матчей ${report.total}, с результатом ${report.results + report.preserved} (новых: ${report.newResults}, вручную: ${report.preserved}, из одного источника: ${report.resultsSingleSource}), время не назначено: ${report.tbd}${changed ? '' : ' — без изменений'}`);
+    console.log(`\n${league.name}: матчей ${report.total}, с результатом ${report.results + report.preserved} (новых: ${report.newResults}, вручную: ${report.preserved}, из одного источника: ${report.resultsSingleSource}), время не назначено: ${report.tbd}${report.fromFootballData ? `, счёт только из football-data: ${report.fromFootballData}` : ''}${changed ? '' : ' — без изменений'}`);
     if (report.idsRemoved) console.log(`  ID матчей: сохранилось ${report.idsKept}, исчезло ${report.idsRemoved}`);
     if (report.conflicts.length) console.log('  КОНФЛИКТ источников (результат не записан):', report.conflicts);
     if (report.awaiting.length) console.log(`  Матч закончился, но счёта в источниках ещё нет (${report.awaiting.length}):`, report.awaiting);
