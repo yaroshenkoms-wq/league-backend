@@ -142,3 +142,14 @@ test('ID матча еврокубка включает турнир и тур, 
     makeMatchId({ home: 'A', away: 'B', league: 'Champions League', round: 'Round 2' }),
     makeMatchId({ home: 'A', away: 'B', league: 'Champions League', round: 'Round 9' }));
 });
+
+test('новые лиги: ID матча и часовой пояс', () => {
+  // Нации и шотландская лига — с кодом и туром (в Шотландии пара встречается трижды за сезон)
+  assert.strictEqual(makeMatchId({ home: 'Spain', away: 'France', league: 'Nations League', round: 'Round 3' }), 'Spain_France_NL3');
+  assert.strictEqual(makeMatchId({ home: 'Celtic', away: 'Rangers', league: 'Scottish Premiership', round: 'Round 12' }), 'Celtic_Rangers_SPFL12');
+  // Остальные новые лиги — как обычный чемпионат
+  assert.strictEqual(makeMatchId({ home: 'Ajax', away: 'PSV', league: 'Eredivisie', round: 'Round 3' }), 'Ajax_PSV');
+  // Лиссабон зимой = UTC, Стамбул всегда UTC+3
+  assert.strictEqual(kickoffTime('Sat 10 Jan 2026 20:00', 'Primeira Liga').toISOString(), '2026-01-10T20:00:00.000Z');
+  assert.strictEqual(kickoffTime('Sat 10 Jan 2026 20:00', 'Süper Lig').toISOString(), '2026-01-10T17:00:00.000Z');
+});

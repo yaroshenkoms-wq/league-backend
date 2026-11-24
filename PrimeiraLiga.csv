@@ -1,0 +1,307 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Estoril Praia,FC Famalicão,Fri 07 Aug 2026 20:15,Primeira Liga,Round 1,true,1,true,1,1,1:1,1,1
+Marítimo M.,Casa Pia AC,Sat 08 Aug 2026 15:30,Primeira Liga,Round 1,true,2,true,1,0,1:0,1,0
+Vitória SC,FC Arouca,Sat 08 Aug 2026 18:00,Primeira Liga,Round 1,true,3,true,0,1,0:1,0,1
+Estrela Amadora,Sporting CP,Sat 08 Aug 2026 20:30,Primeira Liga,Round 1,true,4,true,2,2,2:2,2,2
+FC Porto,FC Alverca,Sun 09 Aug 2026 18:00,Primeira Liga,Round 1,true,5,true,2,0,2:0,2,0
+Gil Vicente FC,Rio Ave FC,Sun 09 Aug 2026 20:30,Primeira Liga,Round 1,true,6,true,1,0,1:0,1,0
+Moreirense FC,SC Braga,Sun 09 Aug 2026 20:30,Primeira Liga,Round 1,true,7,true,2,2,2:2,2,2
+SL Benfica,Académico,Sun 09 Aug 2026 20:30,Primeira Liga,Round 1,true,8,true,2,2,2:2,2,2
+Santa Clara,CD Nacional,Mon 10 Aug 2026 20:15,Primeira Liga,Round 1,true,9,true,2,2,2:2,2,2
+Sporting CP,Vitória SC,Fri 14 Aug 2026 20:15,Primeira Liga,Round 2,true,10,true,3,2,3:2,3,2
+FC Alverca,Estrela Amadora,Sat 15 Aug 2026 15:30,Primeira Liga,Round 2,true,11,true,2,2,2:2,2,2
+Académico,Santa Clara,Sat 15 Aug 2026 18:00,Primeira Liga,Round 2,true,12,true,0,1,0:1,0,1
+Rio Ave FC,FC Porto,Sat 15 Aug 2026 20:30,Primeira Liga,Round 2,true,13,true,0,2,0:2,0,2
+CD Nacional,Estoril Praia,Sun 16 Aug 2026 15:30,Primeira Liga,Round 2,true,14,true,2,0,2:0,2,0
+FC Arouca,Moreirense FC,Sun 16 Aug 2026 18:00,Primeira Liga,Round 2,true,15,true,4,0,4:0,4,0
+FC Famalicão,Marítimo M.,Sun 16 Aug 2026 20:30,Primeira Liga,Round 2,true,16,true,1,2,1:2,1,2
+Casa Pia AC,SL Benfica,Mon 17 Aug 2026 20:15,Primeira Liga,Round 2,true,17,true,0,7,0:7,0,7
+SC Braga,Gil Vicente FC,Mon 19 Oct 2026 20:15,Primeira Liga,Round 2,true,18,true,1,2,1:2,1,2
+Marítimo M.,Académico,Sat 22 Aug 2026 15:30,Primeira Liga,Round 3,true,19,true,2,2,2:2,2,2
+Estoril Praia,Rio Ave FC,Sat 22 Aug 2026 18:00,Primeira Liga,Round 3,true,20,true,0,2,0:2,0,2
+Sporting CP,FC Alverca,Sat 22 Aug 2026 20:30,Primeira Liga,Round 3,true,21,true,3,1,3:1,3,1
+Vitória SC,CD Nacional,Sun 23 Aug 2026 15:30,Primeira Liga,Round 3,true,22,true,1,0,1:0,1,0
+Santa Clara,FC Famalicão,Sun 23 Aug 2026 18:00,Primeira Liga,Round 3,true,23,true,1,0,1:0,1,0
+FC Porto,FC Arouca,Sun 23 Aug 2026 20:30,Primeira Liga,Round 3,true,24,true,2,0,2:0,2,0
+Gil Vicente FC,Casa Pia AC,Mon 24 Aug 2026 20:15,Primeira Liga,Round 3,true,25,true,2,0,2:0,2,0
+Moreirense FC,SL Benfica,Wed 09 Sep 2026 20:45,Primeira Liga,Round 3,true,26,true,0,4,0:4,0,4
+Estrela Amadora,SC Braga,Thu 10 Sep 2026 20:15,Primeira Liga,Round 3,true,27,true,2,1,2:1,2,1
+Rio Ave FC,Sporting CP,Fri 28 Aug 2026 20:15,Primeira Liga,Round 4,true,28,true,0,4,0:4,0,4
+FC Alverca,Santa Clara,Sat 29 Aug 2026 15:30,Primeira Liga,Round 4,true,29,true,1,1,1:1,1,1
+FC Arouca,Marítimo M.,Sat 29 Aug 2026 15:30,Primeira Liga,Round 4,true,30,true,2,1,2:1,2,1
+Académico,FC Porto,Sat 29 Aug 2026 18:00,Primeira Liga,Round 4,true,31,true,0,3,0:3,0,3
+CD Nacional,Estrela Amadora,Sun 30 Aug 2026 15:30,Primeira Liga,Round 4,true,32,true,2,3,2:3,2,3
+Casa Pia AC,Moreirense FC,Sun 30 Aug 2026 18:00,Primeira Liga,Round 4,true,33,true,0,1,0:1,0,1
+FC Famalicão,Gil Vicente FC,Sun 30 Aug 2026 20:30,Primeira Liga,Round 4,true,34,true,0,0,0:0,0,0
+SC Braga,Vitória SC,Mon 31 Aug 2026 20:15,Primeira Liga,Round 4,true,35,true,1,0,1:0,1,0
+SL Benfica,Estoril Praia,Mon 31 Aug 2026 20:15,Primeira Liga,Round 4,true,36,true,2,1,2:1,2,1
+FC Porto,Moreirense FC,Fri 04 Sep 2026 20:15,Primeira Liga,Round 5,true,37,true,2,1,2:1,2,1
+Estrela Amadora,FC Famalicão,Sat 05 Sep 2026 15:30,Primeira Liga,Round 5,true,38,true,2,2,2:2,2,2
+FC Alverca,SC Braga,Sat 05 Sep 2026 18:00,Primeira Liga,Round 5,true,39,true,1,2,1:2,1,2
+Marítimo M.,SL Benfica,Sat 05 Sep 2026 18:00,Primeira Liga,Round 5,true,40,true,0,3,0:3,0,3
+Sporting CP,CD Nacional,Sat 05 Sep 2026 20:30,Primeira Liga,Round 5,true,41,true,2,0,2:0,2,0
+Santa Clara,Rio Ave FC,Sun 06 Sep 2026 15:30,Primeira Liga,Round 5,true,42,true,4,0,4:0,4,0
+Vitória SC,Casa Pia AC,Sun 06 Sep 2026 18:00,Primeira Liga,Round 5,true,43,true,0,0,0:0,0,0
+Gil Vicente FC,Académico,Sun 06 Sep 2026 20:30,Primeira Liga,Round 5,true,44,true,0,1,0:1,0,1
+Estoril Praia,FC Arouca,Mon 07 Sep 2026 20:15,Primeira Liga,Round 5,true,45,true,0,0,0:0,0,0
+CD Nacional,FC Alverca,Sat 12 Sep 2026 15:30,Primeira Liga,Round 6,true,46,true,1,3,1:3,1,3
+Casa Pia AC,FC Porto,Sat 12 Sep 2026 18:00,Primeira Liga,Round 6,true,47,true,1,4,1:4,1,4
+Académico,Vitória SC,Sat 12 Sep 2026 20:30,Primeira Liga,Round 6,true,48,true,2,1,2:1,2,1
+FC Arouca,Santa Clara,Sun 13 Sep 2026 18:00,Primeira Liga,Round 6,true,49,true,1,2,1:2,1,2
+SL Benfica,Gil Vicente FC,Sun 13 Sep 2026 18:00,Primeira Liga,Round 6,true,50,true,3,1,3:1,3,1
+FC Famalicão,Sporting CP,Sun 13 Sep 2026 20:30,Primeira Liga,Round 6,true,51,true,1,1,1:1,1,1
+Rio Ave FC,Estrela Amadora,Mon 14 Sep 2026 18:45,Primeira Liga,Round 6,true,52,true,3,3,3:3,3,3
+Moreirense FC,Marítimo M.,Mon 14 Sep 2026 20:15,Primeira Liga,Round 6,true,53,true,3,1,3:1,3,1
+SC Braga,Estoril Praia,Mon 14 Sep 2026 20:45,Primeira Liga,Round 6,true,54,true,1,0,1:0,1,0
+Gil Vicente FC,Marítimo M.,Sat 19 Sep 2026 15:30,Primeira Liga,Round 7,true,55,true,1,1,1:1,1,1
+CD Nacional,FC Famalicão,Sat 19 Sep 2026 15:30,Primeira Liga,Round 7,true,56,true,0,4,0:4,0,4
+FC Alverca,Rio Ave FC,Sat 19 Sep 2026 18:00,Primeira Liga,Round 7,true,57,true,1,0,1:0,1,0
+Sporting CP,FC Arouca,Sat 19 Sep 2026 20:30,Primeira Liga,Round 7,true,58,true,2,2,2:2,2,2
+Estrela Amadora,Académico,Sun 20 Sep 2026 15:30,Primeira Liga,Round 7,true,59,true,0,2,0:2,0,2
+Vitória SC,Moreirense FC,Sun 20 Sep 2026 15:30,Primeira Liga,Round 7,true,60,true,1,1,1:1,1,1
+Estoril Praia,Casa Pia AC,Sun 20 Sep 2026 18:00,Primeira Liga,Round 7,true,61,true,1,2,1:2,1,2
+Santa Clara,SC Braga,Sun 20 Sep 2026 18:00,Primeira Liga,Round 7,true,62,true,0,0,0:0,0,0
+FC Porto,SL Benfica,Sun 20 Sep 2026 20:30,Primeira Liga,Round 7,true,63,true,3,1,3:1,3,1
+Moreirense FC,Gil Vicente FC,Fri 09 Oct 2026 18:45,Primeira Liga,Round 8,true,64,true,0,1,0:1,0,1
+SC Braga,Sporting CP,Fri 09 Oct 2026 20:15,Primeira Liga,Round 8,true,65,true,1,3,1:3,1,3
+Marítimo M.,FC Porto,Sat 10 Oct 2026 18:00,Primeira Liga,Round 8,true,66,true,1,2,1:2,1,2
+Académico,Estoril Praia,Sat 10 Oct 2026 20:30,Primeira Liga,Round 8,true,67,true,2,1,2:1,2,1
+Casa Pia AC,Santa Clara,Sat 10 Oct 2026 20:30,Primeira Liga,Round 8,true,68,true,0,1,0:1,0,1
+Rio Ave FC,CD Nacional,Sun 11 Oct 2026 15:30,Primeira Liga,Round 8,true,69,true,3,2,3:2,3,2
+SL Benfica,Vitória SC,Sun 11 Oct 2026 18:00,Primeira Liga,Round 8,true,70,true,2,0,2:0,2,0
+FC Arouca,Estrela Amadora,Sun 11 Oct 2026 20:30,Primeira Liga,Round 8,true,71,true,1,0,1:0,1,0
+FC Famalicão,FC Alverca,Mon 12 Oct 2026 20:15,Primeira Liga,Round 8,true,72,true,1,4,1:4,1,4
+Vitória SC,Marítimo M.,Fri 23 Oct 2026 20:45,Primeira Liga,Round 9,true,73,true,5,0,5:0,5,0
+Estrela Amadora,Casa Pia AC,Sat 24 Oct 2026 15:30,Primeira Liga,Round 9,true,74,true,0,2,0:2,0,2
+FC Alverca,FC Arouca,Sat 24 Oct 2026 18:00,Primeira Liga,Round 9,true,75,true,0,1,0:1,0,1
+Gil Vicente FC,FC Porto,Sat 24 Oct 2026 20:30,Primeira Liga,Round 9,true,76,true,0,1,0:1,0,1
+Estoril Praia,Moreirense FC,Sun 25 Oct 2026 15:30,Primeira Liga,Round 9,true,77,true,1,3,1:3,1,3
+CD Nacional,SC Braga,Sun 25 Oct 2026 18:00,Primeira Liga,Round 9,true,78,true,1,0,1:0,1,0
+Rio Ave FC,FC Famalicão,Sun 25 Oct 2026 18:00,Primeira Liga,Round 9,true,79,true,0,4,0:4,0,4
+Sporting CP,Académico,Sun 25 Oct 2026 20:30,Primeira Liga,Round 9,true,80,true,1,2,1:2,1,2
+Santa Clara,SL Benfica,Mon 26 Oct 2026 18:45,Primeira Liga,Round 9,true,81,true,1,2,1:2,1,2
+Casa Pia AC,Sporting CP,Fri 30 Oct 2026 20:15,Primeira Liga,Round 10,true,82,true,0,2,0:2,0,2
+Moreirense FC,Estrela Amadora,Sat 31 Oct 2026 15:30,Primeira Liga,Round 10,true,83,true,2,1,2:1,2,1
+FC Porto,Estoril Praia,Sat 31 Oct 2026 20:30,Primeira Liga,Round 10,true,84,true,4,0,4:0,4,0
+FC Arouca,CD Nacional,Sun 01 Nov 2026 15:30,Primeira Liga,Round 10,true,85,true,1,0,1:0,1,0
+Académico,Rio Ave FC,Sun 01 Nov 2026 18:00,Primeira Liga,Round 10,true,86,true,2,1,2:1,2,1
+Marítimo M.,Santa Clara,Sun 01 Nov 2026 18:00,Primeira Liga,Round 10,true,87,true,0,2,0:2,0,2
+SC Braga,FC Famalicão,Sun 01 Nov 2026 20:30,Primeira Liga,Round 10,true,88,true,3,0,3:0,3,0
+Gil Vicente FC,Vitória SC,Mon 02 Nov 2026 20:15,Primeira Liga,Round 10,true,89,true,0,0,0:0,0,0
+SL Benfica,FC Alverca,Mon 02 Nov 2026 20:15,Primeira Liga,Round 10,true,90,true,1,0,1:0,1,0
+FC Famalicão,FC Arouca,Fri 06 Nov 2026 20:45,Primeira Liga,Round 11,true,91,true,1,0,1:0,1,0
+FC Alverca,Casa Pia AC,Sat 07 Nov 2026 18:00,Primeira Liga,Round 11,true,92,true,1,1,1:1,1,1
+Sporting CP,Moreirense FC,Sat 07 Nov 2026 20:30,Primeira Liga,Round 11,true,93,true,1,0,1:0,1,0
+CD Nacional,Académico,Sun 08 Nov 2026 15:30,Primeira Liga,Round 11,true,94,true,1,0,1:0,1,0
+Santa Clara,Gil Vicente FC,Sun 08 Nov 2026 15:30,Primeira Liga,Round 11,true,95,true,1,2,1:2,1,2
+Vitória SC,FC Porto,Sun 08 Nov 2026 18:00,Primeira Liga,Round 11,true,96,true,1,2,1:2,1,2
+Estrela Amadora,SL Benfica,Sun 08 Nov 2026 20:30,Primeira Liga,Round 11,true,97,true,2,3,2:3,2,3
+Rio Ave FC,SC Braga,Sun 08 Nov 2026 20:30,Primeira Liga,Round 11,true,98,true,0,1,0:1,0,1
+Estoril Praia,Marítimo M.,Mon 04 Jan 2027 20:15,Primeira Liga,Round 11
+Marítimo M.,CD Nacional,Fri 27 Nov 2026 20:15,Primeira Liga,Round 12
+FC Arouca,Rio Ave FC,Sat 28 Nov 2026 15:30,Primeira Liga,Round 12
+Moreirense FC,Santa Clara,Sat 28 Nov 2026 15:30,Primeira Liga,Round 12
+Académico,FC Alverca,Sat 28 Nov 2026 18:00,Primeira Liga,Round 12
+Vitória SC,Estrela Amadora,Sat 28 Nov 2026 20:30,Primeira Liga,Round 12
+Gil Vicente FC,Estoril Praia,Sun 29 Nov 2026 18:00,Primeira Liga,Round 12
+FC Porto,Sporting CP,Sun 29 Nov 2026 20:30,Primeira Liga,Round 12
+Casa Pia AC,SC Braga,Mon 30 Nov 2026 20:15,Primeira Liga,Round 12
+SL Benfica,FC Famalicão,Mon 30 Nov 2026 20:15,Primeira Liga,Round 12
+Sporting CP,Marítimo M.,Fri 04 Dec 2026 20:15,Primeira Liga,Round 13
+CD Nacional,SL Benfica,Sat 05 Dec 2026 15:30,Primeira Liga,Round 13
+Santa Clara,FC Porto,Sat 05 Dec 2026 18:00,Primeira Liga,Round 13
+SC Braga,FC Arouca,Sat 05 Dec 2026 20:30,Primeira Liga,Round 13
+Estrela Amadora,Gil Vicente FC,Sun 06 Dec 2026 15:30,Primeira Liga,Round 13
+Rio Ave FC,Casa Pia AC,Sun 06 Dec 2026 15:30,Primeira Liga,Round 13
+Estoril Praia,Vitória SC,Sun 06 Dec 2026 18:00,Primeira Liga,Round 13
+FC Famalicão,Académico,Sun 06 Dec 2026 20:30,Primeira Liga,Round 13
+FC Alverca,Moreirense FC,Mon 07 Dec 2026 20:15,Primeira Liga,Round 13
+Académico,FC Arouca,Fri 11 Dec 2026 20:15,Primeira Liga,Round 14
+Estoril Praia,Santa Clara,Sat 12 Dec 2026 15:30,Primeira Liga,Round 14
+Marítimo M.,Rio Ave FC,Sat 12 Dec 2026 18:00,Primeira Liga,Round 14
+Gil Vicente FC,Sporting CP,Sat 12 Dec 2026 20:30,Primeira Liga,Round 14
+Casa Pia AC,CD Nacional,Sun 13 Dec 2026 15:30,Primeira Liga,Round 14
+Moreirense FC,FC Famalicão,Sun 13 Dec 2026 15:30,Primeira Liga,Round 14
+Vitória SC,FC Alverca,Sun 13 Dec 2026 18:00,Primeira Liga,Round 14
+FC Porto,Estrela Amadora,Sun 13 Dec 2026 20:30,Primeira Liga,Round 14
+SL Benfica,SC Braga,Mon 14 Dec 2026 20:15,Primeira Liga,Round 14
+FC Alverca,Gil Vicente FC,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+Estrela Amadora,Marítimo M.,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+FC Arouca,Casa Pia AC,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+SC Braga,Académico,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+FC Famalicão,FC Porto,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+CD Nacional,Moreirense FC,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+Rio Ave FC,SL Benfica,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+Santa Clara,Vitória SC,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+Sporting CP,Estoril Praia,Sun 20 Dec 2026 TBD,Primeira Liga,Round 15
+Casa Pia AC,FC Famalicão,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+Estoril Praia,FC Alverca,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+Gil Vicente FC,FC Arouca,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+Marítimo M.,SC Braga,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+Moreirense FC,Académico,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+FC Porto,CD Nacional,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+Santa Clara,Estrela Amadora,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+SL Benfica,Sporting CP,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+Vitória SC,Rio Ave FC,Sun 27 Dec 2026 TBD,Primeira Liga,Round 16
+Académico,Casa Pia AC,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+FC Alverca,Marítimo M.,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+Estrela Amadora,Estoril Praia,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+FC Arouca,SL Benfica,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+SC Braga,FC Porto,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+FC Famalicão,Vitória SC,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+CD Nacional,Gil Vicente FC,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+Rio Ave FC,Moreirense FC,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+Sporting CP,Santa Clara,Sun 10 Jan 2027 TBD,Primeira Liga,Round 17
+Sporting CP,Estrela Amadora,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+FC Famalicão,Estoril Praia,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+Rio Ave FC,Gil Vicente FC,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+Casa Pia AC,Marítimo M.,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+SC Braga,Moreirense FC,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+FC Alverca,FC Porto,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+CD Nacional,Santa Clara,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+Académico,SL Benfica,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+FC Arouca,Vitória SC,Sun 17 Jan 2027 TBD,Primeira Liga,Round 18
+Santa Clara,Académico,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+Estrela Amadora,FC Alverca,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+Moreirense FC,FC Arouca,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+Gil Vicente FC,SC Braga,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+SL Benfica,Casa Pia AC,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+Marítimo M.,FC Famalicão,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+Estoril Praia,CD Nacional,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+FC Porto,Rio Ave FC,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+Vitória SC,Sporting CP,Sun 24 Jan 2027 TBD,Primeira Liga,Round 19
+SC Braga,Estrela Amadora,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+Rio Ave FC,Estoril Praia,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+Casa Pia AC,Gil Vicente FC,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+Académico,Marítimo M.,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+SL Benfica,Moreirense FC,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+FC Arouca,FC Porto,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+FC Famalicão,Santa Clara,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+FC Alverca,Sporting CP,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+CD Nacional,Vitória SC,Sun 31 Jan 2027 TBD,Primeira Liga,Round 20
+FC Porto,Académico,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Santa Clara,FC Alverca,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Marítimo M.,FC Arouca,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Vitória SC,SC Braga,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Moreirense FC,Casa Pia AC,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Gil Vicente FC,FC Famalicão,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Estrela Amadora,CD Nacional,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Sporting CP,Rio Ave FC,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+Estoril Praia,SL Benfica,Sun 07 Feb 2027 TBD,Primeira Liga,Round 21
+SC Braga,FC Alverca,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+FC Famalicão,Estrela Amadora,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+FC Arouca,Estoril Praia,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+Académico,Gil Vicente FC,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+SL Benfica,Marítimo M.,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+Moreirense FC,FC Porto,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+Rio Ave FC,Santa Clara,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+CD Nacional,Sporting CP,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+Casa Pia AC,Vitória SC,Sun 14 Feb 2027 TBD,Primeira Liga,Round 22
+Vitória SC,Académico,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+Santa Clara,FC Arouca,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+Estoril Praia,SC Braga,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+FC Porto,Casa Pia AC,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+Sporting CP,FC Famalicão,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+Marítimo M.,Moreirense FC,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+FC Alverca,CD Nacional,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+Estrela Amadora,Rio Ave FC,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+Gil Vicente FC,SL Benfica,Sun 21 Feb 2027 TBD,Primeira Liga,Round 23
+Rio Ave FC,FC Alverca,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+Académico,Estrela Amadora,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+Casa Pia AC,Estoril Praia,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+Marítimo M.,Gil Vicente FC,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+FC Famalicão,CD Nacional,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+SL Benfica,FC Porto,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+SC Braga,Santa Clara,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+FC Arouca,Sporting CP,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+Moreirense FC,Vitória SC,Sun 28 Feb 2027 TBD,Primeira Liga,Round 24
+Estoril Praia,Académico,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+Estrela Amadora,FC Arouca,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+Sporting CP,SC Braga,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+Santa Clara,Casa Pia AC,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+FC Alverca,FC Famalicão,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+FC Porto,Marítimo M.,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+Gil Vicente FC,Moreirense FC,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+CD Nacional,Rio Ave FC,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+Vitória SC,SL Benfica,Sun 07 Mar 2027 TBD,Primeira Liga,Round 25
+FC Arouca,FC Alverca,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+Casa Pia AC,Estrela Amadora,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+Moreirense FC,Estoril Praia,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+FC Porto,Gil Vicente FC,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+SC Braga,CD Nacional,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+FC Famalicão,Rio Ave FC,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+SL Benfica,Santa Clara,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+Académico,Sporting CP,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+Marítimo M.,Vitória SC,Sun 14 Mar 2027 TBD,Primeira Liga,Round 26
+Rio Ave FC,Académico,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+CD Nacional,FC Arouca,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+FC Famalicão,SC Braga,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+Sporting CP,Casa Pia AC,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+Vitória SC,Gil Vicente FC,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+Santa Clara,Marítimo M.,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+Estrela Amadora,Moreirense FC,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+Estoril Praia,FC Porto,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+FC Alverca,SL Benfica,Sun 21 Mar 2027 TBD,Primeira Liga,Round 27
+Casa Pia AC,FC Alverca,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+SL Benfica,Estrela Amadora,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+Marítimo M.,Estoril Praia,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+FC Arouca,FC Famalicão,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+Académico,CD Nacional,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+SC Braga,Rio Ave FC,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+Gil Vicente FC,Santa Clara,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+Moreirense FC,Sporting CP,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+FC Porto,Vitória SC,Sun 04 Apr 2027 TBD,Primeira Liga,Round 28
+FC Alverca,Académico,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+Rio Ave FC,FC Arouca,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+SC Braga,Casa Pia AC,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+Estoril Praia,Gil Vicente FC,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+CD Nacional,Marítimo M.,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+Santa Clara,Moreirense FC,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+Sporting CP,FC Porto,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+FC Famalicão,SL Benfica,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+Estrela Amadora,Vitória SC,Sun 11 Apr 2027 TBD,Primeira Liga,Round 29
+Moreirense FC,FC Alverca,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+Gil Vicente FC,Estrela Amadora,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+FC Arouca,SC Braga,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+Vitória SC,Estoril Praia,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+Académico,FC Famalicão,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+SL Benfica,CD Nacional,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+Casa Pia AC,Rio Ave FC,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+FC Porto,Santa Clara,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+Marítimo M.,Sporting CP,Sun 18 Apr 2027 TBD,Primeira Liga,Round 30
+FC Arouca,Académico,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+CD Nacional,Casa Pia AC,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+Santa Clara,Estoril Praia,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+Sporting CP,Gil Vicente FC,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+Rio Ave FC,Marítimo M.,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+FC Famalicão,Moreirense FC,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+Estrela Amadora,FC Porto,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+SC Braga,SL Benfica,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+FC Alverca,Vitória SC,Sun 25 Apr 2027 TBD,Primeira Liga,Round 31
+Gil Vicente FC,FC Alverca,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+Marítimo M.,Estrela Amadora,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+Casa Pia AC,FC Arouca,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+Académico,SC Braga,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+FC Porto,FC Famalicão,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+Moreirense FC,CD Nacional,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+SL Benfica,Rio Ave FC,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+Vitória SC,Santa Clara,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+Estoril Praia,Sporting CP,Sun 02 May 2027 TBD,Primeira Liga,Round 32
+FC Famalicão,Casa Pia AC,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+FC Alverca,Estoril Praia,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+FC Arouca,Gil Vicente FC,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+SC Braga,Marítimo M.,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+Académico,Moreirense FC,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+CD Nacional,FC Porto,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+Estrela Amadora,Santa Clara,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+Sporting CP,SL Benfica,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+Rio Ave FC,Vitória SC,Sun 09 May 2027 TBD,Primeira Liga,Round 33
+Casa Pia AC,Académico,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+Marítimo M.,FC Alverca,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+Estoril Praia,Estrela Amadora,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+SL Benfica,FC Arouca,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+FC Porto,SC Braga,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+Vitória SC,FC Famalicão,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+Gil Vicente FC,CD Nacional,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+Moreirense FC,Rio Ave FC,Sun 16 May 2027 TBD,Primeira Liga,Round 34
+Santa Clara,Sporting CP,Sun 16 May 2027 TBD,Primeira Liga,Round 34

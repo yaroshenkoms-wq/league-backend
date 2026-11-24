@@ -243,6 +243,12 @@ const LEAGUES = [
   { slug: 'championsleague', name: 'Champions League', file: 'ChampionsLeague.csv' },
   { slug: 'europaleague', name: 'Europa League', file: 'EuropaLeague.csv' },
   { slug: 'conferenceleague', name: 'Conference League', file: 'ConferenceLeague.csv' },
+  { slug: 'championship', name: 'Championship', file: 'Championship.csv' },
+  { slug: 'eredivisie', name: 'Eredivisie', file: 'Eredivisie.csv' },
+  { slug: 'primeiraliga', name: 'Primeira Liga', file: 'PrimeiraLiga.csv' },
+  { slug: 'superlig', name: 'Süper Lig', file: 'SuperLig.csv' },
+  { slug: 'scottishprem', name: 'Scottish Premiership', file: 'ScottishPremiership.csv' },
+  { slug: 'nationsleague', name: 'Nations League', file: 'NationsLeague.csv' },
 ];
 
 for (const league of LEAGUES) {

@@ -1,0 +1,307 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+SC Cambuur,Excelsior Rotterdam,Fri 07 Aug 2026 20:00,Eredivisie,Round 1,true,1,true,0,4,0:4,0,4
+N.E.C. Nijmegen,Telstar,Sat 08 Aug 2026 16:30,Eredivisie,Round 1,true,2,true,1,2,1:2,1,2
+Go Ahead Eagles,Willem II,Sat 08 Aug 2026 18:45,Eredivisie,Round 1,true,3,true,4,1,4:1,4,1
+PSV,Fortuna Sittard,Sat 08 Aug 2026 20:00,Eredivisie,Round 1,true,4,true,2,2,2:2,2,2
+AZ,ADO Den Haag,Sat 08 Aug 2026 21:00,Eredivisie,Round 1,true,5,true,2,0,2:0,2,0
+Sparta Rotterdam,Feyenoord,Sun 09 Aug 2026 12:15,Eredivisie,Round 1,true,6,true,0,1,0:1,0,1
+PEC Zwolle,Ajax,Sun 09 Aug 2026 14:30,Eredivisie,Round 1,true,7,true,0,2,0:2,0,2
+FC Groningen,FC Utrecht,Sun 09 Aug 2026 14:30,Eredivisie,Round 1,true,8,true,2,1,2:1,2,1
+sc Heerenveen,FC Twente,Sun 09 Aug 2026 16:45,Eredivisie,Round 1,true,9,true,1,0,1:0,1,0
+Telstar,Sparta Rotterdam,Fri 14 Aug 2026 20:00,Eredivisie,Round 2,true,10,true,1,3,1:3,1,3
+Willem II,N.E.C. Nijmegen,Sat 15 Aug 2026 16:30,Eredivisie,Round 2,true,11,true,1,4,1:4,1,4
+FC Utrecht,AZ,Sat 15 Aug 2026 18:45,Eredivisie,Round 2,true,12,true,1,4,1:4,1,4
+Excelsior Rotterdam,PSV,Sat 15 Aug 2026 20:00,Eredivisie,Round 2,true,13,true,1,2,1:2,1,2
+Fortuna Sittard,SC Cambuur,Sat 15 Aug 2026 21:00,Eredivisie,Round 2,true,14,true,3,1,3:1,3,1
+ADO Den Haag,FC Groningen,Sun 16 Aug 2026 12:15,Eredivisie,Round 2,true,15,true,1,4,1:4,1,4
+FC Twente,PEC Zwolle,Sun 16 Aug 2026 14:30,Eredivisie,Round 2,true,16,true,3,1,3:1,3,1
+Feyenoord,Go Ahead Eagles,Sun 16 Aug 2026 14:30,Eredivisie,Round 2,true,17,true,2,2,2:2,2,2
+Ajax,sc Heerenveen,Sun 16 Aug 2026 16:45,Eredivisie,Round 2,true,18,true,2,2,2:2,2,2
+Fortuna Sittard,AZ,Sat 22 Aug 2026 16:30,Eredivisie,Round 3,true,19,true,0,2,0:2,0,2
+Sparta Rotterdam,FC Utrecht,Sat 22 Aug 2026 18:45,Eredivisie,Round 3,true,20,true,3,3,3:3,3,3
+sc Heerenveen,PEC Zwolle,Sat 22 Aug 2026 21:00,Eredivisie,Round 3,true,21,true,0,2,0:2,0,2
+Go Ahead Eagles,ADO Den Haag,Sun 23 Aug 2026 12:15,Eredivisie,Round 3,true,22,true,3,1,3:1,3,1
+PSV,FC Groningen,Sun 23 Aug 2026 14:30,Eredivisie,Round 3,true,23,true,5,1,5:1,5,1
+SC Cambuur,Feyenoord,Sun 23 Aug 2026 16:45,Eredivisie,Round 3,true,24,true,2,5,2:5,2,5
+N.E.C. Nijmegen,Excelsior Rotterdam,Tue 08 Sep 2026 18:45,Eredivisie,Round 3,true,25,true,2,2,2:2,2,2
+FC Twente,Telstar,Wed 09 Sep 2026 18:45,Eredivisie,Round 3,true,26,true,1,0,1:0,1,0
+Ajax,Willem II,Tue 15 Sep 2026 20:00,Eredivisie,Round 3,true,27,true,5,1,5:1,5,1
+FC Groningen,Fortuna Sittard,Fri 28 Aug 2026 20:00,Eredivisie,Round 4,true,28,true,2,3,2:3,2,3
+Excelsior Rotterdam,Sparta Rotterdam,Sat 29 Aug 2026 16:30,Eredivisie,Round 4,true,29,true,2,1,2:1,2,1
+AZ,Go Ahead Eagles,Sat 29 Aug 2026 18:45,Eredivisie,Round 4,true,30,true,5,2,5:2,5,2
+PEC Zwolle,N.E.C. Nijmegen,Sat 29 Aug 2026 21:00,Eredivisie,Round 4,true,31,true,1,3,1:3,1,3
+FC Utrecht,PSV,Sun 30 Aug 2026 12:15,Eredivisie,Round 4,true,32,true,1,6,1:6,1,6
+Feyenoord,ADO Den Haag,Sun 30 Aug 2026 14:30,Eredivisie,Round 4,true,33,true,2,2,2:2,2,2
+Willem II,sc Heerenveen,Sun 30 Aug 2026 14:30,Eredivisie,Round 4,true,34,true,2,2,2:2,2,2
+Telstar,Ajax,Sun 30 Aug 2026 16:45,Eredivisie,Round 4,true,35,true,0,4,0:4,0,4
+SC Cambuur,FC Twente,Sun 30 Aug 2026 20:00,Eredivisie,Round 4,true,36,true,1,4,1:4,1,4
+Sparta Rotterdam,PEC Zwolle,Fri 04 Sep 2026 20:00,Eredivisie,Round 5,true,37,true,2,2,2:2,2,2
+N.E.C. Nijmegen,Feyenoord,Sat 05 Sep 2026 16:30,Eredivisie,Round 5,true,38,true,1,3,1:3,1,3
+Ajax,PSV,Sat 05 Sep 2026 20:00,Eredivisie,Round 5,true,39,true,1,3,1:3,1,3
+Willem II,Excelsior Rotterdam,Sat 05 Sep 2026 21:00,Eredivisie,Round 5,true,40,true,0,3,0:3,0,3
+FC Groningen,FC Twente,Sun 06 Sep 2026 12:15,Eredivisie,Round 5,true,41,true,2,2,2:2,2,2
+Telstar,SC Cambuur,Sun 06 Sep 2026 14:30,Eredivisie,Round 5,true,42,true,2,2,2:2,2,2
+sc Heerenveen,AZ,Sun 06 Sep 2026 14:30,Eredivisie,Round 5,true,43,true,2,3,2:3,2,3
+ADO Den Haag,Fortuna Sittard,Sun 06 Sep 2026 16:45,Eredivisie,Round 5,true,44,true,2,3,2:3,2,3
+FC Utrecht,Go Ahead Eagles,Tue 08 Sep 2026 14:00,Eredivisie,Round 5,true,45,true,3,3,3:3,3,3
+AZ,Willem II,Fri 11 Sep 2026 20:00,Eredivisie,Round 6,true,46,true,1,1,1:1,1,1
+FC Twente,ADO Den Haag,Sat 12 Sep 2026 16:30,Eredivisie,Round 6,true,47,true,2,0,2:0,2,0
+Go Ahead Eagles,FC Groningen,Sat 12 Sep 2026 18:45,Eredivisie,Round 6,true,48,true,1,1,1:1,1,1
+Fortuna Sittard,Ajax,Sat 12 Sep 2026 20:00,Eredivisie,Round 6,true,49,true,1,5,1:5,1,5
+SC Cambuur,N.E.C. Nijmegen,Sat 12 Sep 2026 21:00,Eredivisie,Round 6,true,50,true,3,0,3:0,3,0
+Excelsior Rotterdam,FC Utrecht,Sun 13 Sep 2026 12:15,Eredivisie,Round 6,true,51,true,1,2,1:2,1,2
+sc Heerenveen,Telstar,Sun 13 Sep 2026 14:30,Eredivisie,Round 6,true,52,true,0,0,0:0,0,0
+PEC Zwolle,Feyenoord,Sun 13 Sep 2026 16:45,Eredivisie,Round 6,true,53,true,0,7,0:7,0,7
+PSV,Sparta Rotterdam,Sun 13 Sep 2026 20:00,Eredivisie,Round 6,true,54,true,4,1,4:1,4,1
+FC Groningen,PEC Zwolle,Fri 18 Sep 2026 20:00,Eredivisie,Round 7,true,55,true,3,0,3:0,3,0
+ADO Den Haag,SC Cambuur,Sat 19 Sep 2026 16:30,Eredivisie,Round 7,true,56,true,1,1,1:1,1,1
+Sparta Rotterdam,sc Heerenveen,Sat 19 Sep 2026 18:45,Eredivisie,Round 7,true,57,true,0,4,0:4,0,4
+Ajax,Excelsior Rotterdam,Sat 19 Sep 2026 20:00,Eredivisie,Round 7,true,58,true,2,2,2:2,2,2
+Willem II,Fortuna Sittard,Sat 19 Sep 2026 21:00,Eredivisie,Round 7,true,59,true,0,1,0:1,0,1
+Feyenoord,FC Utrecht,Sun 20 Sep 2026 12:15,Eredivisie,Round 7,true,60,true,5,0,5:0,5,0
+AZ,Telstar,Sun 20 Sep 2026 14:30,Eredivisie,Round 7,true,61,true,1,0,1:0,1,0
+FC Twente,PSV,Sun 20 Sep 2026 14:30,Eredivisie,Round 7,true,62,true,3,2,3:2,3,2
+N.E.C. Nijmegen,Go Ahead Eagles,Sun 20 Sep 2026 16:45,Eredivisie,Round 7,true,63,true,1,1,1:1,1,1
+PSV,sc Heerenveen,Fri 09 Oct 2026 20:00,Eredivisie,Round 8,true,64,true,2,0,2:0,2,0
+Go Ahead Eagles,Sparta Rotterdam,Sat 10 Oct 2026 16:30,Eredivisie,Round 8,true,65,true,3,3,3:3,3,3
+Feyenoord,AZ,Sat 10 Oct 2026 18:45,Eredivisie,Round 8,true,66,true,2,0,2:0,2,0
+Fortuna Sittard,FC Twente,Sat 10 Oct 2026 20:00,Eredivisie,Round 8,true,67,true,1,1,1:1,1,1
+Ajax,N.E.C. Nijmegen,Sat 10 Oct 2026 21:00,Eredivisie,Round 8,true,68,true,1,1,1:1,1,1
+FC Utrecht,Willem II,Sun 11 Oct 2026 12:15,Eredivisie,Round 8,true,69,true,3,1,3:1,3,1
+PEC Zwolle,SC Cambuur,Sun 11 Oct 2026 14:30,Eredivisie,Round 8,true,70,true,0,1,0:1,0,1
+Telstar,ADO Den Haag,Sun 11 Oct 2026 14:30,Eredivisie,Round 8,true,71,true,2,2,2:2,2,2
+Excelsior Rotterdam,FC Groningen,Sun 11 Oct 2026 16:45,Eredivisie,Round 8,true,72,true,1,5,1:5,1,5
+sc Heerenveen,Excelsior Rotterdam,Fri 16 Oct 2026 20:00,Eredivisie,Round 9,true,73,true,4,0,4:0,4,0
+ADO Den Haag,PSV,Sat 17 Oct 2026 16:30,Eredivisie,Round 9,true,74,true,2,1,2:1,2,1
+Telstar,Feyenoord,Sat 17 Oct 2026 20:00,Eredivisie,Round 9,true,75,true,3,4,3:4,3,4
+Sparta Rotterdam,Willem II,Sat 17 Oct 2026 21:00,Eredivisie,Round 9,true,76,true,3,2,3:2,3,2
+PEC Zwolle,Go Ahead Eagles,Sun 18 Oct 2026 12:15,Eredivisie,Round 9,true,77,true,4,1,4:1,4,1
+SC Cambuur,AZ,Sun 18 Oct 2026 14:30,Eredivisie,Round 9,true,78,true,2,2,2:2,2,2
+FC Groningen,Ajax,Sun 18 Oct 2026 16:45,Eredivisie,Round 9,true,79,true,2,5,2:5,2,5
+N.E.C. Nijmegen,Fortuna Sittard,Sun 18 Oct 2026 20:00,Eredivisie,Round 9,true,80,true,2,2,2:2,2,2
+FC Twente,FC Utrecht,Sun 18 Oct 2026 20:00,Eredivisie,Round 9,true,81,true,1,2,1:2,1,2
+Go Ahead Eagles,Telstar,Fri 23 Oct 2026 20:00,Eredivisie,Round 10,true,82,true,3,2,3:2,3,2
+FC Utrecht,PEC Zwolle,Sat 24 Oct 2026 16:30,Eredivisie,Round 10,true,83,true,1,1,1:1,1,1
+Willem II,SC Cambuur,Sat 24 Oct 2026 18:45,Eredivisie,Round 10,true,84,true,1,6,1:6,1,6
+ADO Den Haag,sc Heerenveen,Sat 24 Oct 2026 21:00,Eredivisie,Round 10,true,85,true,2,3,2:3,2,3
+Fortuna Sittard,Excelsior Rotterdam,Sun 25 Oct 2026 12:15,Eredivisie,Round 10,true,86,true,1,0,1:0,1,0
+N.E.C. Nijmegen,FC Groningen,Sun 25 Oct 2026 14:30,Eredivisie,Round 10,true,87,true,2,2,2:2,2,2
+PSV,Feyenoord,Sun 25 Oct 2026 14:30,Eredivisie,Round 10,true,88,true,1,1,1:1,1,1
+Sparta Rotterdam,Ajax,Sun 25 Oct 2026 16:45,Eredivisie,Round 10,true,89,true,1,2,1:2,1,2
+AZ,FC Twente,Sun 25 Oct 2026 20:00,Eredivisie,Round 10,true,90,true,0,2,0:2,0,2
+Feyenoord,Fortuna Sittard,Sat 31 Oct 2026 16:30,Eredivisie,Round 11,true,91,true,1,1,1:1,1,1
+sc Heerenveen,N.E.C. Nijmegen,Sat 31 Oct 2026 18:45,Eredivisie,Round 11,true,92,true,1,0,1:0,1,0
+PSV,Willem II,Sat 31 Oct 2026 18:45,Eredivisie,Round 11,true,93,true,7,0,7:0,7,0
+Ajax,AZ,Sat 31 Oct 2026 21:00,Eredivisie,Round 11,true,94,true,1,0,1:0,1,0
+SC Cambuur,Go Ahead Eagles,Sat 31 Oct 2026 21:00,Eredivisie,Round 11,true,95,true,4,0,4:0,4,0
+PEC Zwolle,ADO Den Haag,Sun 01 Nov 2026 12:15,Eredivisie,Round 11,true,96,true,1,0,1:0,1,0
+Telstar,FC Utrecht,Sun 01 Nov 2026 14:30,Eredivisie,Round 11,true,97,true,4,2,4:2,4,2
+Excelsior Rotterdam,FC Twente,Sun 01 Nov 2026 14:30,Eredivisie,Round 11,true,98,true,0,9,0:9,0,9
+FC Groningen,Sparta Rotterdam,Sun 01 Nov 2026 16:45,Eredivisie,Round 11,true,99,true,2,3,2:3,2,3
+Willem II,PEC Zwolle,Fri 06 Nov 2026 20:00,Eredivisie,Round 12,true,100,true,1,1,1:1,1,1
+Fortuna Sittard,Telstar,Sat 07 Nov 2026 16:30,Eredivisie,Round 12,true,101,true,2,2,2:2,2,2
+ADO Den Haag,Sparta Rotterdam,Sat 07 Nov 2026 18:45,Eredivisie,Round 12,true,102,true,3,1,3:1,3,1
+Excelsior Rotterdam,Go Ahead Eagles,Sat 07 Nov 2026 21:00,Eredivisie,Round 12,true,103,true,0,1,0:1,0,1
+sc Heerenveen,Feyenoord,Sun 08 Nov 2026 12:15,Eredivisie,Round 12,true,104,true,5,3,5:3,5,3
+FC Twente,Ajax,Sun 08 Nov 2026 14:30,Eredivisie,Round 12,true,105,true,2,2,2:2,2,2
+SC Cambuur,PSV,Sun 08 Nov 2026 16:45,Eredivisie,Round 12,true,106,true,2,5,2:5,2,5
+AZ,FC Groningen,Sun 08 Nov 2026 16:45,Eredivisie,Round 12,true,107,true,4,3,4:3,4,3
+FC Utrecht,N.E.C. Nijmegen,Sun 08 Nov 2026 20:00,Eredivisie,Round 12,true,108,true,2,3,2:3,2,3
+N.E.C. Nijmegen,PSV,Sat 21 Nov 2026 16:30,Eredivisie,Round 13,true,109,true,1,4,1:4,1,4
+Feyenoord,Excelsior Rotterdam,Sat 21 Nov 2026 18:45,Eredivisie,Round 13,true,110,true,2,3,2:3,2,3
+FC Utrecht,SC Cambuur,Sat 21 Nov 2026 18:45,Eredivisie,Round 13,true,111,true,2,3,2:3,2,3
+Telstar,PEC Zwolle,Sat 21 Nov 2026 21:00,Eredivisie,Round 13,true,112,true,1,3,1:3,1,3
+FC Groningen,sc Heerenveen,Sat 21 Nov 2026 21:00,Eredivisie,Round 13,true,113,true,1,3,1:3,1,3
+FC Twente,Willem II,Sun 22 Nov 2026 12:15,Eredivisie,Round 13,true,114,true,2,1,2:1,2,1
+Ajax,ADO Den Haag,Sun 22 Nov 2026 14:30,Eredivisie,Round 13,true,115,true,3,0,3:0,3,0
+Sparta Rotterdam,AZ,Sun 22 Nov 2026 14:30,Eredivisie,Round 13,true,116,true,1,5,1:5,1,5
+Go Ahead Eagles,Fortuna Sittard,Sun 22 Nov 2026 16:45,Eredivisie,Round 13,true,117,true,0,1,0:1,0,1
+FC Groningen,Willem II,Fri 27 Nov 2026 20:00,Eredivisie,Round 14
+Excelsior Rotterdam,Telstar,Sat 28 Nov 2026 16:30,Eredivisie,Round 14
+PSV,Go Ahead Eagles,Sat 28 Nov 2026 18:45,Eredivisie,Round 14
+SC Cambuur,Sparta Rotterdam,Sat 28 Nov 2026 21:00,Eredivisie,Round 14
+ADO Den Haag,FC Utrecht,Sun 29 Nov 2026 12:15,Eredivisie,Round 14
+Fortuna Sittard,sc Heerenveen,Sun 29 Nov 2026 14:30,Eredivisie,Round 14
+Feyenoord,Ajax,Sun 29 Nov 2026 14:30,Eredivisie,Round 14
+PEC Zwolle,AZ,Sun 29 Nov 2026 16:45,Eredivisie,Round 14
+N.E.C. Nijmegen,FC Twente,Sun 29 Nov 2026 20:00,Eredivisie,Round 14
+Telstar,FC Groningen,Fri 04 Dec 2026 20:00,Eredivisie,Round 15
+Willem II,Feyenoord,Sat 05 Dec 2026 16:30,Eredivisie,Round 15
+Sparta Rotterdam,N.E.C. Nijmegen,Sat 05 Dec 2026 18:45,Eredivisie,Round 15
+AZ,PSV,Sat 05 Dec 2026 20:00,Eredivisie,Round 15
+Fortuna Sittard,PEC Zwolle,Sat 05 Dec 2026 21:00,Eredivisie,Round 15
+sc Heerenveen,SC Cambuur,Sun 06 Dec 2026 12:15,Eredivisie,Round 15
+Ajax,FC Utrecht,Sun 06 Dec 2026 14:30,Eredivisie,Round 15
+Go Ahead Eagles,FC Twente,Sun 06 Dec 2026 14:30,Eredivisie,Round 15
+ADO Den Haag,Excelsior Rotterdam,Sun 06 Dec 2026 16:45,Eredivisie,Round 15
+FC Utrecht,Fortuna Sittard,Sat 12 Dec 2026 16:30,Eredivisie,Round 16
+sc Heerenveen,Go Ahead Eagles,Sat 12 Dec 2026 18:45,Eredivisie,Round 16
+PEC Zwolle,Excelsior Rotterdam,Sat 12 Dec 2026 21:00,Eredivisie,Round 16
+PSV,Telstar,Sun 13 Dec 2026 12:15,Eredivisie,Round 16
+Willem II,ADO Den Haag,Sun 13 Dec 2026 14:30,Eredivisie,Round 16
+FC Groningen,Feyenoord,Sun 13 Dec 2026 14:30,Eredivisie,Round 16
+AZ,N.E.C. Nijmegen,Sun 13 Dec 2026 16:45,Eredivisie,Round 16
+Ajax,SC Cambuur,Sun 13 Dec 2026 20:00,Eredivisie,Round 16
+FC Twente,Sparta Rotterdam,Sat 06 Feb 2027 TBD,Eredivisie,Round 16
+Telstar,Willem II,Fri 18 Dec 2026 20:00,Eredivisie,Round 17
+Excelsior Rotterdam,AZ,Sat 19 Dec 2026 16:30,Eredivisie,Round 17
+Fortuna Sittard,Sparta Rotterdam,Sat 19 Dec 2026 18:45,Eredivisie,Round 17
+FC Utrecht,sc Heerenveen,Sat 19 Dec 2026 21:00,Eredivisie,Round 17
+N.E.C. Nijmegen,ADO Den Haag,Sun 20 Dec 2026 12:15,Eredivisie,Round 17
+SC Cambuur,FC Groningen,Sun 20 Dec 2026 14:30,Eredivisie,Round 17
+Feyenoord,FC Twente,Sun 20 Dec 2026 14:30,Eredivisie,Round 17
+Go Ahead Eagles,Ajax,Sun 20 Dec 2026 16:45,Eredivisie,Round 17
+PSV,PEC Zwolle,Sun 20 Dec 2026 20:00,Eredivisie,Round 17
+FC Twente,Fortuna Sittard,Fri 08 Jan 2027 20:00,Eredivisie,Round 18
+Sparta Rotterdam,Excelsior Rotterdam,Sat 09 Jan 2027 16:30,Eredivisie,Round 18
+PEC Zwolle,FC Utrecht,Sat 09 Jan 2027 18:45,Eredivisie,Round 18
+Willem II,Ajax,Sat 09 Jan 2027 20:00,Eredivisie,Round 18
+AZ,sc Heerenveen,Sat 09 Jan 2027 21:00,Eredivisie,Round 18
+N.E.C. Nijmegen,SC Cambuur,Sun 10 Jan 2027 12:15,Eredivisie,Round 18
+ADO Den Haag,Telstar,Sun 10 Jan 2027 14:30,Eredivisie,Round 18
+Feyenoord,PSV,Sun 10 Jan 2027 14:30,Eredivisie,Round 18
+FC Groningen,Go Ahead Eagles,Sun 10 Jan 2027 16:45,Eredivisie,Round 18
+sc Heerenveen,Sparta Rotterdam,Fri 15 Jan 2027 20:00,Eredivisie,Round 19
+Telstar,N.E.C. Nijmegen,Sat 16 Jan 2027 16:30,Eredivisie,Round 19
+Excelsior Rotterdam,Feyenoord,Sat 16 Jan 2027 18:45,Eredivisie,Round 19
+ADO Den Haag,PEC Zwolle,Sat 16 Jan 2027 20:00,Eredivisie,Round 19
+Fortuna Sittard,PSV,Sat 16 Jan 2027 21:00,Eredivisie,Round 19
+FC Utrecht,FC Twente,Sun 17 Jan 2027 12:15,Eredivisie,Round 19
+Ajax,FC Groningen,Sun 17 Jan 2027 14:30,Eredivisie,Round 19
+Go Ahead Eagles,AZ,Sun 17 Jan 2027 14:30,Eredivisie,Round 19
+SC Cambuur,Willem II,Sun 17 Jan 2027 16:45,Eredivisie,Round 19
+Excelsior Rotterdam,Fortuna Sittard,Fri 22 Jan 2027 20:00,Eredivisie,Round 20
+Ajax,Telstar,Sat 23 Jan 2027 16:30,Eredivisie,Round 20
+Feyenoord,PEC Zwolle,Sat 23 Jan 2027 18:45,Eredivisie,Round 20
+FC Twente,sc Heerenveen,Sat 23 Jan 2027 20:00,Eredivisie,Round 20
+PSV,ADO Den Haag,Sat 23 Jan 2027 21:00,Eredivisie,Round 20
+Go Ahead Eagles,SC Cambuur,Sun 24 Jan 2027 12:15,Eredivisie,Round 20
+Sparta Rotterdam,FC Groningen,Sun 24 Jan 2027 14:30,Eredivisie,Round 20
+N.E.C. Nijmegen,Willem II,Sun 24 Jan 2027 14:30,Eredivisie,Round 20
+AZ,FC Utrecht,Sun 24 Jan 2027 16:45,Eredivisie,Round 20
+FC Utrecht,Excelsior Rotterdam,Fri 29 Jan 2027 20:00,Eredivisie,Round 21
+Sparta Rotterdam,Telstar,Sat 30 Jan 2027 16:30,Eredivisie,Round 21
+ADO Den Haag,Go Ahead Eagles,Sat 30 Jan 2027 18:45,Eredivisie,Round 21
+Willem II,PSV,Sat 30 Jan 2027 20:00,Eredivisie,Round 21
+PEC Zwolle,Fortuna Sittard,Sat 30 Jan 2027 21:00,Eredivisie,Round 21
+sc Heerenveen,Ajax,Sun 31 Jan 2027 12:15,Eredivisie,Round 21
+FC Twente,SC Cambuur,Sun 31 Jan 2027 14:30,Eredivisie,Round 21
+AZ,Feyenoord,Sun 31 Jan 2027 14:30,Eredivisie,Round 21
+FC Groningen,N.E.C. Nijmegen,Sun 31 Jan 2027 16:45,Eredivisie,Round 21
+SC Cambuur,FC Utrecht,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+Telstar,sc Heerenveen,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+PSV,FC Twente,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+Feyenoord,N.E.C. Nijmegen,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+Willem II,Sparta Rotterdam,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+Fortuna Sittard,ADO Den Haag,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+FC Groningen,AZ,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+Go Ahead Eagles,PEC Zwolle,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+Excelsior Rotterdam,Ajax,Sat 13 Feb 2027 TBD,Eredivisie,Round 22
+Feyenoord,Telstar,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+FC Utrecht,ADO Den Haag,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+Ajax,Go Ahead Eagles,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+PSV,SC Cambuur,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+sc Heerenveen,Willem II,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+N.E.C. Nijmegen,Sparta Rotterdam,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+FC Twente,Excelsior Rotterdam,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+AZ,Fortuna Sittard,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+PEC Zwolle,FC Groningen,Sat 20 Feb 2027 TBD,Eredivisie,Round 23
+Ajax,Feyenoord,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+Telstar,Go Ahead Eagles,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+Sparta Rotterdam,PSV,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+SC Cambuur,PEC Zwolle,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+Excelsior Rotterdam,sc Heerenveen,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+ADO Den Haag,FC Twente,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+Willem II,FC Groningen,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+N.E.C. Nijmegen,AZ,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+Fortuna Sittard,FC Utrecht,Sat 27 Feb 2027 TBD,Eredivisie,Round 24
+PSV,FC Utrecht,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+FC Groningen,Telstar,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+ADO Den Haag,Ajax,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+PEC Zwolle,Willem II,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+Go Ahead Eagles,Excelsior Rotterdam,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+Feyenoord,sc Heerenveen,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+Sparta Rotterdam,SC Cambuur,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+FC Twente,AZ,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+Fortuna Sittard,N.E.C. Nijmegen,Sat 06 Mar 2027 TBD,Eredivisie,Round 25
+Go Ahead Eagles,Feyenoord,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+Ajax,PEC Zwolle,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+FC Utrecht,FC Groningen,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+SC Cambuur,ADO Den Haag,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+Telstar,PSV,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+Excelsior Rotterdam,N.E.C. Nijmegen,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+sc Heerenveen,Fortuna Sittard,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+Willem II,FC Twente,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+AZ,Sparta Rotterdam,Sat 13 Mar 2027 TBD,Eredivisie,Round 26
+FC Utrecht,Sparta Rotterdam,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+N.E.C. Nijmegen,Ajax,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+AZ,Excelsior Rotterdam,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+ADO Den Haag,Willem II,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+FC Groningen,PSV,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+Telstar,Fortuna Sittard,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+FC Twente,Go Ahead Eagles,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+PEC Zwolle,sc Heerenveen,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+Feyenoord,SC Cambuur,Sat 20 Mar 2027 TBD,Eredivisie,Round 27
+Willem II,FC Utrecht,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+Sparta Rotterdam,ADO Den Haag,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+Excelsior Rotterdam,PEC Zwolle,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+Ajax,FC Twente,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+PSV,AZ,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+sc Heerenveen,FC Groningen,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+Go Ahead Eagles,N.E.C. Nijmegen,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+SC Cambuur,Telstar,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+Fortuna Sittard,Feyenoord,Sat 03 Apr 2027 TBD,Eredivisie,Round 28
+FC Groningen,Excelsior Rotterdam,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+N.E.C. Nijmegen,sc Heerenveen,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+Telstar,FC Twente,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+PEC Zwolle,PSV,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+Sparta Rotterdam,Go Ahead Eagles,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+Willem II,AZ,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+SC Cambuur,Fortuna Sittard,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+ADO Den Haag,Feyenoord,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+FC Utrecht,Ajax,Sat 10 Apr 2027 TBD,Eredivisie,Round 29
+AZ,SC Cambuur,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+FC Twente,N.E.C. Nijmegen,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+Excelsior Rotterdam,Willem II,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+Go Ahead Eagles,FC Utrecht,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+sc Heerenveen,ADO Den Haag,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+PSV,Ajax,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+PEC Zwolle,Telstar,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+Feyenoord,Sparta Rotterdam,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+Fortuna Sittard,FC Groningen,Sat 24 Apr 2027 TBD,Eredivisie,Round 30
+sc Heerenveen,FC Utrecht,Sat 01 May 2027 TBD,Eredivisie,Round 31
+Ajax,Fortuna Sittard,Sat 01 May 2027 TBD,Eredivisie,Round 31
+Sparta Rotterdam,FC Twente,Sat 01 May 2027 TBD,Eredivisie,Round 31
+Telstar,AZ,Sat 01 May 2027 TBD,Eredivisie,Round 31
+FC Groningen,ADO Den Haag,Sat 01 May 2027 TBD,Eredivisie,Round 31
+Feyenoord,Willem II,Sat 01 May 2027 TBD,Eredivisie,Round 31
+N.E.C. Nijmegen,PEC Zwolle,Sat 01 May 2027 TBD,Eredivisie,Round 31
+Go Ahead Eagles,PSV,Sat 01 May 2027 TBD,Eredivisie,Round 31
+Excelsior Rotterdam,SC Cambuur,Sat 01 May 2027 TBD,Eredivisie,Round 31
+AZ,Ajax,Sat 08 May 2027 TBD,Eredivisie,Round 32
+ADO Den Haag,N.E.C. Nijmegen,Sat 08 May 2027 TBD,Eredivisie,Round 32
+PEC Zwolle,Sparta Rotterdam,Sat 08 May 2027 TBD,Eredivisie,Round 32
+FC Twente,FC Groningen,Sat 08 May 2027 TBD,Eredivisie,Round 32
+Willem II,Telstar,Sat 08 May 2027 TBD,Eredivisie,Round 32
+Fortuna Sittard,Go Ahead Eagles,Sat 08 May 2027 TBD,Eredivisie,Round 32
+FC Utrecht,Feyenoord,Sat 08 May 2027 TBD,Eredivisie,Round 32
+SC Cambuur,sc Heerenveen,Sat 08 May 2027 TBD,Eredivisie,Round 32
+PSV,Excelsior Rotterdam,Sat 08 May 2027 TBD,Eredivisie,Round 32
+FC Groningen,SC Cambuur,Sun 16 May 2027 14:30,Eredivisie,Round 33
+FC Utrecht,Telstar,Sun 16 May 2027 14:30,Eredivisie,Round 33
+Excelsior Rotterdam,ADO Den Haag,Sun 16 May 2027 14:30,Eredivisie,Round 33
+Go Ahead Eagles,sc Heerenveen,Sun 16 May 2027 14:30,Eredivisie,Round 33
+FC Twente,Feyenoord,Sun 16 May 2027 14:30,Eredivisie,Round 33
+Ajax,Sparta Rotterdam,Sun 16 May 2027 14:30,Eredivisie,Round 33
+AZ,PEC Zwolle,Sun 16 May 2027 14:30,Eredivisie,Round 33
+PSV,N.E.C. Nijmegen,Sun 16 May 2027 14:30,Eredivisie,Round 33
+Fortuna Sittard,Willem II,Sun 16 May 2027 14:30,Eredivisie,Round 33
+SC Cambuur,Ajax,Sun 23 May 2027 14:30,Eredivisie,Round 34
+N.E.C. Nijmegen,FC Utrecht,Sun 23 May 2027 14:30,Eredivisie,Round 34
+Willem II,Go Ahead Eagles,Sun 23 May 2027 14:30,Eredivisie,Round 34
+Telstar,Excelsior Rotterdam,Sun 23 May 2027 14:30,Eredivisie,Round 34
+sc Heerenveen,PSV,Sun 23 May 2027 14:30,Eredivisie,Round 34
+Sparta Rotterdam,Fortuna Sittard,Sun 23 May 2027 14:30,Eredivisie,Round 34
+PEC Zwolle,FC Twente,Sun 23 May 2027 14:30,Eredivisie,Round 34
+Feyenoord,FC Groningen,Sun 23 May 2027 14:30,Eredivisie,Round 34
+ADO Den Haag,AZ,Sun 23 May 2027 14:30,Eredivisie,Round 34

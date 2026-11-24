@@ -1,0 +1,307 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Galatasaray,Çorum,Fri 14 Aug 2026 21:30,Süper Lig,Round 1,true,1,true,2,2,2:2,2,2
+Kasimpasa,Trabzonspor,Sat 15 Aug 2026 19:00,Süper Lig,Round 1,true,2,true,1,1,1:1,1,1
+Konyaspor,Çaykur Rizespor,Sat 15 Aug 2026 19:00,Süper Lig,Round 1,true,3,true,0,1,0:1,0,1
+Gaziantep,Alanyaspor,Sat 15 Aug 2026 21:30,Süper Lig,Round 1,true,4,true,1,1,1:1,1,1
+Gençlerbirligi,Fenerbahçe,Sat 15 Aug 2026 21:30,Süper Lig,Round 1,true,5,true,2,1,2:1,2,1
+Istanbul Basaksehir,Kocaelispor,Sun 16 Aug 2026 19:00,Süper Lig,Round 1,true,6,true,2,0,2:0,2,0
+Amedspor,Erzurumspor,Sun 16 Aug 2026 21:30,Süper Lig,Round 1,true,7,true,3,0,3:0,3,0
+Besiktas,Eyüpspor,Sun 16 Aug 2026 21:30,Süper Lig,Round 1,true,8,true,1,0,1:0,1,0
+Samsunspor,Göztepe,Mon 17 Aug 2026 21:30,Süper Lig,Round 1,true,9,true,3,3,3:3,3,3
+Erzurumspor,Galatasaray,Fri 21 Aug 2026 21:30,Süper Lig,Round 2,true,10,true,0,4,0:4,0,4
+Çorum,Kasimpasa,Sat 22 Aug 2026 19:00,Süper Lig,Round 2,true,11,true,0,1,0:1,0,1
+Çaykur Rizespor,Samsunspor,Sat 22 Aug 2026 19:00,Süper Lig,Round 2,true,12,true,0,2,0:2,0,2
+Fenerbahçe,Konyaspor,Sat 22 Aug 2026 21:30,Süper Lig,Round 2,true,13,true,4,2,4:2,4,2
+Trabzonspor,Istanbul Basaksehir,Sun 23 Aug 2026 19:00,Süper Lig,Round 2,true,14,true,2,1,2:1,2,1
+Eyüpspor,Gaziantep,Sun 23 Aug 2026 19:00,Süper Lig,Round 2,true,15,true,0,1,0:1,0,1
+Alanyaspor,Besiktas,Sun 23 Aug 2026 21:30,Süper Lig,Round 2,true,16,true,1,0,1:0,1,0
+Göztepe,Gençlerbirligi,Sun 23 Aug 2026 21:30,Süper Lig,Round 2,true,17,true,0,1,0:1,0,1
+Kocaelispor,Amedspor,Mon 24 Aug 2026 21:30,Süper Lig,Round 2,true,18,true,2,0,2:0,2,0
+Gençlerbirligi,Erzurumspor,Fri 28 Aug 2026 21:30,Süper Lig,Round 3,true,19,true,1,1,1:1,1,1
+Konyaspor,Kocaelispor,Sat 29 Aug 2026 19:00,Süper Lig,Round 3,true,20,true,1,2,1:2,1,2
+Gaziantep,Çaykur Rizespor,Sat 29 Aug 2026 21:30,Süper Lig,Round 3,true,21,true,1,2,1:2,1,2
+Galatasaray,Göztepe,Sat 29 Aug 2026 21:33,Süper Lig,Round 3,true,22,true,3,2,3:2,3,2
+Eyüpspor,Alanyaspor,Sun 30 Aug 2026 19:00,Süper Lig,Round 3,true,23,true,2,1,2:1,2,1
+Istanbul Basaksehir,Kasimpasa,Sun 30 Aug 2026 21:30,Süper Lig,Round 3,true,24,true,1,1,1:1,1,1
+Samsunspor,Fenerbahçe,Sun 30 Aug 2026 21:30,Süper Lig,Round 3,true,25,true,0,2,0:2,0,2
+Amedspor,Trabzonspor,Mon 31 Aug 2026 21:30,Süper Lig,Round 3,true,26,true,2,1,2:1,2,1
+Besiktas,Çorum,Mon 31 Aug 2026 21:30,Süper Lig,Round 3,true,27,true,6,2,6:2,6,2
+Istanbul Basaksehir,Galatasaray,Fri 04 Sep 2026 20:00,Süper Lig,Round 4,true,28,true,2,3,2:3,2,3
+Erzurumspor,Konyaspor,Sat 05 Sep 2026 17:00,Süper Lig,Round 4,true,29,true,1,0,1:0,1,0
+Fenerbahçe,Besiktas,Sat 05 Sep 2026 20:00,Süper Lig,Round 4,true,30,true,1,2,1:2,1,2
+Kasimpasa,Amedspor,Sun 06 Sep 2026 17:00,Süper Lig,Round 4,true,31,true,2,2,2:2,2,2
+Çorum,Eyüpspor,Sun 06 Sep 2026 17:00,Süper Lig,Round 4,true,32,true,3,0,3:0,3,0
+Trabzonspor,Gençlerbirligi,Sun 06 Sep 2026 20:00,Süper Lig,Round 4,true,33,true,5,0,5:0,5,0
+Kocaelispor,Samsunspor,Sun 06 Sep 2026 20:00,Süper Lig,Round 4,true,34,true,1,0,1:0,1,0
+Çaykur Rizespor,Alanyaspor,Mon 07 Sep 2026 20:00,Süper Lig,Round 4,true,35,true,0,1,0:1,0,1
+Göztepe,Gaziantep,Mon 07 Sep 2026 20:00,Süper Lig,Round 4,true,36,true,2,4,2:4,2,4
+Besiktas,Erzurumspor,Fri 11 Sep 2026 20:00,Süper Lig,Round 5,true,37,true,3,0,3:0,3,0
+Eyüpspor,Çaykur Rizespor,Sat 12 Sep 2026 17:00,Süper Lig,Round 5,true,38,true,0,2,0:2,0,2
+Samsunspor,Çorum,Sat 12 Sep 2026 17:00,Süper Lig,Round 5,true,39,true,1,5,1:5,1,5
+Alanyaspor,Göztepe,Sat 12 Sep 2026 20:00,Süper Lig,Round 5,true,40,true,2,2,2:2,2,2
+Konyaspor,Trabzonspor,Sat 12 Sep 2026 20:00,Süper Lig,Round 5,true,41,true,1,0,1:0,1,0
+Gençlerbirligi,Kasimpasa,Sun 13 Sep 2026 17:00,Süper Lig,Round 5,true,42,true,1,2,1:2,1,2
+Amedspor,Istanbul Basaksehir,Sun 13 Sep 2026 20:00,Süper Lig,Round 5,true,43,true,5,0,5:0,5,0
+Galatasaray,Kocaelispor,Sun 13 Sep 2026 20:00,Süper Lig,Round 5,true,44,true,1,0,1:0,1,0
+Gaziantep,Fenerbahçe,Mon 14 Sep 2026 20:00,Süper Lig,Round 5,true,45,true,0,0,0:0,0,0
+Kasimpasa,Konyaspor,Fri 18 Sep 2026 20:00,Süper Lig,Round 6,true,46,true,0,0,0:0,0,0
+Çorum,Alanyaspor,Sat 19 Sep 2026 17:00,Süper Lig,Round 6,true,47,true,1,2,1:2,1,2
+Kocaelispor,Gaziantep,Sat 19 Sep 2026 17:00,Süper Lig,Round 6,true,48,true,2,0,2:0,2,0
+Trabzonspor,Galatasaray,Sat 19 Sep 2026 20:00,Süper Lig,Round 6,true,49,true,4,0,4:0,4,0
+Istanbul Basaksehir,Gençlerbirligi,Sat 19 Sep 2026 20:00,Süper Lig,Round 6,true,50,true,4,0,4:0,4,0
+Fenerbahçe,Eyüpspor,Sun 20 Sep 2026 17:00,Süper Lig,Round 6,true,51,true,8,0,8:0,8,0
+Erzurumspor,Samsunspor,Sun 20 Sep 2026 17:00,Süper Lig,Round 6,true,52,true,1,0,1:0,1,0
+Amedspor,Besiktas,Sun 20 Sep 2026 20:00,Süper Lig,Round 6,true,53,true,3,2,3:2,3,2
+Göztepe,Çaykur Rizespor,Sun 20 Sep 2026 20:00,Süper Lig,Round 6,true,54,true,2,2,2:2,2,2
+Galatasaray,Kasimpasa,Fri 09 Oct 2026 20:00,Süper Lig,Round 7,true,55,true,3,1,3:1,3,1
+Gençlerbirligi,Amedspor,Sat 10 Oct 2026 13:30,Süper Lig,Round 7,true,56,true,2,2,2:2,2,2
+Alanyaspor,Erzurumspor,Sat 10 Oct 2026 16:00,Süper Lig,Round 7,true,57,true,0,0,0:0,0,0
+Samsunspor,Trabzonspor,Sat 10 Oct 2026 16:00,Süper Lig,Round 7,true,58,true,0,3,0:3,0,3
+Çaykur Rizespor,Fenerbahçe,Sat 10 Oct 2026 19:00,Süper Lig,Round 7,true,59,true,0,3,0:3,0,3
+Konyaspor,Istanbul Basaksehir,Sun 11 Oct 2026 13:30,Süper Lig,Round 7,true,60,true,0,0,0:0,0,0
+Gaziantep,Çorum,Sun 11 Oct 2026 16:00,Süper Lig,Round 7,true,61,true,0,3,0:3,0,3
+Besiktas,Kocaelispor,Sun 11 Oct 2026 19:00,Süper Lig,Round 7,true,62,true,2,1,2:1,2,1
+Eyüpspor,Göztepe,Mon 12 Oct 2026 20:00,Süper Lig,Round 7,true,63,true,0,4,0:4,0,4
+Çorum,Çaykur Rizespor,Fri 16 Oct 2026 20:00,Süper Lig,Round 8,true,64,true,2,1,2:1,2,1
+Erzurumspor,Eyüpspor,Sat 17 Oct 2026 13:30,Süper Lig,Round 8,true,65,true,2,0,2:0,2,0
+Amedspor,Konyaspor,Sat 17 Oct 2026 16:00,Süper Lig,Round 8,true,66,true,1,0,1:0,1,0
+Gençlerbirligi,Galatasaray,Sat 17 Oct 2026 16:00,Süper Lig,Round 8,true,67,true,0,1,0:1,0,1
+Fenerbahçe,Alanyaspor,Sat 17 Oct 2026 19:00,Süper Lig,Round 8,true,68,true,3,0,3:0,3,0
+Kasimpasa,Samsunspor,Sun 18 Oct 2026 13:30,Süper Lig,Round 8,true,69,true,4,1,4:1,4,1
+Kocaelispor,Göztepe,Sun 18 Oct 2026 16:00,Süper Lig,Round 8,true,70,true,1,2,1:2,1,2
+Istanbul Basaksehir,Gaziantep,Sun 18 Oct 2026 19:00,Süper Lig,Round 8,true,71,true,2,1,2:1,2,1
+Trabzonspor,Besiktas,Mon 19 Oct 2026 20:00,Süper Lig,Round 8,true,72,true,2,0,2:0,2,0
+Alanyaspor,Kocaelispor,Fri 23 Oct 2026 20:00,Süper Lig,Round 9,true,73,true,1,2,1:2,1,2
+Eyüpspor,Kasimpasa,Sat 24 Oct 2026 13:30,Süper Lig,Round 9,true,74,true,0,1,0:1,0,1
+Gaziantep,Erzurumspor,Sat 24 Oct 2026 16:00,Süper Lig,Round 9,true,75,true,1,3,1:3,1,3
+Samsunspor,Amedspor,Sat 24 Oct 2026 19:00,Süper Lig,Round 9,true,76,true,1,2,1:2,1,2
+Konyaspor,Gençlerbirligi,Sun 25 Oct 2026 16:00,Süper Lig,Round 9,true,77,true,2,0,2:0,2,0
+Göztepe,Çorum,Sun 25 Oct 2026 19:00,Süper Lig,Round 9,true,78,true,2,0,2:0,2,0
+Çaykur Rizespor,Trabzonspor,Mon 26 Oct 2026 19:00,Süper Lig,Round 9,true,79,true,3,4,3:4,3,4
+Besiktas,Istanbul Basaksehir,Mon 26 Oct 2026 19:00,Süper Lig,Round 9,true,80,true,2,0,2:0,2,0
+Galatasaray,Fenerbahçe,Mon 26 Oct 2026 21:30,Süper Lig,Round 9,true,81,true,2,1,2:1,2,1
+Konyaspor,Galatasaray,Fri 30 Oct 2026 20:00,Süper Lig,Round 10,true,82,true,0,4,0:4,0,4
+Erzurumspor,Çorum,Sat 31 Oct 2026 13:30,Süper Lig,Round 10,true,83,true,1,3,1:3,1,3
+Kocaelispor,Çaykur Rizespor,Sat 31 Oct 2026 16:00,Süper Lig,Round 10,true,84,true,0,0,0:0,0,0
+Fenerbahçe,Göztepe,Sat 31 Oct 2026 19:00,Süper Lig,Round 10,true,85,true,1,2,1:2,1,2
+Amedspor,Eyüpspor,Sun 01 Nov 2026 13:30,Süper Lig,Round 10,true,86,true,5,1,5:1,5,1
+Trabzonspor,Gaziantep,Sun 01 Nov 2026 16:00,Süper Lig,Round 10,true,87,true,2,0,2:0,2,0
+Istanbul Basaksehir,Samsunspor,Sun 01 Nov 2026 16:00,Süper Lig,Round 10,true,88,true,5,2,5:2,5,2
+Kasimpasa,Besiktas,Sun 01 Nov 2026 19:00,Süper Lig,Round 10,true,89,true,2,2,2:2,2,2
+Gençlerbirligi,Alanyaspor,Mon 02 Nov 2026 20:00,Süper Lig,Round 10,true,90,true,5,0,5:0,5,0
+Gaziantep,Kasimpasa,Fri 06 Nov 2026 20:00,Süper Lig,Round 11,true,91,true,0,2,0:2,0,2
+Eyüpspor,Kocaelispor,Sat 07 Nov 2026 13:30,Süper Lig,Round 11,true,92,true,0,2,0:2,0,2
+Samsunspor,Konyaspor,Sat 07 Nov 2026 16:00,Süper Lig,Round 11,true,93,true,1,0,1:0,1,0
+Galatasaray,Amedspor,Sat 07 Nov 2026 19:00,Süper Lig,Round 11,true,94,true,4,3,4:3,4,3
+Göztepe,Istanbul Basaksehir,Sat 07 Nov 2026 19:05,Süper Lig,Round 11,true,95,true,1,2,1:2,1,2
+Çaykur Rizespor,Erzurumspor,Sun 08 Nov 2026 13:30,Süper Lig,Round 11,true,96,true,2,1,2:1,2,1
+Çorum,Fenerbahçe,Sun 08 Nov 2026 16:00,Süper Lig,Round 11,true,97,true,0,5,0:5,0,5
+Alanyaspor,Trabzonspor,Sun 08 Nov 2026 18:30,Süper Lig,Round 11,true,98,true,0,2,0:2,0,2
+Besiktas,Gençlerbirligi,Sun 08 Nov 2026 21:00,Süper Lig,Round 11,true,99,true,3,0,3:0,3,0
+Gençlerbirligi,Gaziantep,Sat 21 Nov 2026 13:30,Süper Lig,Round 12,true,100,true,1,0,1:0,1,0
+Amedspor,Çaykur Rizespor,Sat 21 Nov 2026 16:00,Süper Lig,Round 12,true,101,true,0,2,0:2,0,2
+Galatasaray,Samsunspor,Sat 21 Nov 2026 16:00,Süper Lig,Round 12,true,102,true,2,1,2:1,2,1
+Kocaelispor,Fenerbahçe,Sat 21 Nov 2026 19:00,Süper Lig,Round 12,true,103,true,2,2,2:2,2,2
+Erzurumspor,Göztepe,Sun 22 Nov 2026 13:30,Süper Lig,Round 12,true,104,true,0,1,0:1,0,1
+Kasimpasa,Alanyaspor,Sun 22 Nov 2026 16:00,Süper Lig,Round 12,true,105,true,2,1,2:1,2,1
+Konyaspor,Besiktas,Sun 22 Nov 2026 16:00,Süper Lig,Round 12,true,106,true,2,4,2:4,2,4
+Trabzonspor,Eyüpspor,Sun 22 Nov 2026 19:00,Süper Lig,Round 12,true,107,true,1,0,1:0,1,0
+Istanbul Basaksehir,Çorum,Mon 23 Nov 2026 20:00,Süper Lig,Round 12,true,108,true,4,2,4:2,4,2
+Alanyaspor,Konyaspor,Fri 27 Nov 2026 20:00,Süper Lig,Round 13
+Çaykur Rizespor,Kasimpasa,Fri 27 Nov 2026 20:00,Süper Lig,Round 13
+Samsunspor,Gençlerbirligi,Sat 28 Nov 2026 16:00,Süper Lig,Round 13
+Gaziantep,Amedspor,Sat 28 Nov 2026 19:00,Süper Lig,Round 13
+Çorum,Kocaelispor,Sun 29 Nov 2026 13:30,Süper Lig,Round 13
+Eyüpspor,Istanbul Basaksehir,Sun 29 Nov 2026 16:00,Süper Lig,Round 13
+Fenerbahçe,Erzurumspor,Sun 29 Nov 2026 19:00,Süper Lig,Round 13
+Göztepe,Trabzonspor,Mon 30 Nov 2026 19:00,Süper Lig,Round 13
+Besiktas,Galatasaray,Mon 30 Nov 2026 21:00,Süper Lig,Round 13
+Galatasaray,Çaykur Rizespor,Fri 04 Dec 2026 20:00,Süper Lig,Round 14
+Konyaspor,Gaziantep,Sat 05 Dec 2026 13:30,Süper Lig,Round 14
+Amedspor,Alanyaspor,Sat 05 Dec 2026 16:00,Süper Lig,Round 14
+Istanbul Basaksehir,Fenerbahçe,Sat 05 Dec 2026 19:00,Süper Lig,Round 14
+Erzurumspor,Kocaelispor,Sun 06 Dec 2026 13:30,Süper Lig,Round 14
+Gençlerbirligi,Eyüpspor,Sun 06 Dec 2026 16:00,Süper Lig,Round 14
+Besiktas,Samsunspor,Sun 06 Dec 2026 16:00,Süper Lig,Round 14
+Trabzonspor,Çorum,Sun 06 Dec 2026 19:00,Süper Lig,Round 14
+Kasimpasa,Göztepe,Mon 07 Dec 2026 20:00,Süper Lig,Round 14
+Çorum,Amedspor,Fri 11 Dec 2026 20:00,Süper Lig,Round 15
+Erzurumspor,Kasimpasa,Sat 12 Dec 2026 13:30,Süper Lig,Round 15
+Alanyaspor,Samsunspor,Sat 12 Dec 2026 16:00,Süper Lig,Round 15
+Eyüpspor,Galatasaray,Sat 12 Dec 2026 19:00,Süper Lig,Round 15
+Kocaelispor,Gençlerbirligi,Sun 13 Dec 2026 13:30,Süper Lig,Round 15
+Çaykur Rizespor,Istanbul Basaksehir,Sun 13 Dec 2026 16:00,Süper Lig,Round 15
+Göztepe,Konyaspor,Sun 13 Dec 2026 16:00,Süper Lig,Round 15
+Fenerbahçe,Trabzonspor,Sun 13 Dec 2026 19:00,Süper Lig,Round 15
+Gaziantep,Besiktas,Mon 14 Dec 2026 20:00,Süper Lig,Round 15
+Kasimpasa,Fenerbahçe,Fri 18 Dec 2026 20:00,Süper Lig,Round 16
+Amedspor,Göztepe,Fri 18 Dec 2026 20:00,Süper Lig,Round 16
+Konyaspor,Eyüpspor,Sat 19 Dec 2026 13:30,Süper Lig,Round 16
+Istanbul Basaksehir,Erzurumspor,Sat 19 Dec 2026 16:00,Süper Lig,Round 16
+Galatasaray,Alanyaspor,Sat 19 Dec 2026 19:00,Süper Lig,Round 16
+Gençlerbirligi,Çorum,Sun 20 Dec 2026 13:30,Süper Lig,Round 16
+Samsunspor,Gaziantep,Sun 20 Dec 2026 16:00,Süper Lig,Round 16
+Besiktas,Çaykur Rizespor,Sun 20 Dec 2026 19:00,Süper Lig,Round 16
+Trabzonspor,Kocaelispor,Mon 21 Dec 2026 20:00,Süper Lig,Round 16
+Gaziantep,Galatasaray,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Eyüpspor,Samsunspor,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Alanyaspor,Istanbul Basaksehir,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Çaykur Rizespor,Gençlerbirligi,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Göztepe,Besiktas,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Çorum,Konyaspor,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Fenerbahçe,Amedspor,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Kocaelispor,Kasimpasa,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Erzurumspor,Trabzonspor,Sun 17 Jan 2027 TBD,Süper Lig,Round 17
+Alanyaspor,Gaziantep,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Trabzonspor,Kasimpasa,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Kocaelispor,Istanbul Basaksehir,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Erzurumspor,Amedspor,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Fenerbahçe,Gençlerbirligi,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Çaykur Rizespor,Konyaspor,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Çorum,Galatasaray,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Eyüpspor,Besiktas,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Göztepe,Samsunspor,Sun 24 Jan 2027 TBD,Süper Lig,Round 18
+Istanbul Basaksehir,Trabzonspor,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Gaziantep,Eyüpspor,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Besiktas,Alanyaspor,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Samsunspor,Çaykur Rizespor,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Gençlerbirligi,Göztepe,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Kasimpasa,Çorum,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Konyaspor,Fenerbahçe,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Amedspor,Kocaelispor,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Galatasaray,Erzurumspor,Sun 31 Jan 2027 TBD,Süper Lig,Round 19
+Çaykur Rizespor,Gaziantep,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Alanyaspor,Eyüpspor,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Kasimpasa,Istanbul Basaksehir,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Trabzonspor,Amedspor,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Erzurumspor,Gençlerbirligi,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Kocaelispor,Konyaspor,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Göztepe,Galatasaray,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Çorum,Besiktas,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Fenerbahçe,Samsunspor,Sun 07 Feb 2027 TBD,Süper Lig,Round 20
+Gençlerbirligi,Trabzonspor,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Amedspor,Kasimpasa,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Galatasaray,Istanbul Basaksehir,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Alanyaspor,Çaykur Rizespor,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Gaziantep,Göztepe,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Eyüpspor,Çorum,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Besiktas,Fenerbahçe,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Samsunspor,Kocaelispor,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Konyaspor,Erzurumspor,Sun 14 Feb 2027 TBD,Süper Lig,Round 21
+Fenerbahçe,Gaziantep,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Çaykur Rizespor,Eyüpspor,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Göztepe,Alanyaspor,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Istanbul Basaksehir,Amedspor,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Kasimpasa,Gençlerbirligi,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Trabzonspor,Konyaspor,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Kocaelispor,Galatasaray,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Erzurumspor,Besiktas,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Çorum,Samsunspor,Sun 21 Feb 2027 TBD,Süper Lig,Round 22
+Galatasaray,Trabzonspor,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Konyaspor,Kasimpasa,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Gençlerbirligi,Istanbul Basaksehir,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Besiktas,Amedspor,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Çaykur Rizespor,Göztepe,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Alanyaspor,Çorum,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Eyüpspor,Fenerbahçe,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Gaziantep,Kocaelispor,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Samsunspor,Erzurumspor,Sun 28 Feb 2027 TBD,Süper Lig,Round 23
+Çorum,Gaziantep,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Göztepe,Eyüpspor,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Erzurumspor,Alanyaspor,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Fenerbahçe,Çaykur Rizespor,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Amedspor,Gençlerbirligi,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Istanbul Basaksehir,Konyaspor,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Kasimpasa,Galatasaray,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Kocaelispor,Besiktas,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Trabzonspor,Samsunspor,Sun 07 Mar 2027 TBD,Süper Lig,Round 24
+Besiktas,Trabzonspor,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Samsunspor,Kasimpasa,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Gaziantep,Istanbul Basaksehir,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Konyaspor,Amedspor,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Galatasaray,Gençlerbirligi,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Çaykur Rizespor,Çorum,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Alanyaspor,Fenerbahçe,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Göztepe,Kocaelispor,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Eyüpspor,Erzurumspor,Sun 14 Mar 2027 TBD,Süper Lig,Round 25
+Erzurumspor,Gaziantep,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Kasimpasa,Eyüpspor,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Kocaelispor,Alanyaspor,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Trabzonspor,Çaykur Rizespor,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Çorum,Göztepe,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Gençlerbirligi,Konyaspor,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Fenerbahçe,Galatasaray,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Istanbul Basaksehir,Besiktas,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Amedspor,Samsunspor,Sun 21 Mar 2027 TBD,Süper Lig,Round 26
+Gaziantep,Trabzonspor,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Besiktas,Kasimpasa,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Samsunspor,Istanbul Basaksehir,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Eyüpspor,Amedspor,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Alanyaspor,Gençlerbirligi,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Galatasaray,Konyaspor,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Göztepe,Fenerbahçe,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Çaykur Rizespor,Kocaelispor,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Çorum,Erzurumspor,Sun 04 Apr 2027 TBD,Süper Lig,Round 27
+Kasimpasa,Gaziantep,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Kocaelispor,Eyüpspor,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Trabzonspor,Alanyaspor,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Erzurumspor,Çaykur Rizespor,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Istanbul Basaksehir,Göztepe,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Fenerbahçe,Çorum,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Amedspor,Galatasaray,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Gençlerbirligi,Besiktas,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Konyaspor,Samsunspor,Sun 11 Apr 2027 TBD,Süper Lig,Round 28
+Eyüpspor,Trabzonspor,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Alanyaspor,Kasimpasa,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Çorum,Istanbul Basaksehir,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Çaykur Rizespor,Amedspor,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Gaziantep,Gençlerbirligi,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Besiktas,Konyaspor,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Samsunspor,Galatasaray,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Fenerbahçe,Kocaelispor,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Göztepe,Erzurumspor,Sun 18 Apr 2027 TBD,Süper Lig,Round 29
+Amedspor,Gaziantep,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Istanbul Basaksehir,Eyüpspor,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Konyaspor,Alanyaspor,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Kasimpasa,Çaykur Rizespor,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Trabzonspor,Göztepe,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Kocaelispor,Çorum,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Erzurumspor,Fenerbahçe,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Galatasaray,Besiktas,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Gençlerbirligi,Samsunspor,Sun 25 Apr 2027 TBD,Süper Lig,Round 30
+Çorum,Trabzonspor,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Göztepe,Kasimpasa,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Fenerbahçe,Istanbul Basaksehir,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Alanyaspor,Amedspor,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Eyüpspor,Gençlerbirligi,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Gaziantep,Konyaspor,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Çaykur Rizespor,Galatasaray,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Samsunspor,Besiktas,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Kocaelispor,Erzurumspor,Sun 02 May 2027 TBD,Süper Lig,Round 31
+Besiktas,Gaziantep,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Galatasaray,Eyüpspor,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Samsunspor,Alanyaspor,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Istanbul Basaksehir,Çaykur Rizespor,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Konyaspor,Göztepe,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Amedspor,Çorum,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Trabzonspor,Fenerbahçe,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Gençlerbirligi,Kocaelispor,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Kasimpasa,Erzurumspor,Sun 09 May 2027 TBD,Süper Lig,Round 32
+Kocaelispor,Trabzonspor,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Fenerbahçe,Kasimpasa,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Erzurumspor,Istanbul Basaksehir,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Göztepe,Amedspor,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Çorum,Gençlerbirligi,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Eyüpspor,Konyaspor,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Alanyaspor,Galatasaray,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Çaykur Rizespor,Besiktas,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Gaziantep,Samsunspor,Sun 16 May 2027 TBD,Süper Lig,Round 33
+Galatasaray,Gaziantep,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Samsunspor,Eyüpspor,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Istanbul Basaksehir,Alanyaspor,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Gençlerbirligi,Çaykur Rizespor,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Besiktas,Göztepe,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Konyaspor,Çorum,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Amedspor,Fenerbahçe,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Kasimpasa,Kocaelispor,Sun 23 May 2027 TBD,Süper Lig,Round 34
+Trabzonspor,Erzurumspor,Sun 23 May 2027 TBD,Süper Lig,Round 34

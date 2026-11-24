@@ -1,0 +1,199 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Dundee United,Rangers,Fri 31 Jul 2026 20:00,Scottish Premiership,Round 1,true,1,true,1,1,1:1,1,1
+Falkirk,St. Mirren,Sat 01 Aug 2026 15:00,Scottish Premiership,Round 1,true,2,true,0,2,0:2,0,2
+Aberdeen,Heart of Midlothian,Sat 01 Aug 2026 17:30,Scottish Premiership,Round 1,true,3,true,2,1,2:1,2,1
+St. Johnstone,Kilmarnock,Sun 02 Aug 2026 14:00,Scottish Premiership,Round 1,true,4,true,4,3,4:3,4,3
+Hibernian,Motherwell,Sun 02 Aug 2026 16:30,Scottish Premiership,Round 1,true,5,true,1,2,1:2,1,2
+Celtic,Dundee,Mon 03 Aug 2026 19:30,Scottish Premiership,Round 1,true,6,true,1,0,1:0,1,0
+Dundee,Aberdeen,Sat 08 Aug 2026 15:00,Scottish Premiership,Round 2,true,7,true,2,0,2:0,2,0
+St. Mirren,St. Johnstone,Sat 08 Aug 2026 15:00,Scottish Premiership,Round 2,true,8,true,1,0,1:0,1,0
+Kilmarnock,Celtic,Sun 09 Aug 2026 13:30,Scottish Premiership,Round 2,true,9,true,1,5,1:5,1,5
+Heart of Midlothian,Dundee United,Sun 09 Aug 2026 15:00,Scottish Premiership,Round 2,true,10,true,4,0,4:0,4,0
+Motherwell,Falkirk,Sun 09 Aug 2026 15:00,Scottish Premiership,Round 2,true,11,true,0,0,0:0,0,0
+Rangers,Hibernian,Sun 09 Aug 2026 16:00,Scottish Premiership,Round 2,true,12,true,1,2,1:2,1,2
+Dundee United,Dundee,Sat 22 Aug 2026 17:45,Scottish Premiership,Round 3,true,13,true,0,2,0:2,0,2
+Rangers,St. Mirren,Wed 09 Sep 2026 19:45,Scottish Premiership,Round 3,true,14,true,1,0,1:0,1,0
+St. Johnstone,Celtic,Wed 09 Sep 2026 20:00,Scottish Premiership,Round 3,true,15,true,0,1,0:1,0,1
+Falkirk,Heart of Midlothian,Tue 15 Sep 2026 19:45,Scottish Premiership,Round 3,true,16,true,2,1,2:1,2,1
+Hibernian,Kilmarnock,Tue 15 Sep 2026 19:45,Scottish Premiership,Round 3,true,17,true,0,1,0:1,0,1
+Motherwell,Aberdeen,Tue 15 Sep 2026 19:45,Scottish Premiership,Round 3,true,18,true,0,4,0:4,0,4
+Celtic,Falkirk,Sat 29 Aug 2026 15:00,Scottish Premiership,Round 4,true,19,true,2,1,2:1,2,1
+Heart of Midlothian,St. Johnstone,Sat 29 Aug 2026 15:00,Scottish Premiership,Round 4,true,20,true,2,1,2:1,2,1
+Kilmarnock,Dundee United,Sat 29 Aug 2026 15:00,Scottish Premiership,Round 4,true,21,true,0,4,0:4,0,4
+Aberdeen,Rangers,Sun 30 Aug 2026 12:00,Scottish Premiership,Round 4,true,22,true,0,1,0:1,0,1
+Dundee,Hibernian,Sun 30 Aug 2026 15:00,Scottish Premiership,Round 4,true,23,true,1,2,1:2,1,2
+St. Mirren,Motherwell,Sun 30 Aug 2026 15:00,Scottish Premiership,Round 4,true,24,true,3,3,3:3,3,3
+Celtic,Aberdeen,Wed 02 Sep 2026 19:45,Scottish Premiership,Round 5,true,25,true,3,0,3:0,3,0
+Dundee,St. Johnstone,Wed 02 Sep 2026 19:45,Scottish Premiership,Round 5,true,26,true,1,1,1:1,1,1
+Kilmarnock,St. Mirren,Wed 02 Sep 2026 19:45,Scottish Premiership,Round 5,true,27,true,0,1,0:1,0,1
+Motherwell,Dundee United,Wed 02 Sep 2026 19:45,Scottish Premiership,Round 5,true,28,true,3,0,3:0,3,0
+Falkirk,Rangers,Wed 02 Sep 2026 20:00,Scottish Premiership,Round 5,true,29,true,1,2,1:2,1,2
+Hibernian,Heart of Midlothian,Thu 03 Sep 2026 19:45,Scottish Premiership,Round 5,true,30,true,1,3,1:3,1,3
+Aberdeen,Kilmarnock,Sat 05 Sep 2026 15:00,Scottish Premiership,Round 6,true,31,true,0,0,0:0,0,0
+Dundee United,Falkirk,Sat 05 Sep 2026 15:00,Scottish Premiership,Round 6,true,32,true,1,1,1:1,1,1
+Rangers,Motherwell,Sat 05 Sep 2026 15:00,Scottish Premiership,Round 6,true,33,true,1,0,1:0,1,0
+St. Mirren,Celtic,Sat 05 Sep 2026 20:00,Scottish Premiership,Round 6,true,34,true,1,2,1:2,1,2
+Heart of Midlothian,Dundee,Sun 06 Sep 2026 15:00,Scottish Premiership,Round 6,true,35,true,2,1,2:1,2,1
+St. Johnstone,Hibernian,Sun 06 Sep 2026 15:00,Scottish Premiership,Round 6,true,36,true,2,1,2:1,2,1
+Dundee,Motherwell,Sat 19 Sep 2026 15:00,Scottish Premiership,Round 7,true,37,true,2,1,2:1,2,1
+Hibernian,Aberdeen,Sat 19 Sep 2026 15:00,Scottish Premiership,Round 7,true,38,true,1,1,1:1,1,1
+St. Johnstone,Falkirk,Sat 19 Sep 2026 15:00,Scottish Premiership,Round 7,true,39,true,1,1,1:1,1,1
+St. Mirren,Dundee United,Sat 19 Sep 2026 15:00,Scottish Premiership,Round 7,true,40,true,0,3,0:3,0,3
+Kilmarnock,Heart of Midlothian,Sat 19 Sep 2026 17:45,Scottish Premiership,Round 7,true,41,true,1,1,1:1,1,1
+Celtic,Rangers,Sun 20 Sep 2026 12:00,Scottish Premiership,Round 7,true,42,true,0,1,0:1,0,1
+Dundee United,Hibernian,Sat 10 Oct 2026 15:00,Scottish Premiership,Round 8,true,43,true,1,0,1:0,1,0
+Falkirk,Dundee,Sat 10 Oct 2026 15:00,Scottish Premiership,Round 8,true,44,true,1,2,1:2,1,2
+Heart of Midlothian,St. Mirren,Sat 10 Oct 2026 15:00,Scottish Premiership,Round 8,true,45,true,5,0,5:0,5,0
+Rangers,Kilmarnock,Sat 10 Oct 2026 15:00,Scottish Premiership,Round 8,true,46,true,3,1,3:1,3,1
+Motherwell,Celtic,Sun 11 Oct 2026 12:00,Scottish Premiership,Round 8,true,47,true,0,2,0:2,0,2
+Aberdeen,St. Johnstone,Sun 11 Oct 2026 14:00,Scottish Premiership,Round 8,true,48,true,0,1,0:1,0,1
+Aberdeen,St. Mirren,Sat 17 Oct 2026 15:00,Scottish Premiership,Round 9,true,49,true,3,1,3:1,3,1
+Hibernian,Falkirk,Sat 17 Oct 2026 15:00,Scottish Premiership,Round 9,true,50,true,1,2,1:2,1,2
+Kilmarnock,Motherwell,Sat 17 Oct 2026 15:00,Scottish Premiership,Round 9,true,51,true,3,2,3:2,3,2
+St. Johnstone,Dundee United,Sat 17 Oct 2026 15:00,Scottish Premiership,Round 9,true,52,true,1,1,1:1,1,1
+Dundee,Rangers,Sat 17 Oct 2026 20:00,Scottish Premiership,Round 9,true,53,true,2,2,2:2,2,2
+Celtic,Heart of Midlothian,Sun 18 Oct 2026 15:00,Scottish Premiership,Round 9,true,54,true,7,1,7:1,7,1
+Dundee United,Aberdeen,Sat 24 Oct 2026 15:00,Scottish Premiership,Round 10,true,55,true,3,2,3:2,3,2
+Falkirk,Kilmarnock,Sat 24 Oct 2026 15:00,Scottish Premiership,Round 10,true,56,true,3,0,3:0,3,0
+Rangers,St. Johnstone,Sat 24 Oct 2026 15:00,Scottish Premiership,Round 10,true,57,true,4,0,4:0,4,0
+St. Mirren,Dundee,Sat 24 Oct 2026 15:00,Scottish Premiership,Round 10,true,58,true,2,1,2:1,2,1
+Hibernian,Celtic,Sun 25 Oct 2026 12:00,Scottish Premiership,Round 10,true,59,true,1,2,1:2,1,2
+Motherwell,Heart of Midlothian,Sun 25 Oct 2026 14:00,Scottish Premiership,Round 10,true,60,true,0,2,0:2,0,2
+Aberdeen,Falkirk,Wed 28 Oct 2026 19:45,Scottish Premiership,Round 11,true,61,true,0,1,0:1,0,1
+Celtic,Dundee United,Wed 28 Oct 2026 19:45,Scottish Premiership,Round 11,true,62,true,2,2,2:2,2,2
+Dundee,Kilmarnock,Wed 28 Oct 2026 19:45,Scottish Premiership,Round 11,true,63,true,3,1,3:1,3,1
+St. Johnstone,Motherwell,Wed 28 Oct 2026 19:45,Scottish Premiership,Round 11,true,64,true,2,2,2:2,2,2
+St. Mirren,Hibernian,Wed 28 Oct 2026 19:45,Scottish Premiership,Round 11,true,65,true,1,1,1:1,1,1
+Heart of Midlothian,Rangers,Wed 28 Oct 2026 20:00,Scottish Premiership,Round 11,true,66,true,2,2,2:2,2,2
+Kilmarnock,St. Johnstone,Sat 31 Oct 2026 15:00,Scottish Premiership,Round 12,true,67,true,2,2,2:2,2,2
+Motherwell,St. Mirren,Sat 31 Oct 2026 15:00,Scottish Premiership,Round 12,true,68,true,1,0,1:0,1,0
+Falkirk,Celtic,Sun 01 Nov 2026 13:00,Scottish Premiership,Round 12,true,69,true,2,0,2:0,2,0
+Hibernian,Dundee,Tue 24 Nov 2026 19:45,Scottish Premiership,Round 12
+Rangers,Aberdeen,Tue 24 Nov 2026 20:00,Scottish Premiership,Round 12
+Dundee United,Heart of Midlothian,Tue 12 Jan 2027 19:45,Scottish Premiership,Round 12
+Dundee United,Motherwell,Sat 07 Nov 2026 15:00,Scottish Premiership,Round 13,true,73,true,1,1,1:1,1,1
+St. Johnstone,Dundee,Sat 07 Nov 2026 15:00,Scottish Premiership,Round 13,true,74,true,2,1,2:1,2,1
+Aberdeen,Hibernian,Sat 07 Nov 2026 17:45,Scottish Premiership,Round 13,true,75,true,0,4,0:4,0,4
+St. Mirren,Rangers,Sat 07 Nov 2026 20:00,Scottish Premiership,Round 13,true,76,true,0,2,0:2,0,2
+Heart of Midlothian,Falkirk,Sun 08 Nov 2026 15:00,Scottish Premiership,Round 13,true,77,true,2,5,2:5,2,5
+Celtic,Kilmarnock,Sun 08 Nov 2026 16:00,Scottish Premiership,Round 13,true,78,true,1,0,1:0,1,0
+Celtic,St. Mirren,Sat 21 Nov 2026 15:00,Scottish Premiership,Round 14,true,79,true,4,1,4:1,4,1
+Falkirk,St. Johnstone,Sat 21 Nov 2026 15:00,Scottish Premiership,Round 14,true,80,true,2,1,2:1,2,1
+Hibernian,Dundee United,Sat 21 Nov 2026 15:00,Scottish Premiership,Round 14,true,81,true,0,4,0:4,0,4
+Kilmarnock,Aberdeen,Sat 21 Nov 2026 15:00,Scottish Premiership,Round 14,true,82,true,2,4,2:4,2,4
+Dundee,Heart of Midlothian,Sat 21 Nov 2026 17:45,Scottish Premiership,Round 14,true,83,true,0,8,0:8,0,8
+Motherwell,Rangers,Sat 21 Nov 2026 20:00,Scottish Premiership,Round 14,true,84,true,1,2,1:2,1,2
+Aberdeen,Dundee,Sat 28 Nov 2026 15:00,Scottish Premiership,Round 15
+Dundee United,St. Johnstone,Sat 28 Nov 2026 15:00,Scottish Premiership,Round 15
+Rangers,Falkirk,Sat 28 Nov 2026 15:00,Scottish Premiership,Round 15
+St. Mirren,Kilmarnock,Sat 28 Nov 2026 15:00,Scottish Premiership,Round 15
+Motherwell,Hibernian,Sat 28 Nov 2026 17:45,Scottish Premiership,Round 15
+Heart of Midlothian,Celtic,Sun 29 Nov 2026 15:00,Scottish Premiership,Round 15
+Dundee,Celtic,Wed 02 Dec 2026 19:45,Scottish Premiership,Round 16
+Falkirk,Motherwell,Wed 02 Dec 2026 19:45,Scottish Premiership,Round 16
+Heart of Midlothian,Aberdeen,Wed 02 Dec 2026 19:45,Scottish Premiership,Round 16
+Kilmarnock,Hibernian,Wed 02 Dec 2026 19:45,Scottish Premiership,Round 16
+Rangers,Dundee United,Wed 02 Dec 2026 19:45,Scottish Premiership,Round 16
+St. Johnstone,St. Mirren,Wed 02 Dec 2026 19:45,Scottish Premiership,Round 16
+Aberdeen,Dundee United,Sat 05 Dec 2026 15:00,Scottish Premiership,Round 17
+Celtic,St. Johnstone,Sat 05 Dec 2026 15:00,Scottish Premiership,Round 17
+Dundee,Falkirk,Sat 05 Dec 2026 15:00,Scottish Premiership,Round 17
+Motherwell,Kilmarnock,Sat 05 Dec 2026 15:00,Scottish Premiership,Round 17
+St. Mirren,Heart of Midlothian,Sat 05 Dec 2026 17:30,Scottish Premiership,Round 17
+Hibernian,Rangers,Mon 07 Dec 2026 20:00,Scottish Premiership,Round 17
+Dundee United,St. Mirren,Sat 12 Dec 2026 15:00,Scottish Premiership,Round 18
+Falkirk,Aberdeen,Sat 12 Dec 2026 15:00,Scottish Premiership,Round 18
+Kilmarnock,Dundee,Sat 12 Dec 2026 15:00,Scottish Premiership,Round 18
+Heart of Midlothian,Motherwell,Sun 13 Dec 2026 15:00,Scottish Premiership,Round 18
+Celtic,Hibernian,Wed 13 Jan 2027 19:45,Scottish Premiership,Round 18
+St. Johnstone,Rangers,Wed 13 Jan 2027 20:00,Scottish Premiership,Round 18
+Dundee United,Kilmarnock,Sat 19 Dec 2026 15:00,Scottish Premiership,Round 19
+Hibernian,St. Johnstone,Sat 19 Dec 2026 15:00,Scottish Premiership,Round 19
+Motherwell,Dundee,Sat 19 Dec 2026 15:00,Scottish Premiership,Round 19
+St. Mirren,Falkirk,Sat 19 Dec 2026 15:00,Scottish Premiership,Round 19
+Aberdeen,Celtic,Sun 20 Dec 2026 12:00,Scottish Premiership,Round 19
+Rangers,Heart of Midlothian,Sun 20 Dec 2026 14:30,Scottish Premiership,Round 19
+Celtic,Motherwell,Sat 26 Dec 2026 15:00,Scottish Premiership,Round 20
+Dundee,St. Mirren,Sat 26 Dec 2026 15:00,Scottish Premiership,Round 20
+Falkirk,Dundee United,Sat 26 Dec 2026 15:00,Scottish Premiership,Round 20
+St. Johnstone,Aberdeen,Sat 26 Dec 2026 15:00,Scottish Premiership,Round 20
+Kilmarnock,Rangers,Sat 26 Dec 2026 17:45,Scottish Premiership,Round 20
+Heart of Midlothian,Hibernian,Sun 27 Dec 2026 12:00,Scottish Premiership,Round 20
+Aberdeen,Motherwell,Wed 30 Dec 2026 19:45,Scottish Premiership,Round 21
+Dundee United,Celtic,Wed 30 Dec 2026 19:45,Scottish Premiership,Round 21
+Hibernian,St. Mirren,Wed 30 Dec 2026 19:45,Scottish Premiership,Round 21
+Kilmarnock,Falkirk,Wed 30 Dec 2026 19:45,Scottish Premiership,Round 21
+Rangers,Dundee,Wed 30 Dec 2026 19:45,Scottish Premiership,Round 21
+St. Johnstone,Heart of Midlothian,Wed 30 Dec 2026 19:45,Scottish Premiership,Round 21
+Dundee,Dundee United,Sat 02 Jan 2027 12:30,Scottish Premiership,Round 22
+Falkirk,Hibernian,Sat 02 Jan 2027 15:00,Scottish Premiership,Round 22
+Heart of Midlothian,Kilmarnock,Sat 02 Jan 2027 15:00,Scottish Premiership,Round 22
+Motherwell,St. Johnstone,Sat 02 Jan 2027 15:00,Scottish Premiership,Round 22
+Rangers,Celtic,Sun 03 Jan 2027 12:00,Scottish Premiership,Round 22
+St. Mirren,Aberdeen,Sun 03 Jan 2027 14:30,Scottish Premiership,Round 22
+Aberdeen,Heart of Midlothian,Sat 09 Jan 2027 15:00,Scottish Premiership,Round 23
+Celtic,Dundee,Sat 09 Jan 2027 15:00,Scottish Premiership,Round 23
+Hibernian,Motherwell,Sat 09 Jan 2027 15:00,Scottish Premiership,Round 23
+Kilmarnock,St. Mirren,Sat 09 Jan 2027 15:00,Scottish Premiership,Round 23
+St. Johnstone,Falkirk,Sat 09 Jan 2027 15:00,Scottish Premiership,Round 23
+Dundee United,Rangers,Sat 09 Jan 2027 17:30,Scottish Premiership,Round 23
+Dundee,Aberdeen,Sat 23 Jan 2027 15:00,Scottish Premiership,Round 24
+Falkirk,Heart of Midlothian,Sat 23 Jan 2027 15:00,Scottish Premiership,Round 24
+Hibernian,Kilmarnock,Sat 23 Jan 2027 15:00,Scottish Premiership,Round 24
+Motherwell,Dundee United,Sat 23 Jan 2027 15:00,Scottish Premiership,Round 24
+Rangers,St. Johnstone,Sat 23 Jan 2027 15:00,Scottish Premiership,Round 24
+St. Mirren,Celtic,Sun 24 Jan 2027 15:00,Scottish Premiership,Round 24
+Aberdeen,Rangers,Sat 30 Jan 2027 15:00,Scottish Premiership,Round 25
+Dundee,Hibernian,Sat 30 Jan 2027 15:00,Scottish Premiership,Round 25
+Heart of Midlothian,St. Mirren,Sat 30 Jan 2027 15:00,Scottish Premiership,Round 25
+Kilmarnock,Motherwell,Sat 30 Jan 2027 15:00,Scottish Premiership,Round 25
+St. Johnstone,Dundee United,Sat 30 Jan 2027 15:00,Scottish Premiership,Round 25
+Celtic,Falkirk,Sun 31 Jan 2027 15:00,Scottish Premiership,Round 25
+Aberdeen,Falkirk,Wed 03 Feb 2027 19:45,Scottish Premiership,Round 26
+Dundee United,Hibernian,Wed 03 Feb 2027 19:45,Scottish Premiership,Round 26
+Heart of Midlothian,Dundee,Wed 03 Feb 2027 19:45,Scottish Premiership,Round 26
+Motherwell,Celtic,Wed 03 Feb 2027 19:45,Scottish Premiership,Round 26
+Rangers,Kilmarnock,Wed 03 Feb 2027 19:45,Scottish Premiership,Round 26
+St. Mirren,St. Johnstone,Wed 03 Feb 2027 19:45,Scottish Premiership,Round 26
+Celtic,Heart of Midlothian,Sat 13 Feb 2027 15:00,Scottish Premiership,Round 27
+Dundee,St. Johnstone,Sat 13 Feb 2027 15:00,Scottish Premiership,Round 27
+Falkirk,Rangers,Sat 13 Feb 2027 15:00,Scottish Premiership,Round 27
+Hibernian,Aberdeen,Sat 13 Feb 2027 15:00,Scottish Premiership,Round 27
+Kilmarnock,Dundee United,Sat 13 Feb 2027 15:00,Scottish Premiership,Round 27
+St. Mirren,Motherwell,Sat 13 Feb 2027 15:00,Scottish Premiership,Round 27
+Dundee United,Aberdeen,Sat 20 Feb 2027 15:00,Scottish Premiership,Round 28
+Falkirk,Dundee,Sat 20 Feb 2027 15:00,Scottish Premiership,Round 28
+Hibernian,Celtic,Sat 20 Feb 2027 15:00,Scottish Premiership,Round 28
+Motherwell,Heart of Midlothian,Sat 20 Feb 2027 15:00,Scottish Premiership,Round 28
+Rangers,St. Mirren,Sat 20 Feb 2027 15:00,Scottish Premiership,Round 28
+St. Johnstone,Kilmarnock,Sat 20 Feb 2027 15:00,Scottish Premiership,Round 28
+Aberdeen,St. Johnstone,Sat 27 Feb 2027 15:00,Scottish Premiership,Round 29
+Celtic,Rangers,Sat 27 Feb 2027 15:00,Scottish Premiership,Round 29
+Dundee,Kilmarnock,Sat 27 Feb 2027 15:00,Scottish Premiership,Round 29
+Heart of Midlothian,Dundee United,Sat 27 Feb 2027 15:00,Scottish Premiership,Round 29
+Motherwell,Falkirk,Sat 27 Feb 2027 15:00,Scottish Premiership,Round 29
+St. Mirren,Hibernian,Sat 27 Feb 2027 15:00,Scottish Premiership,Round 29
+Aberdeen,St. Mirren,Sat 13 Mar 2027 15:00,Scottish Premiership,Round 30
+Dundee United,Dundee,Sat 13 Mar 2027 15:00,Scottish Premiership,Round 30
+Hibernian,Falkirk,Sat 13 Mar 2027 15:00,Scottish Premiership,Round 30
+Kilmarnock,Heart of Midlothian,Sat 13 Mar 2027 15:00,Scottish Premiership,Round 30
+Rangers,Motherwell,Sat 13 Mar 2027 15:00,Scottish Premiership,Round 30
+St. Johnstone,Celtic,Sat 13 Mar 2027 15:00,Scottish Premiership,Round 30
+Celtic,Aberdeen,Sat 20 Mar 2027 15:00,Scottish Premiership,Round 31
+Dundee,Motherwell,Sat 20 Mar 2027 15:00,Scottish Premiership,Round 31
+Falkirk,Kilmarnock,Sat 20 Mar 2027 15:00,Scottish Premiership,Round 31
+Heart of Midlothian,Rangers,Sat 20 Mar 2027 15:00,Scottish Premiership,Round 31
+St. Johnstone,Hibernian,Sat 20 Mar 2027 15:00,Scottish Premiership,Round 31
+St. Mirren,Dundee United,Sat 20 Mar 2027 15:00,Scottish Premiership,Round 31
+Dundee United,Falkirk,Sat 03 Apr 2027 15:00,Scottish Premiership,Round 32
+Heart of Midlothian,St. Johnstone,Sat 03 Apr 2027 15:00,Scottish Premiership,Round 32
+Kilmarnock,Celtic,Sat 03 Apr 2027 15:00,Scottish Premiership,Round 32
+Motherwell,Aberdeen,Sat 03 Apr 2027 15:00,Scottish Premiership,Round 32
+Rangers,Hibernian,Sat 03 Apr 2027 15:00,Scottish Premiership,Round 32
+St. Mirren,Dundee,Sat 03 Apr 2027 15:00,Scottish Premiership,Round 32
+Aberdeen,Kilmarnock,Sat 10 Apr 2027 15:00,Scottish Premiership,Round 33
+Celtic,Dundee United,Sat 10 Apr 2027 15:00,Scottish Premiership,Round 33
+Dundee,Rangers,Sat 10 Apr 2027 15:00,Scottish Premiership,Round 33
+Falkirk,St. Mirren,Sat 10 Apr 2027 15:00,Scottish Premiership,Round 33
+Hibernian,Heart of Midlothian,Sat 10 Apr 2027 15:00,Scottish Premiership,Round 33
+St. Johnstone,Motherwell,Sat 10 Apr 2027 15:00,Scottish Premiership,Round 33

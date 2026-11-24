@@ -1,0 +1,553 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Wolverhampton Wanderers,Blackburn Rovers,Fri 14 Aug 2026 20:00,Championship,Round 1,true,1,true,2,2,2:2,2,2
+Bolton Wanderers,Preston North End,Sat 15 Aug 2026 12:30,Championship,Round 1,true,2,true,2,1,2:1,2,1
+Bristol City,Millwall,Sat 15 Aug 2026 15:00,Championship,Round 1,true,3,true,0,2,0:2,0,2
+Charlton Athletic,Derby County,Sat 15 Aug 2026 15:00,Championship,Round 1,true,4,true,2,1,2:1,2,1
+Middlesbrough,Lincoln City,Sat 15 Aug 2026 15:00,Championship,Round 1,true,5,true,2,1,2:1,2,1
+Norwich City,West Bromwich Albion,Sat 15 Aug 2026 15:00,Championship,Round 1,true,6,true,1,2,1:2,1,2
+Portsmouth,Queens Park Rangers,Sat 15 Aug 2026 15:00,Championship,Round 1,true,7,true,1,3,1:3,1,3
+Stoke City,Swansea City,Sat 15 Aug 2026 15:00,Championship,Round 1,true,8,true,1,2,1:2,1,2
+Sheffield United,Birmingham City,Sat 15 Aug 2026 17:30,Championship,Round 1,true,9,true,0,0,0:0,0,0
+Watford,Southampton,Sun 16 Aug 2026 13:30,Championship,Round 1,true,10,true,2,1,2:1,2,1
+Burnley,West Ham United,Sun 16 Aug 2026 16:00,Championship,Round 1,true,11,true,2,2,2:2,2,2
+Cardiff City,Wrexham,Mon 17 Aug 2026 20:00,Championship,Round 1,true,12,true,1,1,1:1,1,1
+Birmingham City,Bristol City,Sat 22 Aug 2026 12:30,Championship,Round 2,true,13,true,2,2,2:2,2,2
+Lincoln City,Portsmouth,Sat 22 Aug 2026 12:30,Championship,Round 2,true,14,true,1,3,1:3,1,3
+Millwall,Norwich City,Sat 22 Aug 2026 12:30,Championship,Round 2,true,15,true,3,0,3:0,3,0
+Blackburn Rovers,Middlesbrough,Sat 22 Aug 2026 15:00,Championship,Round 2,true,16,true,2,1,2:1,2,1
+Derby County,Cardiff City,Sat 22 Aug 2026 15:00,Championship,Round 2,true,17,true,2,2,2:2,2,2
+Preston North End,Wolverhampton Wanderers,Sat 22 Aug 2026 15:00,Championship,Round 2,true,18,true,1,3,1:3,1,3
+Queens Park Rangers,Bolton Wanderers,Sat 22 Aug 2026 15:00,Championship,Round 2,true,19,true,0,0,0:0,0,0
+Southampton,Stoke City,Sat 22 Aug 2026 15:00,Championship,Round 2,true,20,true,3,1,3:1,3,1
+Swansea City,Sheffield United,Sat 22 Aug 2026 15:00,Championship,Round 2,true,21,true,0,0,0:0,0,0
+West Ham United,Charlton Athletic,Sat 22 Aug 2026 15:00,Championship,Round 2,true,22,true,1,2,1:2,1,2
+Wrexham,Watford,Sat 22 Aug 2026 15:00,Championship,Round 2,true,23,true,1,1,1:1,1,1
+West Bromwich Albion,Burnley,Sun 23 Aug 2026 12:00,Championship,Round 2,true,24,true,3,1,3:1,3,1
+Wrexham,Birmingham City,Fri 28 Aug 2026 20:00,Championship,Round 3,true,25,true,1,2,1:2,1,2
+Derby County,Swansea City,Sat 29 Aug 2026 12:30,Championship,Round 3,true,26,true,0,3,0:3,0,3
+Middlesbrough,West Bromwich Albion,Sat 29 Aug 2026 12:30,Championship,Round 3,true,27,true,3,1,3:1,3,1
+Wolverhampton Wanderers,Stoke City,Sat 29 Aug 2026 12:30,Championship,Round 3,true,28,true,4,1,4:1,4,1
+Blackburn Rovers,Queens Park Rangers,Sat 29 Aug 2026 15:00,Championship,Round 3,true,29,true,1,2,1:2,1,2
+Bolton Wanderers,Lincoln City,Sat 29 Aug 2026 15:00,Championship,Round 3,true,30,true,0,1,0:1,0,1
+Bristol City,Portsmouth,Sat 29 Aug 2026 15:00,Championship,Round 3,true,31,true,2,1,2:1,2,1
+Cardiff City,Sheffield United,Sat 29 Aug 2026 15:00,Championship,Round 3,true,32,true,2,2,2:2,2,2
+Charlton Athletic,Preston North End,Sat 29 Aug 2026 15:00,Championship,Round 3,true,33,true,1,0,1:0,1,0
+Norwich City,Burnley,Sat 29 Aug 2026 15:00,Championship,Round 3,true,34,true,4,1,4:1,4,1
+Southampton,Millwall,Sat 29 Aug 2026 15:00,Championship,Round 3,true,35,true,5,1,5:1,5,1
+Watford,West Ham United,Sat 29 Aug 2026 15:00,Championship,Round 3,true,36,true,1,1,1:1,1,1
+Lincoln City,Blackburn Rovers,Tue 01 Sep 2026 19:45,Championship,Round 4,true,37,true,0,0,0:0,0,0
+Portsmouth,Derby County,Tue 01 Sep 2026 19:45,Championship,Round 4,true,38,true,0,2,0:2,0,2
+Preston North End,Bristol City,Tue 01 Sep 2026 19:45,Championship,Round 4,true,39,true,1,3,1:3,1,3
+Sheffield United,Bolton Wanderers,Tue 01 Sep 2026 19:45,Championship,Round 4,true,40,true,3,2,3:2,3,2
+Swansea City,Watford,Tue 01 Sep 2026 19:45,Championship,Round 4,true,41,true,2,0,2:0,2,0
+West Ham United,Wolverhampton Wanderers,Tue 01 Sep 2026 19:45,Championship,Round 4,true,42,true,4,2,4:2,4,2
+Birmingham City,Southampton,Tue 01 Sep 2026 20:00,Championship,Round 4,true,43,true,1,1,1:1,1,1
+Stoke City,Norwich City,Tue 01 Sep 2026 20:00,Championship,Round 4,true,44,true,1,0,1:0,1,0
+Millwall,Wrexham,Wed 02 Sep 2026 19:45,Championship,Round 4,true,45,true,0,3,0:3,0,3
+Queens Park Rangers,Cardiff City,Wed 02 Sep 2026 19:45,Championship,Round 4,true,46,true,2,1,2:1,2,1
+West Bromwich Albion,Charlton Athletic,Wed 02 Sep 2026 19:45,Championship,Round 4,true,47,true,1,1,1:1,1,1
+Burnley,Middlesbrough,Wed 02 Sep 2026 20:00,Championship,Round 4,true,48,true,1,1,1:1,1,1
+Lincoln City,Southampton,Sat 05 Sep 2026 12:30,Championship,Round 5,true,49,true,1,1,1:1,1,1
+Preston North End,Blackburn Rovers,Sat 05 Sep 2026 12:30,Championship,Round 5,true,50,true,2,1,2:1,2,1
+Stoke City,Charlton Athletic,Sat 05 Sep 2026 12:30,Championship,Round 5,true,51,true,4,0,4:0,4,0
+Burnley,Bristol City,Sat 05 Sep 2026 15:00,Championship,Round 5,true,52,true,1,2,1:2,1,2
+Millwall,Bolton Wanderers,Sat 05 Sep 2026 15:00,Championship,Round 5,true,53,true,4,0,4:0,4,0
+Portsmouth,Cardiff City,Sat 05 Sep 2026 15:00,Championship,Round 5,true,54,true,2,0,2:0,2,0
+Queens Park Rangers,Middlesbrough,Sat 05 Sep 2026 15:00,Championship,Round 5,true,55,true,0,1,0:1,0,1
+Sheffield United,Norwich City,Sat 05 Sep 2026 15:00,Championship,Round 5,true,56,true,1,3,1:3,1,3
+West Bromwich Albion,Watford,Sat 05 Sep 2026 15:00,Championship,Round 5,true,57,true,1,0,1:0,1,0
+West Ham United,Derby County,Sat 05 Sep 2026 15:00,Championship,Round 5,true,58,true,3,0,3:0,3,0
+Swansea City,Wrexham,Sat 05 Sep 2026 20:00,Championship,Round 5,true,59,true,0,0,0:0,0,0
+Birmingham City,Wolverhampton Wanderers,Sun 06 Sep 2026 12:00,Championship,Round 5,true,60,true,2,2,2:2,2,2
+Blackburn Rovers,Sheffield United,Tue 08 Sep 2026 19:45,Championship,Round 6,true,61,true,1,2,1:2,1,2
+Cardiff City,Stoke City,Tue 08 Sep 2026 19:45,Championship,Round 6,true,62,true,1,1,1:1,1,1
+Southampton,Swansea City,Tue 08 Sep 2026 19:45,Championship,Round 6,true,63,true,3,1,3:1,3,1
+Watford,Preston North End,Tue 08 Sep 2026 19:45,Championship,Round 6,true,64,true,2,1,2:1,2,1
+Wrexham,Burnley,Tue 08 Sep 2026 19:45,Championship,Round 6,true,65,true,1,1,1:1,1,1
+Bolton Wanderers,West Ham United,Tue 08 Sep 2026 20:00,Championship,Round 6,true,66,true,2,3,2:3,2,3
+Derby County,West Bromwich Albion,Wed 09 Sep 2026 19:45,Championship,Round 6,true,67,true,0,1,0:1,0,1
+Norwich City,Birmingham City,Wed 09 Sep 2026 19:45,Championship,Round 6,true,68,true,2,1,2:1,2,1
+Charlton Athletic,Queens Park Rangers,Wed 09 Sep 2026 20:00,Championship,Round 6,true,69,true,0,0,0:0,0,0
+Bristol City,Lincoln City,Tue 15 Sep 2026 19:45,Championship,Round 6,true,70,true,0,1,0:1,0,1
+Middlesbrough,Millwall,Tue 15 Sep 2026 19:45,Championship,Round 6,true,71,true,2,2,2:2,2,2
+Wolverhampton Wanderers,Portsmouth,Tue 20 Oct 2026 19:45,Championship,Round 6,true,72,true,1,1,1:1,1,1
+West Ham United,Wrexham,Fri 11 Sep 2026 20:00,Championship,Round 7,true,73,true,6,0,6:0,6,0
+Bolton Wanderers,Cardiff City,Sat 12 Sep 2026 12:30,Championship,Round 7,true,74,true,1,0,1:0,1,0
+Derby County,Birmingham City,Sat 12 Sep 2026 12:30,Championship,Round 7,true,75,true,1,2,1:2,1,2
+West Bromwich Albion,Queens Park Rangers,Sat 12 Sep 2026 12:30,Championship,Round 7,true,76,true,1,1,1:1,1,1
+Blackburn Rovers,Millwall,Sat 12 Sep 2026 15:00,Championship,Round 7,true,77,true,3,1,3:1,3,1
+Charlton Athletic,Portsmouth,Sat 12 Sep 2026 15:00,Championship,Round 7,true,78,true,0,0,0:0,0,0
+Middlesbrough,Norwich City,Sat 12 Sep 2026 15:00,Championship,Round 7,true,79,true,4,3,4:3,4,3
+Preston North End,Lincoln City,Sat 12 Sep 2026 15:00,Championship,Round 7,true,80,true,0,1,0:1,0,1
+Southampton,Bristol City,Sat 12 Sep 2026 15:00,Championship,Round 7,true,81,true,4,1,4:1,4,1
+Swansea City,Burnley,Sat 12 Sep 2026 15:00,Championship,Round 7,true,82,true,3,1,3:1,3,1
+Watford,Stoke City,Sat 12 Sep 2026 15:00,Championship,Round 7,true,83,true,1,2,1:2,1,2
+Sheffield United,Wolverhampton Wanderers,Sun 13 Sep 2026 12:00,Championship,Round 7,true,84,true,0,1,0:1,0,1
+Bristol City,Watford,Fri 18 Sep 2026 20:00,Championship,Round 8,true,85,true,1,0,1:0,1,0
+Cardiff City,Charlton Athletic,Sat 19 Sep 2026 12:30,Championship,Round 8,true,86,true,3,1,3:1,3,1
+Millwall,West Ham United,Sat 19 Sep 2026 12:30,Championship,Round 8,true,87,true,2,2,2:2,2,2
+Stoke City,Sheffield United,Sat 19 Sep 2026 12:30,Championship,Round 8,true,88,true,2,1,2:1,2,1
+Birmingham City,Middlesbrough,Sat 19 Sep 2026 15:00,Championship,Round 8,true,89,true,2,2,2:2,2,2
+Burnley,Derby County,Sat 19 Sep 2026 15:00,Championship,Round 8,true,90,true,1,1,1:1,1,1
+Lincoln City,Swansea City,Sat 19 Sep 2026 15:00,Championship,Round 8,true,91,true,1,2,1:2,1,2
+Portsmouth,Blackburn Rovers,Sat 19 Sep 2026 15:00,Championship,Round 8,true,92,true,2,2,2:2,2,2
+Queens Park Rangers,Preston North End,Sat 19 Sep 2026 15:00,Championship,Round 8,true,93,true,2,2,2:2,2,2
+Wrexham,Southampton,Sat 19 Sep 2026 15:00,Championship,Round 8,true,94,true,2,1,2:1,2,1
+Wolverhampton Wanderers,West Bromwich Albion,Sun 20 Sep 2026 12:00,Championship,Round 8,true,95,true,1,0,1:0,1,0
+Norwich City,Bolton Wanderers,Sun 20 Sep 2026 13:30,Championship,Round 8,true,96,true,3,4,3:4,3,4
+West Ham United,Queens Park Rangers,Fri 09 Oct 2026 20:00,Championship,Round 9,true,97,true,1,1,1:1,1,1
+Charlton Athletic,Bristol City,Sat 10 Oct 2026 12:30,Championship,Round 9,true,98,true,1,1,1:1,1,1
+Swansea City,Norwich City,Sat 10 Oct 2026 12:30,Championship,Round 9,true,99,true,2,1,2:1,2,1
+West Bromwich Albion,Birmingham City,Sat 10 Oct 2026 12:30,Championship,Round 9,true,100,true,0,1,0:1,0,1
+Blackburn Rovers,Cardiff City,Sat 10 Oct 2026 15:00,Championship,Round 9,true,101,true,2,1,2:1,2,1
+Bolton Wanderers,Stoke City,Sat 10 Oct 2026 15:00,Championship,Round 9,true,102,true,1,2,1:2,1,2
+Derby County,Wrexham,Sat 10 Oct 2026 15:00,Championship,Round 9,true,103,true,1,1,1:1,1,1
+Middlesbrough,Wolverhampton Wanderers,Sat 10 Oct 2026 15:00,Championship,Round 9,true,104,true,1,0,1:0,1,0
+Preston North End,Millwall,Sat 10 Oct 2026 15:00,Championship,Round 9,true,105,true,0,1,0:1,0,1
+Sheffield United,Lincoln City,Sat 10 Oct 2026 15:00,Championship,Round 9,true,106,true,3,0,3:0,3,0
+Watford,Burnley,Sat 10 Oct 2026 15:00,Championship,Round 9,true,107,true,0,4,0:4,0,4
+Southampton,Portsmouth,Sun 11 Oct 2026 12:00,Championship,Round 9,true,108,true,1,0,1:0,1,0
+Bristol City,Blackburn Rovers,Tue 13 Oct 2026 19:45,Championship,Round 10,true,109,true,0,1,0:1,0,1
+Burnley,Charlton Athletic,Tue 13 Oct 2026 19:45,Championship,Round 10,true,110,true,2,2,2:2,2,2
+Cardiff City,Watford,Tue 13 Oct 2026 19:45,Championship,Round 10,true,111,true,5,1,5:1,5,1
+Millwall,Swansea City,Tue 13 Oct 2026 19:45,Championship,Round 10,true,112,true,0,1,0:1,0,1
+Wolverhampton Wanderers,Bolton Wanderers,Tue 13 Oct 2026 19:45,Championship,Round 10,true,113,true,1,3,1:3,1,3
+Wrexham,West Bromwich Albion,Tue 13 Oct 2026 19:45,Championship,Round 10,true,114,true,1,2,1:2,1,2
+Birmingham City,Preston North End,Tue 13 Oct 2026 20:00,Championship,Round 10,true,115,true,4,0,4:0,4,0
+Stoke City,Middlesbrough,Tue 13 Oct 2026 20:00,Championship,Round 10,true,116,true,2,3,2:3,2,3
+Norwich City,Southampton,Wed 14 Oct 2026 19:45,Championship,Round 10,true,117,true,0,1,0:1,0,1
+Portsmouth,Sheffield United,Wed 14 Oct 2026 19:45,Championship,Round 10,true,118,true,3,2,3:2,3,2
+Queens Park Rangers,Derby County,Wed 14 Oct 2026 19:45,Championship,Round 10,true,119,true,4,1,4:1,4,1
+Lincoln City,West Ham United,Wed 14 Oct 2026 20:00,Championship,Round 10,true,120,true,0,6,0:6,0,6
+Burnley,Wolverhampton Wanderers,Fri 16 Oct 2026 20:00,Championship,Round 11,true,121,true,1,2,1:2,1,2
+Middlesbrough,Cardiff City,Sat 17 Oct 2026 12:30,Championship,Round 11,true,122,true,2,2,2:2,2,2
+Millwall,Lincoln City,Sat 17 Oct 2026 12:30,Championship,Round 11,true,123,true,2,2,2:2,2,2
+Watford,Charlton Athletic,Sat 17 Oct 2026 12:30,Championship,Round 11,true,124,true,2,0,2:0,2,0
+Birmingham City,Queens Park Rangers,Sat 17 Oct 2026 15:00,Championship,Round 11,true,125,true,3,0,3:0,3,0
+Bristol City,Sheffield United,Sat 17 Oct 2026 15:00,Championship,Round 11,true,126,true,0,1,0:1,0,1
+Derby County,Stoke City,Sat 17 Oct 2026 15:00,Championship,Round 11,true,127,true,0,1,0:1,0,1
+Norwich City,Portsmouth,Sat 17 Oct 2026 15:00,Championship,Round 11,true,128,true,0,1,0:1,0,1
+Southampton,Bolton Wanderers,Sat 17 Oct 2026 15:00,Championship,Round 11,true,129,true,0,0,0:0,0,0
+Swansea City,West Ham United,Sat 17 Oct 2026 15:00,Championship,Round 11,true,130,true,0,1,0:1,0,1
+West Bromwich Albion,Blackburn Rovers,Sat 17 Oct 2026 15:00,Championship,Round 11,true,131,true,3,2,3:2,3,2
+Wrexham,Preston North End,Sat 17 Oct 2026 15:00,Championship,Round 11,true,132,true,4,1,4:1,4,1
+Bolton Wanderers,Middlesbrough,Fri 23 Oct 2026 20:00,Championship,Round 12,true,133,true,1,5,1:5,1,5
+Charlton Athletic,Norwich City,Sat 24 Oct 2026 12:30,Championship,Round 12,true,134,true,1,3,1:3,1,3
+Portsmouth,Millwall,Sat 24 Oct 2026 12:30,Championship,Round 12,true,135,true,2,1,2:1,2,1
+Sheffield United,Derby County,Sat 24 Oct 2026 12:30,Championship,Round 12,true,136,true,1,1,1:1,1,1
+Blackburn Rovers,Wrexham,Sat 24 Oct 2026 15:00,Championship,Round 12,true,137,true,2,0,2:0,2,0
+Cardiff City,Birmingham City,Sat 24 Oct 2026 15:00,Championship,Round 12,true,138,true,1,0,1:0,1,0
+Lincoln City,Burnley,Sat 24 Oct 2026 15:00,Championship,Round 12,true,139,true,4,1,4:1,4,1
+Preston North End,West Bromwich Albion,Sat 24 Oct 2026 15:00,Championship,Round 12,true,140,true,1,1,1:1,1,1
+Queens Park Rangers,Swansea City,Sat 24 Oct 2026 15:00,Championship,Round 12,true,141,true,5,0,5:0,5,0
+Stoke City,Bristol City,Sat 24 Oct 2026 15:00,Championship,Round 12,true,142,true,0,0,0:0,0,0
+West Ham United,Southampton,Sat 24 Oct 2026 15:00,Championship,Round 12,true,143,true,2,3,2:3,2,3
+Wolverhampton Wanderers,Watford,Sat 24 Oct 2026 15:00,Championship,Round 12,true,144,true,1,0,1:0,1,0
+Sheffield United,Wrexham,Fri 30 Oct 2026 20:00,Championship,Round 13,true,145,true,1,0,1:0,1,0
+Lincoln City,Birmingham City,Sat 31 Oct 2026 12:30,Championship,Round 13,true,146,true,1,3,1:3,1,3
+Norwich City,Watford,Sat 31 Oct 2026 12:30,Championship,Round 13,true,147,true,3,2,3:2,3,2
+Stoke City,Preston North End,Sat 31 Oct 2026 12:30,Championship,Round 13,true,148,true,2,0,2:0,2,0
+Bolton Wanderers,Bristol City,Sat 31 Oct 2026 15:00,Championship,Round 13,true,149,true,2,3,2:3,2,3
+Burnley,Portsmouth,Sat 31 Oct 2026 15:00,Championship,Round 13,true,150,true,0,0,0:0,0,0
+Middlesbrough,Charlton Athletic,Sat 31 Oct 2026 15:00,Championship,Round 13,true,151,true,3,0,3:0,3,0
+Millwall,Derby County,Sat 31 Oct 2026 15:00,Championship,Round 13,true,152,true,4,1,4:1,4,1
+Southampton,Queens Park Rangers,Sat 31 Oct 2026 15:00,Championship,Round 13,true,153,true,4,1,4:1,4,1
+Swansea City,Blackburn Rovers,Sat 31 Oct 2026 15:00,Championship,Round 13,true,154,true,4,0,4:0,4,0
+West Ham United,West Bromwich Albion,Sat 31 Oct 2026 15:00,Championship,Round 13,true,155,true,1,3,1:3,1,3
+Wolverhampton Wanderers,Cardiff City,Sat 31 Oct 2026 15:00,Championship,Round 13,true,156,true,3,0,3:0,3,0
+Blackburn Rovers,Stoke City,Tue 03 Nov 2026 19:45,Championship,Round 14,true,157,true,1,2,1:2,1,2
+Derby County,Norwich City,Tue 03 Nov 2026 19:45,Championship,Round 14,true,158,true,0,4,0:4,0,4
+Portsmouth,Swansea City,Tue 03 Nov 2026 19:45,Championship,Round 14,true,159,true,3,1,3:1,3,1
+Preston North End,Sheffield United,Tue 03 Nov 2026 19:45,Championship,Round 14,true,160,true,2,3,2:3,2,3
+Queens Park Rangers,Burnley,Tue 03 Nov 2026 19:45,Championship,Round 14,true,161,true,1,1,1:1,1,1
+Watford,Lincoln City,Tue 03 Nov 2026 19:45,Championship,Round 14,true,162,true,1,0,1:0,1,0
+Charlton Athletic,Bolton Wanderers,Tue 03 Nov 2026 19:45,Championship,Round 14,true,163,true,0,1,0:1,0,1
+Birmingham City,Millwall,Tue 03 Nov 2026 20:00,Championship,Round 14,true,164,true,3,0,3:0,3,0
+West Bromwich Albion,Southampton,Tue 03 Nov 2026 20:00,Championship,Round 14,true,165,true,1,1,1:1,1,1
+Cardiff City,West Ham United,Wed 04 Nov 2026 19:45,Championship,Round 14,true,166,true,3,3,3:3,3,3
+Wrexham,Middlesbrough,Wed 04 Nov 2026 19:45,Championship,Round 14,true,167,true,2,0,2:0,2,0
+Bristol City,Wolverhampton Wanderers,Wed 04 Nov 2026 20:00,Championship,Round 14,true,168,true,1,2,1:2,1,2
+Derby County,Bolton Wanderers,Fri 06 Nov 2026 20:00,Championship,Round 15,true,169,true,3,1,3:1,3,1
+Bristol City,Norwich City,Sat 07 Nov 2026 12:30,Championship,Round 15,true,170,true,0,5,0:5,0,5
+Portsmouth,Stoke City,Sat 07 Nov 2026 12:30,Championship,Round 15,true,171,true,1,2,1:2,1,2
+Wrexham,Wolverhampton Wanderers,Sat 07 Nov 2026 12:30,Championship,Round 15,true,172,true,1,1,1:1,1,1
+Birmingham City,Swansea City,Sat 07 Nov 2026 15:00,Championship,Round 15,true,173,true,2,1,2:1,2,1
+Blackburn Rovers,West Ham United,Sat 07 Nov 2026 15:00,Championship,Round 15,true,174,true,2,1,2:1,2,1
+Cardiff City,Burnley,Sat 07 Nov 2026 15:00,Championship,Round 15,true,175,true,5,4,5:4,5,4
+Charlton Athletic,Sheffield United,Sat 07 Nov 2026 15:00,Championship,Round 15,true,176,true,2,1,2:1,2,1
+Preston North End,Southampton,Sat 07 Nov 2026 15:00,Championship,Round 15,true,177,true,1,0,1:0,1,0
+Queens Park Rangers,Lincoln City,Sat 07 Nov 2026 15:00,Championship,Round 15,true,178,true,2,1,2:1,2,1
+Watford,Middlesbrough,Sat 07 Nov 2026 15:00,Championship,Round 15,true,179,true,0,0,0:0,0,0
+West Bromwich Albion,Millwall,Sat 07 Nov 2026 15:00,Championship,Round 15,true,180,true,3,0,3:0,3,0
+Millwall,Queens Park Rangers,Sat 21 Nov 2026 12:30,Championship,Round 16,true,181,true,0,1,0:1,0,1
+Norwich City,Cardiff City,Sat 21 Nov 2026 12:30,Championship,Round 16,true,182,true,2,1,2:1,2,1
+Southampton,Derby County,Sat 21 Nov 2026 12:30,Championship,Round 16,true,183,true,2,0,2:0,2,0
+Bolton Wanderers,Portsmouth,Sat 21 Nov 2026 15:00,Championship,Round 16,true,184,true,1,1,1:1,1,1
+Lincoln City,Wrexham,Sat 21 Nov 2026 15:00,Championship,Round 16,true,185,true,0,1,0:1,0,1
+Middlesbrough,Bristol City,Sat 21 Nov 2026 15:00,Championship,Round 16,true,186,true,2,0,2:0,2,0
+Sheffield United,Watford,Sat 21 Nov 2026 15:00,Championship,Round 16,true,187,true,4,0,4:0,4,0
+Stoke City,Birmingham City,Sat 21 Nov 2026 15:00,Championship,Round 16,true,188,true,1,0,1:0,1,0
+Swansea City,West Bromwich Albion,Sat 21 Nov 2026 15:00,Championship,Round 16,true,189,true,2,2,2:2,2,2
+West Ham United,Preston North End,Sat 21 Nov 2026 15:00,Championship,Round 16,true,190,true,1,1,1:1,1,1
+Wolverhampton Wanderers,Charlton Athletic,Sat 21 Nov 2026 15:00,Championship,Round 16,true,191,true,2,1,2:1,2,1
+Burnley,Blackburn Rovers,Sun 22 Nov 2026 12:00,Championship,Round 16,true,192,true,2,2,2:2,2,2
+Bristol City,Wrexham,Tue 24 Nov 2026 19:45,Championship,Round 17
+Cardiff City,Preston North End,Tue 24 Nov 2026 19:45,Championship,Round 17
+Charlton Athletic,Lincoln City,Tue 24 Nov 2026 19:45,Championship,Round 17
+Middlesbrough,Swansea City,Tue 24 Nov 2026 19:45,Championship,Round 17
+Norwich City,Queens Park Rangers,Tue 24 Nov 2026 19:45,Championship,Round 17
+Portsmouth,West Ham United,Tue 24 Nov 2026 19:45,Championship,Round 17
+Sheffield United,Southampton,Tue 24 Nov 2026 19:45,Championship,Round 17
+Wolverhampton Wanderers,Derby County,Tue 24 Nov 2026 20:00,Championship,Round 17
+Bolton Wanderers,West Bromwich Albion,Wed 25 Nov 2026 19:45,Championship,Round 17
+Burnley,Birmingham City,Wed 25 Nov 2026 19:45,Championship,Round 17
+Watford,Blackburn Rovers,Wed 25 Nov 2026 19:45,Championship,Round 17
+Stoke City,Millwall,Wed 25 Nov 2026 20:00,Championship,Round 17
+Southampton,Middlesbrough,Fri 27 Nov 2026 20:00,Championship,Round 18
+Blackburn Rovers,Charlton Athletic,Sat 28 Nov 2026 12:30,Championship,Round 18
+Lincoln City,Wolverhampton Wanderers,Sat 28 Nov 2026 12:30,Championship,Round 18
+Preston North End,Norwich City,Sat 28 Nov 2026 12:30,Championship,Round 18
+Birmingham City,Bolton Wanderers,Sat 28 Nov 2026 15:00,Championship,Round 18
+Derby County,Watford,Sat 28 Nov 2026 15:00,Championship,Round 18
+Millwall,Burnley,Sat 28 Nov 2026 15:00,Championship,Round 18
+Queens Park Rangers,Sheffield United,Sat 28 Nov 2026 15:00,Championship,Round 18
+West Bromwich Albion,Bristol City,Sat 28 Nov 2026 15:00,Championship,Round 18
+West Ham United,Stoke City,Sat 28 Nov 2026 15:00,Championship,Round 18
+Wrexham,Portsmouth,Sat 28 Nov 2026 15:00,Championship,Round 18
+Swansea City,Cardiff City,Sun 29 Nov 2026 12:00,Championship,Round 18
+Sheffield United,West Ham United,Fri 04 Dec 2026 20:00,Championship,Round 19
+Bolton Wanderers,Blackburn Rovers,Sat 05 Dec 2026 12:30,Championship,Round 19
+Bristol City,Swansea City,Sat 05 Dec 2026 12:30,Championship,Round 19
+Middlesbrough,Derby County,Sat 05 Dec 2026 12:30,Championship,Round 19
+Watford,Millwall,Sat 05 Dec 2026 12:30,Championship,Round 19
+Cardiff City,Lincoln City,Sat 05 Dec 2026 15:00,Championship,Round 19
+Charlton Athletic,Birmingham City,Sat 05 Dec 2026 15:00,Championship,Round 19
+Norwich City,Wrexham,Sat 05 Dec 2026 15:00,Championship,Round 19
+Portsmouth,West Bromwich Albion,Sat 05 Dec 2026 15:00,Championship,Round 19
+Stoke City,Queens Park Rangers,Sat 05 Dec 2026 15:00,Championship,Round 19
+Wolverhampton Wanderers,Southampton,Sat 05 Dec 2026 15:00,Championship,Round 19
+Burnley,Preston North End,Sun 06 Dec 2026 12:00,Championship,Round 19
+Blackburn Rovers,Norwich City,Tue 08 Dec 2026 19:45,Championship,Round 20
+Millwall,Sheffield United,Tue 08 Dec 2026 19:45,Championship,Round 20
+Queens Park Rangers,Wolverhampton Wanderers,Tue 08 Dec 2026 19:45,Championship,Round 20
+Swansea City,Bolton Wanderers,Tue 08 Dec 2026 19:45,Championship,Round 20
+West Bromwich Albion,Cardiff City,Tue 08 Dec 2026 19:45,Championship,Round 20
+Wrexham,Charlton Athletic,Tue 08 Dec 2026 19:45,Championship,Round 20
+Birmingham City,Watford,Tue 08 Dec 2026 20:00,Championship,Round 20
+West Ham United,Middlesbrough,Tue 08 Dec 2026 20:00,Championship,Round 20
+Derby County,Bristol City,Wed 09 Dec 2026 19:45,Championship,Round 20
+Lincoln City,Stoke City,Wed 09 Dec 2026 19:45,Championship,Round 20
+Preston North End,Portsmouth,Wed 09 Dec 2026 19:45,Championship,Round 20
+Southampton,Burnley,Wed 09 Dec 2026 20:00,Championship,Round 20
+Bolton Wanderers,Wrexham,Fri 11 Dec 2026 20:00,Championship,Round 21
+Preston North End,Middlesbrough,Sat 12 Dec 2026 12:30,Championship,Round 21
+Queens Park Rangers,Watford,Sat 12 Dec 2026 12:30,Championship,Round 21
+Stoke City,West Bromwich Albion,Sat 12 Dec 2026 12:30,Championship,Round 21
+Blackburn Rovers,Derby County,Sat 12 Dec 2026 15:00,Championship,Round 21
+Cardiff City,Southampton,Sat 12 Dec 2026 15:00,Championship,Round 21
+Charlton Athletic,Swansea City,Sat 12 Dec 2026 15:00,Championship,Round 21
+Portsmouth,Birmingham City,Sat 12 Dec 2026 15:00,Championship,Round 21
+Sheffield United,Burnley,Sat 12 Dec 2026 15:00,Championship,Round 21
+West Ham United,Bristol City,Sat 12 Dec 2026 15:00,Championship,Round 21
+Wolverhampton Wanderers,Millwall,Sat 12 Dec 2026 15:00,Championship,Round 21
+Lincoln City,Norwich City,Sun 13 Dec 2026 14:00,Championship,Round 21
+West Bromwich Albion,Sheffield United,Fri 18 Dec 2026 20:00,Championship,Round 22
+Birmingham City,West Ham United,Sat 19 Dec 2026 12:30,Championship,Round 22
+Bristol City,Cardiff City,Sat 19 Dec 2026 12:30,Championship,Round 22
+Millwall,Charlton Athletic,Sat 19 Dec 2026 12:30,Championship,Round 22
+Swansea City,Preston North End,Sat 19 Dec 2026 12:30,Championship,Round 22
+Watford,Bolton Wanderers,Sat 19 Dec 2026 12:30,Championship,Round 22
+Burnley,Stoke City,Sat 19 Dec 2026 15:00,Championship,Round 22
+Derby County,Lincoln City,Sat 19 Dec 2026 15:00,Championship,Round 22
+Middlesbrough,Portsmouth,Sat 19 Dec 2026 15:00,Championship,Round 22
+Norwich City,Wolverhampton Wanderers,Sat 19 Dec 2026 15:00,Championship,Round 22
+Southampton,Blackburn Rovers,Sat 19 Dec 2026 15:00,Championship,Round 22
+Wrexham,Queens Park Rangers,Sat 19 Dec 2026 15:00,Championship,Round 22
+Bolton Wanderers,Burnley,Sat 26 Dec 2026 12:30,Championship,Round 23
+Sheffield United,Middlesbrough,Sat 26 Dec 2026 12:30,Championship,Round 23
+Blackburn Rovers,Birmingham City,Sat 26 Dec 2026 15:00,Championship,Round 23
+Cardiff City,Millwall,Sat 26 Dec 2026 15:00,Championship,Round 23
+Charlton Athletic,Southampton,Sat 26 Dec 2026 15:00,Championship,Round 23
+Lincoln City,West Bromwich Albion,Sat 26 Dec 2026 15:00,Championship,Round 23
+Portsmouth,Watford,Sat 26 Dec 2026 15:00,Championship,Round 23
+Preston North End,Derby County,Sat 26 Dec 2026 15:00,Championship,Round 23
+Queens Park Rangers,Bristol City,Sat 26 Dec 2026 15:00,Championship,Round 23
+Stoke City,Wrexham,Sat 26 Dec 2026 15:00,Championship,Round 23
+West Ham United,Norwich City,Sat 26 Dec 2026 15:00,Championship,Round 23
+Wolverhampton Wanderers,Swansea City,Sat 26 Dec 2026 15:00,Championship,Round 23
+Wrexham,Blackburn Rovers,Tue 29 Dec 2026 18:00,Championship,Round 24
+Bristol City,Stoke City,Tue 29 Dec 2026 19:45,Championship,Round 24
+Burnley,Lincoln City,Tue 29 Dec 2026 19:45,Championship,Round 24
+Derby County,Sheffield United,Tue 29 Dec 2026 19:45,Championship,Round 24
+Middlesbrough,Bolton Wanderers,Tue 29 Dec 2026 19:45,Championship,Round 24
+Millwall,Portsmouth,Tue 29 Dec 2026 19:45,Championship,Round 24
+Norwich City,Charlton Athletic,Tue 29 Dec 2026 19:45,Championship,Round 24
+Swansea City,Queens Park Rangers,Tue 29 Dec 2026 19:45,Championship,Round 24
+Watford,Wolverhampton Wanderers,Tue 29 Dec 2026 19:45,Championship,Round 24
+West Bromwich Albion,Preston North End,Tue 29 Dec 2026 19:45,Championship,Round 24
+Birmingham City,Cardiff City,Tue 29 Dec 2026 20:00,Championship,Round 24
+Southampton,West Ham United,Tue 29 Dec 2026 20:15,Championship,Round 24
+Millwall,Wolverhampton Wanderers,Fri 01 Jan 2027 12:30,Championship,Round 25
+Birmingham City,Portsmouth,Fri 01 Jan 2027 15:00,Championship,Round 25
+Bristol City,West Ham United,Fri 01 Jan 2027 15:00,Championship,Round 25
+Derby County,Blackburn Rovers,Fri 01 Jan 2027 15:00,Championship,Round 25
+Middlesbrough,Preston North End,Fri 01 Jan 2027 15:00,Championship,Round 25
+Norwich City,Lincoln City,Fri 01 Jan 2027 15:00,Championship,Round 25
+Southampton,Cardiff City,Fri 01 Jan 2027 15:00,Championship,Round 25
+Swansea City,Charlton Athletic,Fri 01 Jan 2027 15:00,Championship,Round 25
+Watford,Queens Park Rangers,Fri 01 Jan 2027 15:00,Championship,Round 25
+West Bromwich Albion,Stoke City,Fri 01 Jan 2027 15:00,Championship,Round 25
+Wrexham,Bolton Wanderers,Fri 01 Jan 2027 15:00,Championship,Round 25
+Burnley,Sheffield United,Fri 01 Jan 2027 17:30,Championship,Round 25
+West Ham United,Swansea City,Fri 15 Jan 2027 20:00,Championship,Round 26
+Queens Park Rangers,Birmingham City,Sat 16 Jan 2027 12:30,Championship,Round 26
+Stoke City,Derby County,Sat 16 Jan 2027 12:30,Championship,Round 26
+Wolverhampton Wanderers,Burnley,Sat 16 Jan 2027 12:30,Championship,Round 26
+Blackburn Rovers,West Bromwich Albion,Sat 16 Jan 2027 15:00,Championship,Round 26
+Bolton Wanderers,Southampton,Sat 16 Jan 2027 15:00,Championship,Round 26
+Cardiff City,Middlesbrough,Sat 16 Jan 2027 15:00,Championship,Round 26
+Lincoln City,Millwall,Sat 16 Jan 2027 15:00,Championship,Round 26
+Portsmouth,Norwich City,Sat 16 Jan 2027 15:00,Championship,Round 26
+Preston North End,Wrexham,Sat 16 Jan 2027 15:00,Championship,Round 26
+Sheffield United,Bristol City,Sat 16 Jan 2027 15:00,Championship,Round 26
+Charlton Athletic,Watford,Sun 17 Jan 2027 12:00,Championship,Round 26
+Preston North End,Stoke City,Fri 22 Jan 2027 20:00,Championship,Round 27
+Birmingham City,Lincoln City,Sat 23 Jan 2027 12:30,Championship,Round 27
+Queens Park Rangers,Southampton,Sat 23 Jan 2027 12:30,Championship,Round 27
+West Bromwich Albion,West Ham United,Sat 23 Jan 2027 12:30,Championship,Round 27
+Blackburn Rovers,Swansea City,Sat 23 Jan 2027 15:00,Championship,Round 27
+Bristol City,Bolton Wanderers,Sat 23 Jan 2027 15:00,Championship,Round 27
+Charlton Athletic,Middlesbrough,Sat 23 Jan 2027 15:00,Championship,Round 27
+Derby County,Millwall,Sat 23 Jan 2027 15:00,Championship,Round 27
+Portsmouth,Burnley,Sat 23 Jan 2027 15:00,Championship,Round 27
+Watford,Norwich City,Sat 23 Jan 2027 15:00,Championship,Round 27
+Wrexham,Sheffield United,Sat 23 Jan 2027 15:00,Championship,Round 27
+Cardiff City,Wolverhampton Wanderers,Sun 24 Jan 2027 12:00,Championship,Round 27
+Bolton Wanderers,Charlton Athletic,Tue 26 Jan 2027 19:45,Championship,Round 28
+Burnley,Queens Park Rangers,Tue 26 Jan 2027 19:45,Championship,Round 28
+Lincoln City,Watford,Tue 26 Jan 2027 19:45,Championship,Round 28
+Millwall,Birmingham City,Tue 26 Jan 2027 19:45,Championship,Round 28
+Sheffield United,Preston North End,Tue 26 Jan 2027 19:45,Championship,Round 28
+Southampton,West Bromwich Albion,Tue 26 Jan 2027 19:45,Championship,Round 28
+Stoke City,Blackburn Rovers,Tue 26 Jan 2027 19:45,Championship,Round 28
+Norwich City,Derby County,Tue 26 Jan 2027 20:00,Championship,Round 28
+Middlesbrough,Wrexham,Wed 27 Jan 2027 19:45,Championship,Round 28
+West Ham United,Cardiff City,Wed 27 Jan 2027 19:45,Championship,Round 28
+Wolverhampton Wanderers,Bristol City,Wed 27 Jan 2027 19:45,Championship,Round 28
+Swansea City,Portsmouth,Wed 27 Jan 2027 20:00,Championship,Round 28
+Lincoln City,Queens Park Rangers,Fri 29 Jan 2027 20:00,Championship,Round 29
+Bolton Wanderers,Derby County,Sat 30 Jan 2027 12:30,Championship,Round 29
+Swansea City,Birmingham City,Sat 30 Jan 2027 12:30,Championship,Round 29
+Wolverhampton Wanderers,Wrexham,Sat 30 Jan 2027 12:30,Championship,Round 29
+Burnley,Cardiff City,Sat 30 Jan 2027 15:00,Championship,Round 29
+Middlesbrough,Watford,Sat 30 Jan 2027 15:00,Championship,Round 29
+Millwall,West Bromwich Albion,Sat 30 Jan 2027 15:00,Championship,Round 29
+Sheffield United,Charlton Athletic,Sat 30 Jan 2027 15:00,Championship,Round 29
+Southampton,Preston North End,Sat 30 Jan 2027 15:00,Championship,Round 29
+Stoke City,Portsmouth,Sat 30 Jan 2027 15:00,Championship,Round 29
+West Ham United,Blackburn Rovers,Sat 30 Jan 2027 15:00,Championship,Round 29
+Norwich City,Bristol City,Sun 31 Jan 2027 12:00,Championship,Round 29
+Bristol City,Middlesbrough,Fri 05 Feb 2027 20:00,Championship,Round 30
+Charlton Athletic,Wolverhampton Wanderers,Sat 06 Feb 2027 12:30,Championship,Round 30
+Watford,Sheffield United,Sat 06 Feb 2027 12:30,Championship,Round 30
+Wrexham,Lincoln City,Sat 06 Feb 2027 12:30,Championship,Round 30
+Birmingham City,Stoke City,Sat 06 Feb 2027 15:00,Championship,Round 30
+Cardiff City,Norwich City,Sat 06 Feb 2027 15:00,Championship,Round 30
+Derby County,Southampton,Sat 06 Feb 2027 15:00,Championship,Round 30
+Portsmouth,Bolton Wanderers,Sat 06 Feb 2027 15:00,Championship,Round 30
+Preston North End,West Ham United,Sat 06 Feb 2027 15:00,Championship,Round 30
+Queens Park Rangers,Millwall,Sat 06 Feb 2027 15:00,Championship,Round 30
+West Bromwich Albion,Swansea City,Sat 06 Feb 2027 15:00,Championship,Round 30
+Blackburn Rovers,Burnley,Sun 07 Feb 2027 12:00,Championship,Round 30
+Birmingham City,Derby County,Fri 12 Feb 2027 20:00,Championship,Round 31
+Bristol City,Southampton,Sat 13 Feb 2027 12:30,Championship,Round 31
+Millwall,Blackburn Rovers,Sat 13 Feb 2027 12:30,Championship,Round 31
+Portsmouth,Charlton Athletic,Sat 13 Feb 2027 12:30,Championship,Round 31
+Burnley,Swansea City,Sat 13 Feb 2027 15:00,Championship,Round 31
+Norwich City,Middlesbrough,Sat 13 Feb 2027 15:00,Championship,Round 31
+Queens Park Rangers,West Bromwich Albion,Sat 13 Feb 2027 15:00,Championship,Round 31
+Stoke City,Watford,Sat 13 Feb 2027 15:00,Championship,Round 31
+Wolverhampton Wanderers,Sheffield United,Sat 13 Feb 2027 15:00,Championship,Round 31
+Wrexham,West Ham United,Sat 13 Feb 2027 15:00,Championship,Round 31
+Lincoln City,Preston North End,Sat 13 Feb 2027 17:30,Championship,Round 31
+Cardiff City,Bolton Wanderers,Sun 14 Feb 2027 12:00,Championship,Round 31
+Charlton Athletic,Burnley,Tue 16 Feb 2027 19:45,Championship,Round 32
+Derby County,Queens Park Rangers,Tue 16 Feb 2027 19:45,Championship,Round 32
+Preston North End,Birmingham City,Tue 16 Feb 2027 19:45,Championship,Round 32
+Sheffield United,Portsmouth,Tue 16 Feb 2027 19:45,Championship,Round 32
+West Bromwich Albion,Wrexham,Tue 16 Feb 2027 19:45,Championship,Round 32
+West Ham United,Lincoln City,Tue 16 Feb 2027 19:45,Championship,Round 32
+Middlesbrough,Stoke City,Tue 16 Feb 2027 19:45,Championship,Round 32
+Blackburn Rovers,Bristol City,Tue 16 Feb 2027 20:00,Championship,Round 32
+Bolton Wanderers,Wolverhampton Wanderers,Wed 17 Feb 2027 19:45,Championship,Round 32
+Southampton,Norwich City,Wed 17 Feb 2027 19:45,Championship,Round 32
+Swansea City,Millwall,Wed 17 Feb 2027 19:45,Championship,Round 32
+Watford,Cardiff City,Wed 17 Feb 2027 20:00,Championship,Round 32
+Middlesbrough,Birmingham City,Fri 19 Feb 2027 20:00,Championship,Round 33
+Sheffield United,Stoke City,Sat 20 Feb 2027 12:30,Championship,Round 33
+Watford,Bristol City,Sat 20 Feb 2027 12:30,Championship,Round 33
+West Bromwich Albion,Wolverhampton Wanderers,Sat 20 Feb 2027 12:30,Championship,Round 33
+Blackburn Rovers,Portsmouth,Sat 20 Feb 2027 15:00,Championship,Round 33
+Bolton Wanderers,Norwich City,Sat 20 Feb 2027 15:00,Championship,Round 33
+Charlton Athletic,Cardiff City,Sat 20 Feb 2027 15:00,Championship,Round 33
+Derby County,Burnley,Sat 20 Feb 2027 15:00,Championship,Round 33
+Preston North End,Queens Park Rangers,Sat 20 Feb 2027 15:00,Championship,Round 33
+Southampton,Wrexham,Sat 20 Feb 2027 15:00,Championship,Round 33
+Swansea City,Lincoln City,Sat 20 Feb 2027 15:00,Championship,Round 33
+West Ham United,Millwall,Sun 21 Feb 2027 12:00,Championship,Round 33
+Birmingham City,West Bromwich Albion,Fri 26 Feb 2027 20:00,Championship,Round 34
+Bristol City,Charlton Athletic,Sat 27 Feb 2027 12:30,Championship,Round 34
+Norwich City,Swansea City,Sat 27 Feb 2027 12:30,Championship,Round 34
+Queens Park Rangers,West Ham United,Sat 27 Feb 2027 12:30,Championship,Round 34
+Burnley,Watford,Sat 27 Feb 2027 15:00,Championship,Round 34
+Cardiff City,Blackburn Rovers,Sat 27 Feb 2027 15:00,Championship,Round 34
+Lincoln City,Sheffield United,Sat 27 Feb 2027 15:00,Championship,Round 34
+Millwall,Preston North End,Sat 27 Feb 2027 15:00,Championship,Round 34
+Stoke City,Bolton Wanderers,Sat 27 Feb 2027 15:00,Championship,Round 34
+Wolverhampton Wanderers,Middlesbrough,Sat 27 Feb 2027 15:00,Championship,Round 34
+Wrexham,Derby County,Sat 27 Feb 2027 15:00,Championship,Round 34
+Portsmouth,Southampton,Sun 28 Feb 2027 12:00,Championship,Round 34
+Bolton Wanderers,Queens Park Rangers,Tue 02 Mar 2027 19:45,Championship,Round 35
+Burnley,West Bromwich Albion,Tue 02 Mar 2027 19:45,Championship,Round 35
+Cardiff City,Derby County,Tue 02 Mar 2027 19:45,Championship,Round 35
+Charlton Athletic,West Ham United,Tue 02 Mar 2027 19:45,Championship,Round 35
+Middlesbrough,Blackburn Rovers,Tue 02 Mar 2027 19:45,Championship,Round 35
+Norwich City,Millwall,Tue 02 Mar 2027 19:45,Championship,Round 35
+Watford,Wrexham,Tue 02 Mar 2027 19:45,Championship,Round 35
+Bristol City,Birmingham City,Tue 02 Mar 2027 20:00,Championship,Round 35
+Sheffield United,Swansea City,Wed 03 Mar 2027 19:45,Championship,Round 35
+Stoke City,Southampton,Wed 03 Mar 2027 19:45,Championship,Round 35
+Wolverhampton Wanderers,Preston North End,Wed 03 Mar 2027 19:45,Championship,Round 35
+Portsmouth,Lincoln City,Wed 03 Mar 2027 20:00,Championship,Round 35
+Birmingham City,Sheffield United,Sat 06 Mar 2027 15:00,Championship,Round 36
+Blackburn Rovers,Wolverhampton Wanderers,Sat 06 Mar 2027 15:00,Championship,Round 36
+Derby County,Charlton Athletic,Sat 06 Mar 2027 15:00,Championship,Round 36
+Lincoln City,Middlesbrough,Sat 06 Mar 2027 15:00,Championship,Round 36
+Millwall,Bristol City,Sat 06 Mar 2027 15:00,Championship,Round 36
+Preston North End,Bolton Wanderers,Sat 06 Mar 2027 15:00,Championship,Round 36
+Queens Park Rangers,Portsmouth,Sat 06 Mar 2027 15:00,Championship,Round 36
+Southampton,Watford,Sat 06 Mar 2027 15:00,Championship,Round 36
+Swansea City,Stoke City,Sat 06 Mar 2027 15:00,Championship,Round 36
+West Bromwich Albion,Norwich City,Sat 06 Mar 2027 15:00,Championship,Round 36
+West Ham United,Burnley,Sat 06 Mar 2027 15:00,Championship,Round 36
+Wrexham,Cardiff City,Sat 06 Mar 2027 15:00,Championship,Round 36
+Bolton Wanderers,Birmingham City,Sat 13 Mar 2027 15:00,Championship,Round 37
+Bristol City,West Bromwich Albion,Sat 13 Mar 2027 15:00,Championship,Round 37
+Burnley,Millwall,Sat 13 Mar 2027 15:00,Championship,Round 37
+Cardiff City,Swansea City,Sat 13 Mar 2027 15:00,Championship,Round 37
+Charlton Athletic,Blackburn Rovers,Sat 13 Mar 2027 15:00,Championship,Round 37
+Middlesbrough,Southampton,Sat 13 Mar 2027 15:00,Championship,Round 37
+Norwich City,Preston North End,Sat 13 Mar 2027 15:00,Championship,Round 37
+Portsmouth,Wrexham,Sat 13 Mar 2027 15:00,Championship,Round 37
+Sheffield United,Queens Park Rangers,Sat 13 Mar 2027 15:00,Championship,Round 37
+Stoke City,West Ham United,Sat 13 Mar 2027 15:00,Championship,Round 37
+Watford,Derby County,Sat 13 Mar 2027 15:00,Championship,Round 37
+Wolverhampton Wanderers,Lincoln City,Sat 13 Mar 2027 15:00,Championship,Round 37
+Derby County,Middlesbrough,Tue 16 Mar 2027 19:45,Championship,Round 38
+Lincoln City,Cardiff City,Tue 16 Mar 2027 19:45,Championship,Round 38
+Preston North End,Burnley,Tue 16 Mar 2027 19:45,Championship,Round 38
+Queens Park Rangers,Stoke City,Tue 16 Mar 2027 19:45,Championship,Round 38
+Southampton,Wolverhampton Wanderers,Tue 16 Mar 2027 19:45,Championship,Round 38
+Swansea City,Bristol City,Tue 16 Mar 2027 19:45,Championship,Round 38
+West Bromwich Albion,Portsmouth,Tue 16 Mar 2027 19:45,Championship,Round 38
+Wrexham,Norwich City,Tue 16 Mar 2027 19:45,Championship,Round 38
+Blackburn Rovers,Bolton Wanderers,Wed 17 Mar 2027 19:45,Championship,Round 38
+Millwall,Watford,Wed 17 Mar 2027 19:45,Championship,Round 38
+West Ham United,Sheffield United,Wed 17 Mar 2027 19:45,Championship,Round 38
+Birmingham City,Charlton Athletic,Wed 17 Mar 2027 20:00,Championship,Round 38
+Birmingham City,Blackburn Rovers,Sat 20 Mar 2027 15:00,Championship,Round 39
+Bristol City,Queens Park Rangers,Sat 20 Mar 2027 15:00,Championship,Round 39
+Burnley,Bolton Wanderers,Sat 20 Mar 2027 15:00,Championship,Round 39
+Derby County,Preston North End,Sat 20 Mar 2027 15:00,Championship,Round 39
+Middlesbrough,Sheffield United,Sat 20 Mar 2027 15:00,Championship,Round 39
+Millwall,Cardiff City,Sat 20 Mar 2027 15:00,Championship,Round 39
+Norwich City,West Ham United,Sat 20 Mar 2027 15:00,Championship,Round 39
+Southampton,Charlton Athletic,Sat 20 Mar 2027 15:00,Championship,Round 39
+Swansea City,Wolverhampton Wanderers,Sat 20 Mar 2027 15:00,Championship,Round 39
+Watford,Portsmouth,Sat 20 Mar 2027 15:00,Championship,Round 39
+West Bromwich Albion,Lincoln City,Sat 20 Mar 2027 15:00,Championship,Round 39
+Wrexham,Stoke City,Sat 20 Mar 2027 15:00,Championship,Round 39
+Charlton Athletic,Millwall,Sat 03 Apr 2027 12:30,Championship,Round 40
+Blackburn Rovers,Southampton,Sat 03 Apr 2027 15:00,Championship,Round 40
+Bolton Wanderers,Watford,Sat 03 Apr 2027 15:00,Championship,Round 40
+Cardiff City,Bristol City,Sat 03 Apr 2027 15:00,Championship,Round 40
+Lincoln City,Derby County,Sat 03 Apr 2027 15:00,Championship,Round 40
+Portsmouth,Middlesbrough,Sat 03 Apr 2027 15:00,Championship,Round 40
+Preston North End,Swansea City,Sat 03 Apr 2027 15:00,Championship,Round 40
+Queens Park Rangers,Wrexham,Sat 03 Apr 2027 15:00,Championship,Round 40
+Sheffield United,West Bromwich Albion,Sat 03 Apr 2027 15:00,Championship,Round 40
+Stoke City,Burnley,Sat 03 Apr 2027 15:00,Championship,Round 40
+West Ham United,Birmingham City,Sat 03 Apr 2027 15:00,Championship,Round 40
+Wolverhampton Wanderers,Norwich City,Sat 03 Apr 2027 15:00,Championship,Round 40
+Burnley,Wrexham,Tue 06 Apr 2027 19:45,Championship,Round 41
+Lincoln City,Bristol City,Tue 06 Apr 2027 19:45,Championship,Round 41
+Millwall,Middlesbrough,Tue 06 Apr 2027 19:45,Championship,Round 41
+Portsmouth,Wolverhampton Wanderers,Tue 06 Apr 2027 19:45,Championship,Round 41
+Queens Park Rangers,Charlton Athletic,Tue 06 Apr 2027 19:45,Championship,Round 41
+Stoke City,Cardiff City,Tue 06 Apr 2027 19:45,Championship,Round 41
+Swansea City,Southampton,Tue 06 Apr 2027 19:45,Championship,Round 41
+West Ham United,Bolton Wanderers,Tue 06 Apr 2027 19:45,Championship,Round 41
+Preston North End,Watford,Wed 07 Apr 2027 19:45,Championship,Round 41
+Sheffield United,Blackburn Rovers,Wed 07 Apr 2027 19:45,Championship,Round 41
+West Bromwich Albion,Derby County,Wed 07 Apr 2027 19:45,Championship,Round 41
+Birmingham City,Norwich City,Wed 07 Apr 2027 20:00,Championship,Round 41
+Blackburn Rovers,Preston North End,Sat 10 Apr 2027 15:00,Championship,Round 42
+Bolton Wanderers,Millwall,Sat 10 Apr 2027 15:00,Championship,Round 42
+Bristol City,Burnley,Sat 10 Apr 2027 15:00,Championship,Round 42
+Cardiff City,Portsmouth,Sat 10 Apr 2027 15:00,Championship,Round 42
+Charlton Athletic,Stoke City,Sat 10 Apr 2027 15:00,Championship,Round 42
+Derby County,West Ham United,Sat 10 Apr 2027 15:00,Championship,Round 42
+Middlesbrough,Queens Park Rangers,Sat 10 Apr 2027 15:00,Championship,Round 42
+Norwich City,Sheffield United,Sat 10 Apr 2027 15:00,Championship,Round 42
+Southampton,Lincoln City,Sat 10 Apr 2027 15:00,Championship,Round 42
+Watford,West Bromwich Albion,Sat 10 Apr 2027 15:00,Championship,Round 42
+Wolverhampton Wanderers,Birmingham City,Sat 10 Apr 2027 15:00,Championship,Round 42
+Wrexham,Swansea City,Sat 10 Apr 2027 15:00,Championship,Round 42
+Birmingham City,Wrexham,Sat 17 Apr 2027 15:00,Championship,Round 43
+Burnley,Norwich City,Sat 17 Apr 2027 15:00,Championship,Round 43
+Lincoln City,Bolton Wanderers,Sat 17 Apr 2027 15:00,Championship,Round 43
+Millwall,Southampton,Sat 17 Apr 2027 15:00,Championship,Round 43
+Portsmouth,Bristol City,Sat 17 Apr 2027 15:00,Championship,Round 43
+Preston North End,Charlton Athletic,Sat 17 Apr 2027 15:00,Championship,Round 43
+Queens Park Rangers,Blackburn Rovers,Sat 17 Apr 2027 15:00,Championship,Round 43
+Sheffield United,Cardiff City,Sat 17 Apr 2027 15:00,Championship,Round 43
+Stoke City,Wolverhampton Wanderers,Sat 17 Apr 2027 15:00,Championship,Round 43
+Swansea City,Derby County,Sat 17 Apr 2027 15:00,Championship,Round 43
+West Bromwich Albion,Middlesbrough,Sat 17 Apr 2027 15:00,Championship,Round 43
+West Ham United,Watford,Sat 17 Apr 2027 15:00,Championship,Round 43
+Bolton Wanderers,Sheffield United,Tue 20 Apr 2027 19:45,Championship,Round 44
+Charlton Athletic,West Bromwich Albion,Tue 20 Apr 2027 19:45,Championship,Round 44
+Derby County,Portsmouth,Tue 20 Apr 2027 19:45,Championship,Round 44
+Middlesbrough,Burnley,Tue 20 Apr 2027 19:45,Championship,Round 44
+Norwich City,Stoke City,Tue 20 Apr 2027 19:45,Championship,Round 44
+Southampton,Birmingham City,Tue 20 Apr 2027 19:45,Championship,Round 44
+Wolverhampton Wanderers,West Ham United,Tue 20 Apr 2027 19:45,Championship,Round 44
+Wrexham,Millwall,Tue 20 Apr 2027 19:45,Championship,Round 44
+Blackburn Rovers,Lincoln City,Wed 21 Apr 2027 19:45,Championship,Round 44
+Bristol City,Preston North End,Wed 21 Apr 2027 19:45,Championship,Round 44
+Cardiff City,Queens Park Rangers,Wed 21 Apr 2027 19:45,Championship,Round 44
+Watford,Swansea City,Wed 21 Apr 2027 19:45,Championship,Round 44
+Bolton Wanderers,Swansea City,Sat 24 Apr 2027 15:00,Championship,Round 45
+Bristol City,Derby County,Sat 24 Apr 2027 15:00,Championship,Round 45
+Burnley,Southampton,Sat 24 Apr 2027 15:00,Championship,Round 45
+Cardiff City,West Bromwich Albion,Sat 24 Apr 2027 15:00,Championship,Round 45
+Charlton Athletic,Wrexham,Sat 24 Apr 2027 15:00,Championship,Round 45
+Middlesbrough,West Ham United,Sat 24 Apr 2027 15:00,Championship,Round 45
+Norwich City,Blackburn Rovers,Sat 24 Apr 2027 15:00,Championship,Round 45
+Portsmouth,Preston North End,Sat 24 Apr 2027 15:00,Championship,Round 45
+Sheffield United,Millwall,Sat 24 Apr 2027 15:00,Championship,Round 45
+Stoke City,Lincoln City,Sat 24 Apr 2027 15:00,Championship,Round 45
+Watford,Birmingham City,Sat 24 Apr 2027 15:00,Championship,Round 45
+Wolverhampton Wanderers,Queens Park Rangers,Sat 24 Apr 2027 15:00,Championship,Round 45
+Birmingham City,Burnley,Sat 01 May 2027 12:30,Championship,Round 46
+Blackburn Rovers,Watford,Sat 01 May 2027 12:30,Championship,Round 46
+Derby County,Wolverhampton Wanderers,Sat 01 May 2027 12:30,Championship,Round 46
+Lincoln City,Charlton Athletic,Sat 01 May 2027 12:30,Championship,Round 46
+Millwall,Stoke City,Sat 01 May 2027 12:30,Championship,Round 46
+Preston North End,Cardiff City,Sat 01 May 2027 12:30,Championship,Round 46
+Queens Park Rangers,Norwich City,Sat 01 May 2027 12:30,Championship,Round 46
+Southampton,Sheffield United,Sat 01 May 2027 12:30,Championship,Round 46
+Swansea City,Middlesbrough,Sat 01 May 2027 12:30,Championship,Round 46
+West Bromwich Albion,Bolton Wanderers,Sat 01 May 2027 12:30,Championship,Round 46
+West Ham United,Portsmouth,Sat 01 May 2027 12:30,Championship,Round 46
+Wrexham,Bristol City,Sat 01 May 2027 12:30,Championship,Round 46

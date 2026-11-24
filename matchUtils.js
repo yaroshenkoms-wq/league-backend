@@ -35,6 +35,16 @@ const TEAM_ALIASES = {
   rennes: ['Stade Rennais'],
   brest: ['Stade Brestois 29'],
   'le havre': ['Havre Athletic Club'],
+  // Дополнительные лиги (football-data.co.uk)
+  'wolverhampton wanderers': ['Wolves'],
+  'west bromwich albion': ['West Brom'],
+  'queens park rangers': ['QPR'],
+  'fortuna sittard': ['For Sittard'],
+  'vitoria sc': ['Guimaraes'],
+  'sporting cp': ['Sp Lisbon'],
+  'istanbul basaksehir': ['Buyuksehyr'],
+  goztepe: ['Goztep'],
+  'heart of midlothian': ['Hearts'],
 };
 
 function normalizeTeam(name) {
@@ -84,6 +94,9 @@ const COMPETITION_CODES = {
   'Champions League': 'UCL',
   'Europa League': 'UEL',
   'Conference League': 'UECL',
+  'Nations League': 'NL',
+  // В шотландской премьер-лиге за 33 тура пара встречается трижды, так что "хозяева — гости" повторяется: нужен тур
+  'Scottish Premiership': 'SPFL',
 };
 
 // Национальный чемпионат: пара "хозяева — гости" встречается один раз за сезон, поэтому дата в ID не нужна.
@@ -120,6 +133,12 @@ const LEAGUE_TIMEZONES = {
   Bundesliga: 'Europe/Berlin',
   'Serie A': 'Europe/Rome',
   'Ligue 1': 'Europe/Paris',
+  Championship: 'Europe/London',
+  Eredivisie: 'Europe/Amsterdam',
+  'Primeira Liga': 'Europe/Lisbon',
+  'Süper Lig': 'Europe/Istanbul',
+  'Scottish Premiership': 'Europe/London',
+  'Nations League': 'Europe/Paris',
   // Время матчей еврокубков в CSV записано по центральноевропейскому времени, как в расписании УЕФА
   'Champions League': 'Europe/Paris',
   'Europa League': 'Europe/Paris',

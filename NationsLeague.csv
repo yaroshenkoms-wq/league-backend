@@ -1,0 +1,165 @@
+﻿home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore
+Andorra,Malta,Thu 24 Sep 2026 18:00,Nations League,Round 1,true,1,true,1,2,1:2,1,2
+Portugal,Wales,Thu 24 Sep 2026 20:45,Nations League,Round 1,true,2,true,1,0,1:0,1,0
+Netherlands,Germany,Thu 24 Sep 2026 20:45,Nations League,Round 1,true,3,true,1,1,1:1,1,1
+Serbia,Greece,Thu 24 Sep 2026 20:45,Nations League,Round 1,true,4,true,1,2,1:2,1,2
+Norway,Denmark,Thu 24 Sep 2026 20:45,Nations League,Round 1,true,5,true,3,2,3:2,3,2
+Austria,Israel,Thu 24 Sep 2026 20:45,Nations League,Round 1,true,6,true,3,1,3:1,3,1
+Kosovo,Republic of Ireland,Thu 24 Sep 2026 20:45,Nations League,Round 1,true,7,true,1,0,1:0,1,0
+Liechtenstein,Lithuania,Thu 24 Sep 2026 20:45,Nations League,Round 1,true,8,true,0,2,0:2,0,2
+Georgia,Northern Ireland,Fri 25 Sep 2026 18:00,Nations League,Round 1,true,9,true,0,1,0:1,0,1
+Armenia,Latvia,Fri 25 Sep 2026 18:00,Nations League,Round 1,true,10,true,2,0,2:0,2,0
+Italy,Belgium,Fri 25 Sep 2026 20:45,Nations League,Round 1,true,11,true,0,2,0:2,0,2
+Türki?ye,France,Fri 25 Sep 2026 20:45,Nations League,Round 1,true,12,true,0,1,0:1,0,1
+Hungary,Ukraine,Fri 25 Sep 2026 20:45,Nations League,Round 1,true,13,true,0,1,0:1,0,1
+Poland,Bosnia and Herzegovina,Fri 25 Sep 2026 20:45,Nations League,Round 1,true,14,true,0,0,0:0,0,0
+Sweden,Romania,Fri 25 Sep 2026 20:45,Nations League,Round 1,true,15,true,2,1,2:1,2,1
+Montenegro,Cyprus,Fri 25 Sep 2026 20:45,Nations League,Round 1,true,16,true,2,1,2:1,2,1
+Slovenia,Scotland,Sat 26 Sep 2026 15:00,Nations League,Round 1,true,17,true,0,0,0:0,0,0
+Iceland,Estonia,Sat 26 Sep 2026 18:00,Nations League,Round 1,true,18,true,1,1,1:1,1,1
+Faroe Islands,Kazakhstan,Sat 26 Sep 2026 18:00,Nations League,Round 1,true,19,true,1,1,1:1,1,1
+San Marino,Finland,Sat 26 Sep 2026 18:00,Nations League,Round 1,true,20,true,0,7,0:7,0,7
+Bulgaria,Luxembourg,Sat 26 Sep 2026 18:00,Nations League,Round 1,true,21,true,1,2,1:2,1,2
+England,Spain,Sat 26 Sep 2026 20:45,Nations League,Round 1,true,22,true,2,3,2:3,2,3
+Albania,Belarus,Sat 26 Sep 2026 20:45,Nations League,Round 1,true,23,true,2,0,2:0,2,0
+Slovakia,Moldova,Sat 26 Sep 2026 20:45,Nations League,Round 1,true,24,true,2,0,2:0,2,0
+North Macedonia,Switzerland,Sat 26 Sep 2026 20:45,Nations League,Round 1,true,25,true,0,3,0:3,0,3
+Czechia,Croatia,Sat 26 Sep 2026 20:45,Nations League,Round 1,true,26,true,1,2,1:2,1,2
+Lithuania,Azerbaijan,Sun 27 Sep 2026 15:00,Nations League,Round 2,true,27,true,1,1,1:1,1,1
+Denmark,Wales,Sun 27 Sep 2026 18:00,Nations League,Round 2,true,28,true,2,0,2:0,2,0
+Austria,Kosovo,Sun 27 Sep 2026 18:00,Nations League,Round 2,true,29,true,3,1,3:1,3,1
+Gibraltar,Andorra,Sun 27 Sep 2026 18:00,Nations League,Round 2,true,30,true,0,0,0:0,0,0
+Serbia,Netherlands,Sun 27 Sep 2026 18:00,Nations League,Round 2,true,31,true,1,2,1:2,1,2
+Germany,Greece,Sun 27 Sep 2026 20:45,Nations League,Round 2,true,32,true,0,1,0:1,0,1
+Norway,Portugal,Sun 27 Sep 2026 20:45,Nations League,Round 2,true,33,true,1,2,1:2,1,2
+Israel,Republic of Ireland,Sun 27 Sep 2026 20:45,Nations League,Round 2,true,34,true,0,3,0:3,0,3
+Armenia,Montenegro,Mon 28 Sep 2026 18:00,Nations League,Round 2,true,35,true,2,3,2:3,2,3
+Latvia,Cyprus,Mon 28 Sep 2026 18:00,Nations League,Round 2,true,36,true,0,0,0:0,0,0
+Georgia,Ukraine,Mon 28 Sep 2026 18:00,Nations League,Round 2,true,37,true,0,0,0:0,0,0
+Romania,Bosnia and Herzegovina,Mon 28 Sep 2026 20:45,Nations League,Round 2,true,38,true,2,4,2:4,2,4
+Sweden,Poland,Mon 28 Sep 2026 20:45,Nations League,Round 2,true,39,true,3,1,3:1,3,1
+Northern Ireland,Hungary,Mon 28 Sep 2026 20:45,Nations League,Round 2,true,40,true,0,0,0:0,0,0
+Belgium,France,Mon 28 Sep 2026 20:45,Nations League,Round 2,true,41,true,0,1,0:1,0,1
+Türki?ye,Italy,Mon 28 Sep 2026 20:45,Nations League,Round 2,true,42,true,1,4,1:4,1,4
+Finland,Belarus,Tue 29 Sep 2026 18:00,Nations League,Round 2,true,43,true,0,0,0:0,0,0
+Moldova,Faroe Islands,Tue 29 Sep 2026 18:00,Nations League,Round 2,true,44,true,1,1,1:1,1,1
+Slovenia,North Macedonia,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,45,true,2,0,2:0,2,0
+San Marino,Albania,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,46,true,0,3,0:3,0,3
+Slovakia,Kazakhstan,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,47,true,2,1,2:1,2,1
+Bulgaria,Estonia,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,48,true,0,0,0:0,0,0
+Luxembourg,Iceland,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,49,true,0,3,0:3,0,3
+Spain,Croatia,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,50,true,4,1,4:1,4,1
+Czechia,England,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,51,true,0,2,0:2,0,2
+Scotland,Switzerland,Tue 29 Sep 2026 20:45,Nations League,Round 2,true,52,true,0,3,0:3,0,3
+Azerbaijan,Liechtenstein,Thu 01 Oct 2026 18:00,Nations League,Round 3,true,53,true,0,0,0:0,0,0
+Wales,Norway,Thu 01 Oct 2026 20:45,Nations League,Round 3,true,54,true,2,1,2:1,2,1
+Greece,Netherlands,Thu 01 Oct 2026 20:45,Nations League,Round 3,true,55,true,2,2,2:2,2,2
+Israel,Kosovo,Thu 01 Oct 2026 20:45,Nations League,Round 3,true,56,true,0,0,0:0,0,0
+Republic of Ireland,Austria,Thu 01 Oct 2026 20:45,Nations League,Round 3,true,57,true,2,2,2:2,2,2
+Germany,Serbia,Thu 01 Oct 2026 20:45,Nations League,Round 3,true,58,true,2,0,2:0,2,0
+Malta,Gibraltar,Thu 01 Oct 2026 20:45,Nations League,Round 3,true,59,true,1,1,1:1,1,1
+Denmark,Portugal,Thu 01 Oct 2026 20:45,Nations League,Round 3,true,60,true,2,4,2:4,2,4
+Kazakhstan,Moldova,Fri 02 Oct 2026 16:00,Nations League,Round 3,true,61,true,1,2,1:2,1,2
+Latvia,Montenegro,Fri 02 Oct 2026 18:00,Nations League,Round 3,true,62,true,1,2,1:2,1,2
+Cyprus,Armenia,Fri 02 Oct 2026 18:00,Nations League,Round 3,true,63,true,2,0,2:0,2,0
+Ukraine,Northern Ireland,Fri 02 Oct 2026 20:45,Nations League,Round 3,true,64,true,0,3,0:3,0,3
+France,Italy,Fri 02 Oct 2026 20:45,Nations League,Round 3,true,65,true,1,1,1:1,1,1
+Belgium,Türki?ye,Fri 02 Oct 2026 20:45,Nations League,Round 3,true,66,true,3,0,3:0,3,0
+Hungary,Georgia,Fri 02 Oct 2026 20:45,Nations League,Round 3,true,67,true,1,0,1:0,1,0
+Poland,Romania,Fri 02 Oct 2026 20:45,Nations League,Round 3,true,68,true,6,0,6:0,6,0
+Bosnia and Herzegovina,Sweden,Fri 02 Oct 2026 20:45,Nations League,Round 3,true,69,true,1,1,1:1,1,1
+Faroe Islands,Slovakia,Fri 02 Oct 2026 20:45,Nations League,Round 3,true,70,true,1,1,1:1,1,1
+Finland,Albania,Sat 03 Oct 2026 15:00,Nations League,Round 3,true,71,true,2,1,2:1,2,1
+Croatia,England,Sat 03 Oct 2026 18:00,Nations League,Round 3,true,72,true,0,7,0:7,0,7
+Iceland,Bulgaria,Sat 03 Oct 2026 18:00,Nations League,Round 3,true,73,true,3,0,3:0,3,0
+Belarus,San Marino,Sat 03 Oct 2026 18:00,Nations League,Round 3,true,74,true,4,0,4:0,4,0
+Estonia,Luxembourg,Sat 03 Oct 2026 18:00,Nations League,Round 3,true,75,true,1,0,1:0,1,0
+Spain,Czechia,Sat 03 Oct 2026 20:45,Nations League,Round 3,true,76,true,3,1,3:1,3,1
+Switzerland,Slovenia,Sat 03 Oct 2026 20:45,Nations League,Round 3,true,77,true,2,1,2:1,2,1
+North Macedonia,Scotland,Sat 03 Oct 2026 20:45,Nations League,Round 3,true,78,true,0,2,0:2,0,2
+Azerbaijan,Lithuania,Sun 04 Oct 2026 15:00,Nations League,Round 4,true,79,true,1,0,1:0,1,0
+Kosovo,Austria,Sun 04 Oct 2026 18:00,Nations League,Round 4,true,80,true,1,1,1:1,1,1
+Malta,Andorra,Sun 04 Oct 2026 18:00,Nations League,Round 4,true,81,true,1,0,1:0,1,0
+Portugal,Norway,Sun 04 Oct 2026 20:45,Nations League,Round 4,true,82,true,2,1,2:1,2,1
+Netherlands,Serbia,Sun 04 Oct 2026 20:45,Nations League,Round 4,true,83,true,2,1,2:1,2,1
+Greece,Germany,Sun 04 Oct 2026 20:45,Nations League,Round 4,true,84,true,0,0,0:0,0,0
+Republic of Ireland,Israel,Sun 04 Oct 2026 20:45,Nations League,Round 4,true,85,true,1,1,1:1,1,1
+Wales,Denmark,Sun 04 Oct 2026 20:45,Nations League,Round 4,true,86,true,0,1,0:1,0,1
+Cyprus,Latvia,Mon 05 Oct 2026 18:00,Nations League,Round 4,true,87,true,2,1,2:1,2,1
+Ukraine,Hungary,Mon 05 Oct 2026 20:45,Nations League,Round 4,true,88,true,1,2,1:2,1,2
+Romania,Sweden,Mon 05 Oct 2026 20:45,Nations League,Round 4,true,89,true,0,1,0:1,0,1
+Northern Ireland,Georgia,Mon 05 Oct 2026 20:45,Nations League,Round 4,true,90,true,0,0,0:0,0,0
+Montenegro,Armenia,Mon 05 Oct 2026 20:45,Nations League,Round 4,true,91,true,0,0,0:0,0,0
+France,Belgium,Mon 05 Oct 2026 20:45,Nations League,Round 4,true,92,true,4,1,4:1,4,1
+Italy,Türki?ye,Mon 05 Oct 2026 20:45,Nations League,Round 4,true,93,true,3,1,3:1,3,1
+Bosnia and Herzegovina,Poland,Mon 05 Oct 2026 20:45,Nations League,Round 4,true,94,true,1,0,1:0,1,0
+Kazakhstan,Faroe Islands,Tue 06 Oct 2026 16:00,Nations League,Round 4,true,95,true,2,2,2:2,2,2
+Switzerland,North Macedonia,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,96,true,3,0,3:0,3,0
+Albania,San Marino,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,97,true,2,1,2:1,2,1
+Belarus,Finland,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,98,true,1,0,1:0,1,0
+Luxembourg,Bulgaria,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,99,true,0,2,0:2,0,2
+Moldova,Slovakia,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,100,true,0,4,0:4,0,4
+Estonia,Iceland,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,101,true,0,0,0:0,0,0
+Croatia,Spain,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,102,true,1,2,1:2,1,2
+England,Czechia,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,103,true,3,0,3:0,3,0
+Scotland,Slovenia,Tue 06 Oct 2026 20:45,Nations League,Round 4,true,104,true,1,2,1:2,1,2
+Türki?ye,Belgium,Thu 12 Nov 2026 18:00,Nations League,Round 5,true,105,true,1,2,1:2,1,2
+Armenia,Cyprus,Thu 12 Nov 2026 18:00,Nations League,Round 5,true,106,true,1,1,1:1,1,1
+Czechia,Spain,Thu 12 Nov 2026 20:45,Nations League,Round 5,true,107,true,0,2,0:2,0,2
+Albania,Finland,Thu 12 Nov 2026 20:45,Nations League,Round 5,true,108,true,2,0,2:0,2,0
+Montenegro,Latvia,Thu 12 Nov 2026 20:45,Nations League,Round 5,true,109,true,2,1,2:1,2,1
+San Marino,Belarus,Thu 12 Nov 2026 20:45,Nations League,Round 5,true,110,true,0,2,0:2,0,2
+Italy,France,Thu 12 Nov 2026 20:45,Nations League,Round 5,true,111,true,3,1,3:1,3,1
+England,Croatia,Thu 12 Nov 2026 20:45,Nations League,Round 5,true,112,true,2,1,2:1,2,1
+Moldova,Kazakhstan,Fri 13 Nov 2026 18:00,Nations League,Round 5,true,113,true,2,1,2:1,2,1
+Slovakia,Faroe Islands,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,114,true,2,2,2:2,2,2
+Luxembourg,Estonia,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,115,true,0,1,0:1,0,1
+Bulgaria,Iceland,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,116,true,0,5,0:5,0,5
+Andorra,Gibraltar,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,117,true,2,0,2:0,2,0
+Liechtenstein,Azerbaijan,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,118,true,0,1,0:1,0,1
+Netherlands,Greece,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,119,true,7,0,7:0,7,0
+Serbia,Germany,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,120,true,1,3,1:3,1,3
+Scotland,North Macedonia,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,121,true,2,1,2:1,2,1
+Slovenia,Switzerland,Fri 13 Nov 2026 20:45,Nations League,Round 5,true,122,true,0,0,0:0,0,0
+Kosovo,Israel,Sat 14 Nov 2026 15:00,Nations League,Round 5,true,123,true,0,0,0:0,0,0
+Norway,Wales,Sat 14 Nov 2026 18:00,Nations League,Round 5,true,124,true,3,1,3:1,3,1
+Georgia,Hungary,Sat 14 Nov 2026 18:00,Nations League,Round 5,true,125,true,0,2,0:2,0,2
+Sweden,Bosnia and Herzegovina,Sat 14 Nov 2026 20:45,Nations League,Round 5,true,126,true,3,2,3:2,3,2
+Romania,Poland,Sat 14 Nov 2026 20:45,Nations League,Round 5,true,127,true,2,1,2:1,2,1
+Portugal,Denmark,Sat 14 Nov 2026 20:45,Nations League,Round 5,true,128,true,1,4,1:4,1,4
+Austria,Republic of Ireland,Sat 14 Nov 2026 20:45,Nations League,Round 5,true,129,true,1,0,1:0,1,0
+Northern Ireland,Ukraine,Sat 14 Nov 2026 20:45,Nations League,Round 5,true,130,true,1,0,1:0,1,0
+Latvia,Armenia,Sun 15 Nov 2026 15:00,Nations League,Round 6,true,131,true,0,0,0:0,0,0
+Cyprus,Montenegro,Sun 15 Nov 2026 15:00,Nations League,Round 6,true,132,true,1,4,1:4,1,4
+Finland,San Marino,Sun 15 Nov 2026 18:00,Nations League,Round 6,true,133,true,7,2,7:2,7,2
+Belarus,Albania,Sun 15 Nov 2026 18:00,Nations League,Round 6,true,134,true,0,2,0:2,0,2
+France,Türki?ye,Sun 15 Nov 2026 20:45,Nations League,Round 6,true,135,true,2,1,2:1,2,1
+Belgium,Italy,Sun 15 Nov 2026 20:45,Nations League,Round 6,true,136,true,4,1,4:1,4,1
+Croatia,Czechia,Sun 15 Nov 2026 20:45,Nations League,Round 6,true,137,true,2,1,2:1,2,1
+Spain,England,Sun 15 Nov 2026 20:45,Nations League,Round 6,true,138,true,2,3,2:3,2,3
+Faroe Islands,Moldova,Mon 16 Nov 2026 16:00,Nations League,Round 6,true,139,true,1,0,1:0,1,0
+Kazakhstan,Slovakia,Mon 16 Nov 2026 16:00,Nations League,Round 6,true,140,true,2,2,2:2,2,2
+Iceland,Luxembourg,Mon 16 Nov 2026 18:00,Nations League,Round 6,true,141,true,3,0,3:0,3,0
+Estonia,Bulgaria,Mon 16 Nov 2026 18:00,Nations League,Round 6,true,142,true,2,1,2:1,2,1
+Lithuania,Liechtenstein,Mon 16 Nov 2026 18:00,Nations League,Round 6,true,143,true,2,1,2:1,2,1
+Gibraltar,Malta,Mon 16 Nov 2026 20:45,Nations League,Round 6,true,144,true,1,1,1:1,1,1
+Germany,Netherlands,Mon 16 Nov 2026 20:45,Nations League,Round 6,true,145,true,5,0,5:0,5,0
+Greece,Serbia,Mon 16 Nov 2026 20:45,Nations League,Round 6,true,146,true,1,0,1:0,1,0
+Switzerland,Scotland,Mon 16 Nov 2026 20:45,Nations League,Round 6,true,147,true,4,0,4:0,4,0
+North Macedonia,Slovenia,Mon 16 Nov 2026 20:45,Nations League,Round 6,true,148,true,0,3,0:3,0,3
+Israel,Austria,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,149,true,1,1,1:1,1,1
+Bosnia and Herzegovina,Romania,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,150,true,2,1,2:1,2,1
+Ukraine,Georgia,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,151,true,1,0,1:0,1,0
+Denmark,Norway,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,152,true,2,3,2:3,2,3
+Wales,Portugal,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,153,true,2,3,2:3,2,3
+Hungary,Northern Ireland,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,154,true,1,1,1:1,1,1
+Poland,Sweden,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,155,true,1,1,1:1,1,1
+Republic of Ireland,Kosovo,Tue 17 Nov 2026 20:45,Nations League,Round 6,true,156,true,3,0,3:0,3,0
+Spain,France,Thu 25 Mar 2027 20:45,Nations League,Round 7
+Belgium,Germany,Thu 25 Mar 2027 20:45,Nations League,Round 7
+Norway,England,Sat 27 Mar 2027 18:00,Nations League,Round 7
+Netherlands,Portugal,Sat 27 Mar 2027 20:45,Nations League,Round 7
+Germany,Belgium,Sun 28 Mar 2027 20:45,Nations League,Round 8
+France,Spain,Sun 28 Mar 2027 20:45,Nations League,Round 8
+England,Norway,Tue 30 Mar 2027 20:45,Nations League,Round 8
+Portugal,Netherlands,Tue 30 Mar 2027 20:45,Nations League,Round 8

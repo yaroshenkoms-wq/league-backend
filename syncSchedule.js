@@ -27,6 +27,16 @@ const LEAGUES = [
   { name: 'Champions League', file: 'ChampionsLeague.csv', feed: 'champions-league', tz: 'Europe/Paris', competition: true },
   { name: 'Europa League', file: 'EuropaLeague.csv', feed: 'europa-league', tz: 'Europe/Paris', competition: true },
   { name: 'Conference League', file: 'ConferenceLeague.csv', feed: 'conference-league', tz: 'Europe/Paris', competition: true },
+  // Дополнительные лиги. secondary: их клубы не участвуют в приведении названий клубов еврокубков
+  // (иначе у уже идущих еврокубков могли бы смениться названия и ID матчей)
+  { name: 'Championship', file: 'Championship.csv', feed: 'championship', footballData: 'E1', tz: 'Europe/London', secondary: true },
+  { name: 'Eredivisie', file: 'Eredivisie.csv', feed: 'eredivisie', footballData: 'N1', tz: 'Europe/Amsterdam', secondary: true },
+  { name: 'Primeira Liga', file: 'PrimeiraLiga.csv', feed: 'primeira-liga', footballData: 'P1', tz: 'Europe/Lisbon', secondary: true },
+  { name: 'Süper Lig', file: 'SuperLig.csv', feed: 'super-lig', footballData: 'T1', tz: 'Europe/Istanbul', secondary: true },
+  // Шотландия: после 33-го тура лига делится, в фид добавляются новые туры (число матчей растёт: growing)
+  { name: 'Scottish Premiership', file: 'ScottishPremiership.csv', feed: 'scottish-premiership', footballData: 'SC0', tz: 'Europe/London', secondary: true, growing: true },
+  // Сборные: клубных названий нет, к клубам приводить нельзя (national). Время — по центральноевропейскому, как у УЕФА
+  { name: 'Nations League', file: 'NationsLeague.csv', feed: 'nations-league', tz: 'Europe/Paris', competition: true, national: true, secondary: true },
 ];
 
 const HEADER = 'home,away,date,league,round,isStarted,id,isCompleted,homeScore,awayScore,actualScore,actualHomeScore,actualAwayScore';
@@ -107,7 +117,7 @@ function makeExactResolver(teams) {
 // Названия команд из национальных чемпионатов (для единых названий в еврокубках)
 function domesticTeams(dir) {
   const teams = new Set();
-  for (const league of LEAGUES.filter(l => !l.competition)) {
+  for (const league of LEAGUES.filter(l => !l.competition && !l.secondary)) {
     const file = path.join(dir, league.file);
     if (!fs.existsSync(file)) continue;
     for (const row of parseCsv(fs.readFileSync(file, 'utf8'))) {
@@ -138,8 +148,11 @@ async function syncLeague(league, now, { force = false, dir = __dirname } = {}) 
 
   // Защита от битого ответа. Чемпионат: число матчей в сезоне не меняется.
   // Еврокубок: матчей может стать больше (плей-офф), но не меньше
-  const badSize = league.competition ? feed.length < oldRows.length : feed.length !== oldRows.length;
-  if (!Array.isArray(feed) || (!force && badSize)) {
+  // Пустой файл (только заголовок) — первая загрузка лиги: размер не сверяем, названия берём из фида как есть
+  const bootstrap = oldRows.length === 0;
+  const mayGrow = league.competition || league.growing;
+  const badSize = mayGrow ? feed.length < oldRows.length : feed.length !== oldRows.length;
+  if (!Array.isArray(feed) || (!force && !bootstrap && badSize)) {
     throw new Error(`фид вернул ${Array.isArray(feed) ? feed.length : 'не список'} матчей, а в файле ${oldRows.length}, файл не тронут`);
   }
 
@@ -151,12 +164,14 @@ async function syncLeague(league, now, { force = false, dir = __dirname } = {}) 
   // Клубы еврокубков называем так же, как в национальных чемпионатах, если они там есть ("Man City" -> "Manchester City"),
   // иначе одна команда выглядела бы в приложении по-разному. Остальные остаются как в фиде.
   const knownResolver = league.competition ? makeExactResolver(csvTeams) : null;
-  const domesticResolver = league.competition ? makeExactResolver(domesticTeams(dir)) : null;
+  const domesticResolver = league.competition && !league.national ? makeExactResolver(domesticTeams(dir)) : null;
 
   for (const name of feedTeams) {
-    const team = league.competition
-      ? COMPETITION_NAME_OVERRIDES[name] || knownResolver(name) || domesticResolver(name) || name
-      : toCsvTeam(name);
+    const team = league.national
+      ? knownResolver(name) || name
+      : league.competition
+        ? COMPETITION_NAME_OVERRIDES[name] || knownResolver(name) || domesticResolver(name) || name
+        : bootstrap ? name : toCsvTeam(name);
     if (team) teamMap[name] = team; else problems.push(name);
   }
   const mapped = Object.values(teamMap);
