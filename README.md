@@ -9,7 +9,10 @@
 ## Календарь и результаты
 
 Матчи лежат в CSV: чемпионаты — `matches.csv` (EPL), `LaLiga.csv`, `Bundesliga.csv`, `SerieA.csv`, `Ligue1.csv`;
-еврокубки — `ChampionsLeague.csv`, `EuropaLeague.csv`, `ConferenceLeague.csv`.
+еврокубки — `ChampionsLeague.csv`, `EuropaLeague.csv`, `ConferenceLeague.csv`;
+дополнительные — `Championship.csv`, `Eredivisie.csv`, `PrimeiraLiga.csv`, `SuperLig.csv`, `ScottishPremiership.csv`, `NationsLeague.csv`
+(у них `secondary: true` в `syncSchedule.js`: их клубы не влияют на названия клубов еврокубков).
+Пустой CSV (только заголовок) при первой синхронизации заполняется названиями из фида как есть.
 Актуальный календарь и счета подтягивает `syncSchedule.js` (fixturedownload.com + сверка счёта с football-data.co.uk):
 
 - Сервер запускает его сам при старте и каждые 30 минут (`SYNC_ENABLED=false` отключает).
@@ -24,6 +27,8 @@
 ID матча чемпионата — `хозяева_гости` (например, `Arsenal_Coventry City`): он не меняется при переносе матча.
 У еврокубков к нему добавляются турнир и тур (`Arsenal_PSG_UCL3`, `..._UEL3`, `..._UECL3`), потому что клубы одной страны могут встретиться в плей-офф.
 Сервер отдаёт готовый ID в поле `matchId`, приложение сам его не собирает.
+
+У Nations League (код `NL`) и Scottish Premiership (код `SPFL`) в ID тоже есть код и тур (`Spain_France_NL3`, `Celtic_Rangers_SPFL12`): в Шотландии за 33 тура пара встречается трижды.
 
 ### Еврокубки
 
@@ -57,6 +62,14 @@ ID матча чемпионата — `хозяева_гости` (наприм
 
 Проще всего запускать ярлыком `Пересчитать очки.command` (в корне проекта): он сам делает копию базы, показывает, что изменится, и записывает только после вашего `yes`. Запускать после выкладки новой версии сервера, а не до неё.
 
+## Новые возможности API
+
+- **Живой счёт** (`liveScores.js`): ESPN scoreboard, опрос раз в 2 минуты, только лиги с матчем в окне `[сейчас-3ч, сейчас+5мин]`. Поле `live: {home, away, minute, status: in|ht|ft}` в `GET /api/matches/:slug`. На очки не влияет. `LIVE_ENABLED=false` отключает. Ошибки ESPN — максимум одно предупреждение в час на лигу.
+- **Джокер**: `POST /api/predictions/joker {matchId, on}` — очки за матч ×2; один на лигу и тур. Ошибки: `no_prediction` (404), `match_started`, `joker_used` (400). Прогнозы хранят `round` и `joker`.
+- **Статистика матча**: `GET /api/matches/insights/:matchId` (без входа, кеш 60 с): до начала только `total`, после — `outcomes` (%) и `topScores`.
+- **Лиги друзей**: `scoring {exact, diff, outcome}` (по умолчанию 3/2/1) в `POST /api/groups` и `PUT /api/groups/:id/scoring` (владелец); `GET /api/groups/:id/match/:matchId` — прогнозы друзей (после начала матча).
+- **Чат лиги**: `GET|POST /api/groups/:id/messages`, `DELETE .../messages/:msgId`, `POST .../messages/:msgId/report` (в коллекцию `reports`). Брань маскируется (`chatFilter.js`), лимит 20 сообщений в минуту.
+
 ## Служебные эндпоинты
 
 | Эндпоинт | Доступ | Назначение |
@@ -71,4 +84,4 @@ ID матча чемпионата — `хозяева_гости` (наприм
 
 ## Тесты
 
-`node --test matchUtils.test.js`. Требуется Node 20+.
+`node --test groups.test.js matchUtils.test.js scoring.test.js liveScores.test.js insights.test.js chatFilter.test.js`. Требуется Node 20+.

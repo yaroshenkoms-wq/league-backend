@@ -10,6 +10,9 @@ const rateLimit = require('express-rate-limit');
 const { makeMatchId, hasStarted, kickoffTime, isTimeTbd } = require('./matchUtils');
 const { syncAll } = require('./syncSchedule');
 const { registerGroupRoutes, leaveAllGroups } = require('./groups');
+const { scorePrediction, roundNumber } = require('./scoring');
+const { createLiveScores, fetchJsonWithTimeout } = require('./liveScores');
+const { computeInsights } = require('./insights');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -55,6 +58,18 @@ const predictionLimiter = rateLimit({
     success: false,
     code: 'rate_limited',
     error: 'Превышен лимит прогнозов. Подождите час.'
+  }
+});
+
+// Чат лиги: не больше 20 сообщений в минуту на пользователя. Ставится после requireAuth
+const chatLimiter = rateLimit({
+  windowMs: 60 * 1000,
+  max: 20,
+  keyGenerator: (req) => req.user.uid,
+  message: {
+    success: false,
+    code: 'rate_limited',
+    error: 'Слишком много сообщений. Подождите минуту.'
   }
 });
 
@@ -313,31 +328,29 @@ function getResultsFromCSV(matches) {
 
 // ============ РАСЧЕТ ОЧКОВ ============
 
-function calculatePoints(predictedHome, predictedAway, actualHome, actualAway) {
-  if (predictedHome === actualHome && predictedAway === actualAway) {
-    return 3;
-  }
+// Очки считает scoring.js (scorePrediction: правила 3/2/1 и джокер ×2) — одна функция для начисления и пересчёта
 
-  const actualOutcome = actualHome > actualAway ? 'home' : actualHome < actualAway ? 'away' : 'draw';
-  const predictedOutcome = predictedHome > predictedAway ? 'home' : predictedHome < predictedAway ? 'away' : 'draw';
+// ============ ЖИВОЙ СЧЁТ ============
 
-  if (actualOutcome !== predictedOutcome) {
-    return 0;
-  }
-
-  if (actualOutcome === 'draw') {
-    return 1;
-  }
-
-  const actualGoalDiff = Math.abs(actualHome - actualAway);
-  const predictedGoalDiff = Math.abs(predictedHome - predictedAway);
-
-  if (actualGoalDiff === predictedGoalDiff) {
-    return 2;
-  }
-
-  return 1;
-}
+// Показ в приложении (ESPN), на очки не влияет. LIVE_ENABLED=false отключает опрос
+const LIVE_ENABLED = process.env.LIVE_ENABLED !== 'false';
+const liveScores = createLiveScores({
+  // Матчи без назначенного времени (TBD) пропускаем: их "начало" — условный момент закрытия прогнозов
+  getLeagues: () => LEAGUES.map(league => ({
+    name: league.name,
+    matches: league.matches.map(match => {
+      const kickoff = isTimeTbd(match.date) ? null : kickoffTime(match.date, league.name);
+      return {
+        matchId: makeMatchId({ ...match, league: league.name }),
+        home: match.home,
+        away: match.away,
+        kickoffMs: kickoff ? kickoff.getTime() : null,
+      };
+    }),
+  })),
+  fetchJson: fetchJsonWithTimeout,
+  log: (level, message) => log(LOG_LEVELS[level] || LOG_LEVELS.WARN, message),
+});
 
 // ============ СТАТУС МАТЧЕЙ ДЛЯ КЛИЕНТА ============
 
@@ -353,11 +366,14 @@ function withStatuses(matches, leagueName) {
     // Время начала в UTC: приложение показывает его по часовому поясу устройства.
     // Для матчей без назначенного времени (timeTbd) это момент закрытия прогнозов, а не начало матча
     const kickoff = kickoffTime(match.date, leagueName);
-    
+    const matchId = makeMatchId({ ...match, league: leagueName });
+    const live = hasResult ? null : liveScores.get(matchId);
+
     return {
       ...match,
       // Готовый ID матча: приложение не собирает его само (в еврокубках он включает турнир и тур)
-      matchId: makeMatchId({ ...match, league: leagueName }),
+      matchId,
+      ...(live ? { live } : {}),
       homeScore,
       awayScore,
       kickoff: kickoff ? kickoff.toISOString() : null,
@@ -455,7 +471,7 @@ async function checkFinishedMatches({ full = false } = {}) {
       for (const doc of chunk) {
         const data = doc.data();
         const actual = results[data.matchId];
-        const points = calculatePoints(data.homeScore, data.awayScore, actual.home, actual.away);
+        const points = scorePrediction(data.homeScore, data.awayScore, actual.home, actual.away, data.joker === true);
 
         // lastUpdateTime: если прогноз уже обработал кто-то другой (второй экземпляр сервера),
         // пакет отклоняется целиком и очки не задваиваются
@@ -525,6 +541,41 @@ for (const league of LEAGUES) {
   });
 }
 
+// Статистика прогнозов на матч. До начала — только число прогнозов (чтобы не влиять на чужие прогнозы)
+const INSIGHTS_TTL_MS = 60 * 1000;
+const insightsCache = new Map();
+
+app.get('/api/matches/insights/:matchId', globalLimiter, async (req, res) => {
+  try {
+    if (!db) return res.status(500).json({ success: false, error: 'Firebase не инициализирован' });
+    const matchId = req.params.matchId;
+    const found = findMatch(matchId);
+    if (!found) return res.status(404).json({ success: false, code: 'unknown_match', error: 'Матч не найден' });
+
+    const cached = insightsCache.get(matchId);
+    if (cached && cached.expires > Date.now()) return res.json(cached.body);
+
+    const query = db.collection('predictions').where('matchId', '==', matchId);
+    let body;
+    if (!hasStarted(found.match)) {
+      const count = await query.count().get();
+      body = { success: true, started: false, total: count.data().count };
+    } else {
+      const snapshot = await query.get();
+      body = { success: true, started: true, ...computeInsights(snapshot.docs.map(doc => doc.data())) };
+    }
+
+    if (insightsCache.size > 500) {
+      for (const [key, entry] of insightsCache) if (entry.expires <= Date.now()) insightsCache.delete(key);
+    }
+    insightsCache.set(matchId, { body, expires: Date.now() + INSIGHTS_TTL_MS });
+    res.json(body);
+  } catch (error) {
+    log(LOG_LEVELS.ERROR, `Ошибка статистики матча: ${error.message}`);
+    res.status(500).json({ success: false, error: 'Не удалось загрузить статистику' });
+  }
+});
+
 // ============ ЭНДПОИНТЫ ПРОГНОЗОВ ============
 
 app.get('/api/predictions/:userId', globalLimiter, requireAuth, requireSelf, async (req, res) => {
@@ -540,7 +591,8 @@ app.get('/api/predictions/:userId', globalLimiter, requireAuth, requireSelf, asy
     predictionsSnapshot.docs.forEach(doc => {
       predictions.push({
         id: doc.id,
-        ...doc.data()
+        ...doc.data(),
+        joker: doc.data().joker === true
       });
     });
 
@@ -556,6 +608,10 @@ const MAX_SCORE = 99;
 const MAX_BATCH = 20;
 
 const fail = (status, code, error) => ({ ok: false, status, code, error });
+
+// Детерминированный ID: один прогноз на матч у одного игрока
+const predictionIdFor = (userId, matchId) =>
+  `${userId}_${crypto.createHash('sha1').update(matchId).digest('hex').slice(0, 20)}`;
 
 // Проверяет и создаёт один прогноз. Возвращает { ok: true, prediction } или { ok: false, status, code, error }
 async function createPrediction(user, { matchId, homeScore, awayScore }) {
@@ -595,13 +651,15 @@ async function createPrediction(user, { matchId, homeScore, awayScore }) {
     homeScore: home,
     awayScore: away,
     league: found.leagueName,
+    round: roundNumber(found.match.round),
+    joker: false,
     points: 0,
     processed: false,
     timestamp: admin.firestore.FieldValue.serverTimestamp()
   };
 
   // Детерминированный ID + create() гарантируют один прогноз на матч даже при параллельных запросах
-  const predictionId = `${userId}_${crypto.createHash('sha1').update(matchId).digest('hex').slice(0, 20)}`;
+  const predictionId = predictionIdFor(userId, matchId);
   try {
     await db.collection('predictions').doc(predictionId).create(predictionData);
   } catch (e) {
@@ -629,6 +687,60 @@ app.post('/api/predictions', requireAuth, predictionLimiter, async (req, res) =>
       error: error.stack
     });
     res.status(500).json({ success: false, error: 'Не удалось сохранить прогноз' });
+  }
+});
+
+// Джокер: очки за один матч тура удваиваются. На лигу и тур — один джокер, переносить можно, пока оба матча не начались
+app.post('/api/predictions/joker', globalLimiter, requireAuth, async (req, res) => {
+  const fail = (status, code, error) => res.status(status).json({ success: false, code, error });
+  const { matchId, on } = req.body || {};
+  if (typeof matchId !== 'string' || typeof on !== 'boolean') {
+    return fail(400, 'invalid_request', 'Нужны matchId и on (true/false)');
+  }
+  if (!req.user.email_verified) return fail(403, 'email_not_verified', 'Подтвердите email');
+
+  try {
+    const userId = req.user.uid;
+    const ref = db.collection('predictions').doc(predictionIdFor(userId, matchId));
+    const result = await db.runTransaction(async tx => {
+      const doc = await tx.get(ref);
+      if (!doc.exists) return { error: [404, 'no_prediction', 'Прогноза на этот матч нет'] };
+
+      const found = findMatch(matchId);
+      if (!found) return { error: [400, 'unknown_match', 'Матч не найден'] };
+      if (hasStarted(found.match)) return { error: [400, 'match_started', 'Матч уже начался'] };
+
+      const data = doc.data();
+      const round = data.round ?? roundNumber(found.match.round);
+      const league = data.league || found.leagueName;
+      const patch = { joker: on };
+      if (data.round === undefined || data.round === null) patch.round = round;
+
+      // Другой джокер того же тура: читаем до любых записей (требование транзакции)
+      let others = [];
+      if (on && round !== null) {
+        const snapshot = await tx.get(db.collection('predictions')
+          .where('userId', '==', userId).where('league', '==', league)
+          .where('round', '==', round).where('joker', '==', true));
+        others = snapshot.docs.filter(d => d.id !== doc.id);
+      }
+      for (const other of others) {
+        const otherMatch = findMatch(other.data().matchId);
+        if (otherMatch && hasStarted(otherMatch.match)) {
+          return { error: [400, 'joker_used', 'Джокер этого тура уже сыгран'] };
+        }
+      }
+      others.forEach(other => tx.update(other.ref, { joker: false }));
+      tx.update(ref, patch);
+      return { joker: on };
+    });
+
+    if (result.error) return fail(...result.error);
+    logUserAction(userId, on ? 'Джокер включён' : 'Джокер выключен', { matchId });
+    res.json({ success: true, matchId, joker: result.joker });
+  } catch (error) {
+    log(LOG_LEVELS.ERROR, `Ошибка джокера: ${error.message}`, { userId: req.user.uid, error: error.stack });
+    fail(500, 'server_error', 'Не удалось изменить джокер');
   }
 });
 
@@ -771,6 +883,9 @@ registerGroupRoutes(app, {
   getDb: () => db,
   requireAuth,
   limiter: globalLimiter,
+  chatLimiter,
+  findMatch,
+  hasStarted: match => hasStarted(match),
   getOverallLeaderboard: overallLeaderboard,
   log: (level, message) => log(LOG_LEVELS[level] || LOG_LEVELS.ERROR, message),
 });
@@ -803,7 +918,8 @@ app.get('/api/user-stats/:userId', globalLimiter, requireAuth, requireSelf, asyn
     predictionsSnapshot.docs.forEach(doc => {
       const data = doc.data();
 
-      if (data.processed && data.points === 3) {
+      // Точный счёт: по сравнению с итогом, а не по 3 очкам (джокер удваивает очки)
+      if (data.processed && data.homeScore === data.actualHomeScore && data.awayScore === data.actualAwayScore) {
         exactScorePredictions++;
       }
       if (data.processed && data.points > 0) {
@@ -892,7 +1008,7 @@ async function recalculatePoints({ apply }) {
     const actual = results[data.matchId];
 
     if (actual) {
-      const correct = calculatePoints(data.homeScore, data.awayScore, actual.home, actual.away);
+      const correct = scorePrediction(data.homeScore, data.awayScore, actual.home, actual.away, data.joker === true);
       if (!processed || points !== correct || data.actualHomeScore !== actual.home || data.actualAwayScore !== actual.away) {
         predictionFixes.push({
           id: doc.id,
@@ -1177,6 +1293,11 @@ if (BACKGROUND_JOBS && SYNC_ENABLED) {
   setTimeout(runScheduleSync, 5000);
 }
 
+if (BACKGROUND_JOBS && LIVE_ENABLED) {
+  liveScores.start();
+  setTimeout(() => liveScores.pollOnce().catch(() => {}), 15000);
+}
+
 if (BACKGROUND_JOBS) {
   cron.schedule('*/5 * * * *', () => {
     log(LOG_LEVELS.INFO, '⏰ Запуск плановой проверки...');
@@ -1194,12 +1315,14 @@ app.listen(PORT, process.env.HOST, () => {
   console.log(`\n🚀 Server running on http://localhost:${PORT}`);
   console.log('📋 Доступные эндпоинты:\n');
   console.log('  📊 MATCHES:');
-  console.log('  GET /api/matches/:league - Получить матчи лиги');
+  console.log('  GET /api/matches/:league - Получить матчи лиги (поле live — живой счёт, если матч идёт)');
+  console.log('  GET /api/matches/insights/:matchId - Статистика прогнозов на матч');
   console.log('');
   console.log('  🎯 PREDICTIONS:');
   console.log('  GET /api/predictions/:userId - Прогнозы пользователя');
   console.log('  POST /api/predictions - Создать прогноз');
   console.log('  POST /api/predictions/batch - Создать до 20 прогнозов за раз');
+  console.log('  POST /api/predictions/joker - Джокер (двойные очки) на матч: {matchId, on}');
   console.log('');
   console.log('  🏆 LEADERBOARD:');
   console.log('  GET /api/leaderboard - Таблица лидеров');
@@ -1212,6 +1335,10 @@ app.listen(PORT, process.env.HOST, () => {
   console.log('  👥 GROUPS (лиги друзей):');
   console.log('  GET /api/groups, POST /api/groups, POST /api/groups/join');
   console.log('  GET /api/groups/:id/leaderboard, POST /api/groups/:id/leave');
+  console.log('  PUT /api/groups/:id/scoring - Правила очков лиги (владелец)');
+  console.log('  GET /api/groups/:id/match/:matchId - Прогнозы друзей на матч');
+  console.log('  GET|POST /api/groups/:id/messages, DELETE /api/groups/:id/messages/:msgId - Чат лиги');
+  console.log('  POST /api/groups/:id/messages/:msgId/report - Жалоба на сообщение');
   console.log('');
   console.log('  🔧 UTILITY:');
   console.log('  GET /api/health - Проверка доступности (для пинга)');
@@ -1225,6 +1352,9 @@ app.listen(PORT, process.env.HOST, () => {
   console.log(SYNC_ENABLED
     ? '  - Синхронизация календаря и результатов: каждые 30 минут'
     : '  - Синхронизация календаря и результатов: отключена (SYNC_ENABLED=false)');
+  console.log(LIVE_ENABLED
+    ? '  - Живой счёт (ESPN): каждые 2 минуты, только лиги с матчем в ближайшем окне'
+    : '  - Живой счёт: отключён (LIVE_ENABLED=false)');
   console.log('  - CSV перечитываются при изменении файлов');
   console.log('');
   console.log('📁 Логи сохраняются в logs/app.log');

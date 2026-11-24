@@ -42,3 +42,12 @@ test('рейтинг лиги: только участники, места за�
   ]);
   assert.ok(!rows.some(r => r.userId === 'x'));
 });
+
+test('текст сообщения чата: 1..500 символов после обрезки пробелов', () => {
+  const { cleanMessage } = require('./groups');
+  assert.strictEqual(cleanMessage('  hola  '), 'hola');
+  assert.strictEqual(cleanMessage('   '), null);
+  assert.strictEqual(cleanMessage(5), null);
+  assert.strictEqual(cleanMessage('x'.repeat(500)).length, 500);
+  assert.strictEqual(cleanMessage('x'.repeat(501)), null);
+});
