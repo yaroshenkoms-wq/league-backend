@@ -153,3 +153,8 @@ test('новые лиги: ID матча и часовой пояс', () => {
   assert.strictEqual(kickoffTime('Sat 10 Jan 2026 20:00', 'Primeira Liga').toISOString(), '2026-01-10T20:00:00.000Z');
   assert.strictEqual(kickoffTime('Sat 10 Jan 2026 20:00', 'Süper Lig').toISOString(), '2026-01-10T17:00:00.000Z');
 });
+
+test('названия с буквами без разложения (ø, æ, ß) совпадают с написанием без них', () => {
+  assert.strictEqual(teamMatchScore('Bodø/Glimt', 'Bodo/Glimt'), 2);
+  assert.strictEqual(teamMatchScore('Brøndby', 'Brondby'), 2);
+});

@@ -52,6 +52,8 @@ function normalizeTeam(name) {
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
+    // Буквы без разложения на основу и знак ("Bodø/Glimt" в одном источнике, "Bodo/Glimt" в другом)
+    .replace(/ø/g, 'o').replace(/æ/g, 'ae').replace(/ß/g, 'ss').replace(/ł/g, 'l').replace(/đ/g, 'd')
     .replace(/&/g, ' and ')
     .replace(/[^a-z0-9]+/g, ' ')
     .trim();
