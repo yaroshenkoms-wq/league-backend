@@ -9,6 +9,7 @@ const crypto = require('crypto');
 const rateLimit = require('express-rate-limit');
 const { makeMatchId, hasStarted, kickoffTime, isTimeTbd } = require('./matchUtils');
 const { syncAll } = require('./syncSchedule');
+const { registerGroupRoutes, leaveAllGroups } = require('./groups');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -750,6 +751,24 @@ app.get('/api/leaderboard', globalLimiter, async (req, res) => {
   }
 });
 
+// Общий рейтинг с тем же кешем, что у /api/leaderboard
+async function overallLeaderboard() {
+  const cached = leaderboardCache.get('Overall');
+  if (cached && cached.expires > Date.now()) return cached.leaderboard;
+  const leaderboard = await buildLeaderboard('Overall');
+  leaderboardCache.set('Overall', { leaderboard, expires: Date.now() + LEADERBOARD_TTL_MS });
+  return leaderboard;
+}
+
+// ============ ЛИГИ ДРУЗЕЙ ============
+registerGroupRoutes(app, {
+  getDb: () => db,
+  requireAuth,
+  limiter: globalLimiter,
+  getOverallLeaderboard: overallLeaderboard,
+  log: (level, message) => log(LOG_LEVELS[level] || LOG_LEVELS.ERROR, message),
+});
+
 // ============ СТАТИСТИКА ПОЛЬЗОВАТЕЛЯ ============
 
 app.get('/api/user-stats/:userId', globalLimiter, requireAuth, requireSelf, async (req, res) => {
@@ -1005,6 +1024,7 @@ app.delete('/api/account', globalLimiter, requireAuth, async (req, res) => {
     }
 
     const predictions = await deletePredictionsOf(userId);
+    await leaveAllGroups(db, userId);
     await db.collection('users').doc(userId).delete();
 
     try {
@@ -1182,6 +1202,10 @@ app.listen(PORT, process.env.HOST, () => {
   console.log('  GET /api/user-stats/:userId - Статистика');
   console.log('  PUT /api/users/:userId - Обновить данные');
   console.log('  DELETE /api/account - Удалить аккаунт и все данные');
+  console.log('');
+  console.log('  👥 GROUPS (лиги друзей):');
+  console.log('  GET /api/groups, POST /api/groups, POST /api/groups/join');
+  console.log('  GET /api/groups/:id/leaderboard, POST /api/groups/:id/leave');
   console.log('');
   console.log('  🔧 UTILITY:');
   console.log('  GET /api/health - Проверка доступности (для пинга)');
